@@ -1,46 +1,126 @@
 schema_version: 1
 
-product_id:
-slug:
+product_id: hot_pressed_mustard_oil
+slug: hot-pressed-mustard-oil
 
 name:
-bn:
-en:
+  bn: গরম চাপা সরিষার তেল
+  en: Hot Pressed Mustard Oil
 
-category:
-subcategory:
+category: oil
+subcategory: ''
 
 status: active
 visibility: public
 
 origin:
-region:
-country: Bangladesh
+  region: ''
+  country: Bangladesh
 
 availability:
-seasonal: false
+  seasonal: false
 
 pricing:
-currency: BDT
+  currency: BDT
+
+  updated_at: '2026-06-09'
+  note: Subject to seasonal change.
+  variants:
+  - label: 250g
+    size_gm: 250
+    price: 0
+    in_stock: true
+  - label: 500g
+    size_gm: 500
+    price: 0
+    in_stock: true
+  - label: 1kg
+    size_gm: 1000
+    price: 0
+    in_stock: true
 
 languages_supported:
 - bn
 - en
 - banglish
 
-aliases: []
+aliases:
+- chapa sorishar tel
+- chapa tel
+- grm chapa sorishar tel
+- grm chapa tel
+- grm sorishar tel
+- grm tel
+- hot mustard oil
+- hot oil
+- hot pressed mustard oil
+- hot pressed oil
+- mustard oil
+- pressed mustard oil
+- pressed oil
+- sorishar tel
+- গরম চাপা তেল
+- গরম চাপা সরিষার তেল
+- গরম তেল
+- গরম সরিষার তেল
+- চাপা তেল
+- চাপা সরিষার তেল
+- সরিষার তেল
+tags:
+- chapa sorishar
+- chapa tel
+- grm chapa
+- grm sorishar
+- grm tel
+- hot
+- hot mustard
+- hot oil
+- hot pressed
+- mustard
+- mustard oil
+- oil
+- pressed
+- pressed mustard
+- pressed oil
+- sorishar tel
+- গরম
+- গরম চাপা
+- গরম তেল
+- গরম সরিষার
+- চাপা
+- চাপা তেল
+- চাপা সরিষার
+- তেল
+- সরিষার
+- সরিষার তেল
 
-tags: []
-
-embedding_context: ""
+embedding_context: ''
 
 retrieval:
-priority: 0.90
-business_critical: true
-boost_terms: []
+  priority: 0.9
+  business_critical: true
+  boost_terms:
+  - chapa sorishar tel
+  - grm chapa sorishar tel
+  - hot mustard oil
+  - hot oil
+  - hot pressed mustard oil
+  - hot pressed oil
+  - mustard oil
+  - oil
+  - pressed mustard oil
+  - pressed oil
+  - sorishar tel
+  - গরম চাপা তেল
+  - গরম চাপা সরিষার তেল
+  - গরম তেল
+  - গরম সরিষার তেল
+  - চাপা তেল
+  - চাপা সরিষার তেল
+  - সরিষার তেল
 
 content_defaults:
-primary_language: bn
-fallback_language: en
+  primary_language: bn
+  fallback_language: en
 
-updated_at:
+updated_at: '2026-06-09'

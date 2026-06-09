@@ -1,46 +1,113 @@
 schema_version: 1
 
-product_id:
-slug:
+product_id: pabnar_pure_gawa_ghee
+slug: pabnar-pure-gawa-ghee
 
 name:
-bn:
-en:
+  bn: পাবনার খাঁটি গাওয়া ঘি
+  en: Pabnar Pure Gawa Ghee
 
-category:
-subcategory:
+category: ghee
+subcategory: ''
 
 status: active
 visibility: public
 
 origin:
-region:
-country: Bangladesh
+  region: ''
+  country: Bangladesh
 
 availability:
-seasonal: false
+  seasonal: false
 
 pricing:
-currency: BDT
+  currency: BDT
+
+  updated_at: '2026-06-09'
+  note: Subject to seasonal change.
+  variants:
+  - label: 250g
+    size_gm: 250
+    price: 0
+    in_stock: true
+  - label: 500g
+    size_gm: 500
+    price: 0
+    in_stock: true
+  - label: 1kg
+    size_gm: 1000
+    price: 0
+    in_stock: true
 
 languages_supported:
 - bn
 - en
 - banglish
 
-aliases: []
+aliases:
+- gaoj়a ghee
+- gawa ghee
+- khanti gaoj়a ghee
+- khanti ghee
+- pabnar gaoj়a ghee
+- pabnar gawa ghee
+- pabnar ghee
+- pabnar khanti gaoj়a ghee
+- pabnar khanti ghee
+- pabnar pure gawa ghee
+- খাঁটি গাওয়া ঘি
+- খাঁটি ঘি
+- গাওয়া ঘি
+- পাবনার খাঁটি গাওয়া ঘি
+- পাবনার খাঁটি ঘি
+- পাবনার গাওয়া ঘি
+- পাবনার ঘি
+tags:
+- gaoj়a ghee
+- gawa
+- gawa ghee
+- ghee
+- khanti gaoj়a
+- khanti ghee
+- pabnar
+- pabnar gaoj়a
+- pabnar gawa
+- pabnar ghee
+- pabnar khanti
+- খাঁটি
+- খাঁটি গাওয়া
+- খাঁটি ঘি
+- গাওয়া
+- গাওয়া ঘি
+- ঘি
+- পাবনার
+- পাবনার খাঁটি
+- পাবনার গাওয়া
+- পাবনার ঘি
 
-tags: []
-
-embedding_context: ""
+embedding_context: ''
 
 retrieval:
-priority: 0.90
-business_critical: true
-boost_terms: []
+  priority: 0.9
+  business_critical: true
+  boost_terms:
+  - gaoj়a ghee
+  - gawa ghee
+  - ghee
+  - khanti gaoj়a ghee
+  - pabnar gawa ghee
+  - pabnar ghee
+  - pabnar khanti gaoj়a ghee
+  - খাঁটি গাওয়া ঘি
+  - খাঁটি ঘি
+  - গাওয়া ঘি
+  - পাবনার খাঁটি গাওয়া ঘি
+  - পাবনার খাঁটি ঘি
+  - পাবনার গাওয়া ঘি
+  - পাবনার ঘি
 
 content_defaults:
-primary_language: bn
-fallback_language: en
+  primary_language: bn
+  fallback_language: en
 
-updated_at:
+updated_at: '2026-06-09'

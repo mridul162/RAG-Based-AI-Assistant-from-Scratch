@@ -1,46 +1,115 @@
 schema_version: 1
 
-product_id:
-slug:
+product_id: sundarbans_raw_comb_honey
+slug: sundarbans-raw-comb-honey
 
 name:
-bn:
-en:
+  bn: সুন্দরবনের কাঁচা চিরুনি মধু
+  en: Sundarbans Raw Comb Honey
 
-category:
-subcategory:
+category: honey
+subcategory: ''
 
 status: active
 visibility: public
 
 origin:
-region:
-country: Bangladesh
+  region: ''
+  country: Bangladesh
 
 availability:
-seasonal: false
+  seasonal: false
 
 pricing:
-currency: BDT
+  currency: BDT
+
+  updated_at: '2026-06-09'
+  note: Subject to seasonal change.
+  variants:
+  - label: 250g
+    size_gm: 250
+    price: 0
+    in_stock: true
+  - label: 500g
+    size_gm: 500
+    price: 0
+    in_stock: true
+  - label: 1kg
+    size_gm: 1000
+    price: 0
+    in_stock: true
 
 languages_supported:
 - bn
 - en
 - banglish
 
-aliases: []
+aliases:
+- chiruni modhu
+- comb honey
+- kancha chiruni modhu
+- kancha modhu
+- sundarbans comb honey
+- sundarbans honey
+- sundarbans raw comb honey
+- sundarboner chiruni modhu
+- sundarboner kancha chiruni modhu
+- sundarboner kancha modhu
+- sundarboner modhu
+- কাঁচা চিরুনি মধু
+- কাঁচা মধু
+- চিরুনি মধু
+- সুন্দরবনের কাঁচা চিরুনি মধু
+- সুন্দরবনের কাঁচা মধু
+- সুন্দরবনের চিরুনি মধু
+- সুন্দরবনের মধু
+tags:
+- chiruni modhu
+- comb
+- comb honey
+- honey
+- kancha chiruni
+- kancha modhu
+- sundarbans
+- sundarbans comb
+- sundarbans honey
+- sundarboner chiruni
+- sundarboner kancha
+- sundarboner modhu
+- কাঁচা
+- কাঁচা চিরুনি
+- কাঁচা মধু
+- চিরুনি
+- চিরুনি মধু
+- মধু
+- সুন্দরবনের কাঁচা
+- সুন্দরবনের চিরুনি
+- সুন্দরবনের মধু
 
-tags: []
-
-embedding_context: ""
+embedding_context: ''
 
 retrieval:
-priority: 0.90
-business_critical: true
-boost_terms: []
+  priority: 0.9
+  business_critical: true
+  boost_terms:
+  - chiruni modhu
+  - comb honey
+  - honey
+  - kancha chiruni modhu
+  - sundarbans comb honey
+  - sundarbans honey
+  - sundarbans raw comb honey
+  - sundarboner kancha chiruni modhu
+  - কাঁচা চিরুনি মধু
+  - কাঁচা মধু
+  - চিরুনি মধু
+  - সুন্দরবনের কাঁচা চিরুনি মধু
+  - সুন্দরবনের কাঁচা মধু
+  - সুন্দরবনের চিরুনি মধু
+  - সুন্দরবনের মধু
 
 content_defaults:
-primary_language: bn
-fallback_language: en
+  primary_language: bn
+  fallback_language: en
 
-updated_at:
+updated_at: '2026-06-09'

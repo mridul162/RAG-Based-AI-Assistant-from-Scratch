@@ -1,46 +1,274 @@
 schema_version: 1
 
-product_id:
-slug:
+product_id: first_cold_pressed_deshi_mustard_oil
+slug: first-cold-pressed-deshi-mustard-oil
 
 name:
-bn:
-en:
+  bn: প্রথমে ঠাণ্ডা চাপা দেশি সরিষার তেল
+  en: First Cold Pressed Deshi Mustard Oil
 
-category:
-subcategory:
+category: oil
+subcategory: ''
 
 status: active
 visibility: public
 
 origin:
-region:
-country: Bangladesh
+  region: ''
+  country: Bangladesh
 
 availability:
-seasonal: false
+  seasonal: false
 
 pricing:
-currency: BDT
+  currency: BDT
+
+  updated_at: '2026-06-09'
+  note: Subject to seasonal change.
+  variants:
+  - label: 250g
+    size_gm: 250
+    price: 0
+    in_stock: true
+  - label: 500g
+    size_gm: 500
+    price: 0
+    in_stock: true
+  - label: 1kg
+    size_gm: 1000
+    price: 0
+    in_stock: true
 
 languages_supported:
 - bn
 - en
 - banglish
 
-aliases: []
+aliases:
+- chapa deshi sorishar tel
+- chapa deshi tel
+- chapa sorishar tel
+- chapa tel
+- cold deshi mustard oil
+- cold deshi oil
+- cold mustard oil
+- cold oil
+- cold pressed deshi mustard oil
+- cold pressed deshi oil
+- cold pressed mustard oil
+- cold pressed oil
+- deshi mustard oil
+- deshi oil
+- deshi sorishar tel
+- deshi tel
+- first cold deshi mustard oil
+- first cold deshi oil
+- first cold mustard oil
+- first cold oil
+- first cold pressed deshi oil
+- first cold pressed mustard oil
+- first cold pressed oil
+- first deshi mustard oil
+- first deshi oil
+- first mustard oil
+- first oil
+- first pressed deshi mustard oil
+- first pressed deshi oil
+- first pressed mustard oil
+- first pressed oil
+- mustard oil
+- pressed deshi mustard oil
+- pressed deshi oil
+- pressed mustard oil
+- pressed oil
+- p্rthme chapa deshi sorishar tel
+- p্rthme chapa deshi tel
+- p্rthme chapa sorishar tel
+- p্rthme chapa tel
+- p্rthme deshi sorishar tel
+- p্rthme deshi tel
+- p্rthme sorishar tel
+- p্rthme tel
+- p্rthme thaণ্da chapa deshi tel
+- p্rthme thaণ্da chapa sorishar tel
+- p্rthme thaণ্da chapa tel
+- p্rthme thaণ্da deshi sorishar tel
+- p্rthme thaণ্da deshi tel
+- p্rthme thaণ্da sorishar tel
+- p্rthme thaণ্da tel
+- sorishar tel
+- thaণ্da chapa deshi sorishar tel
+- thaণ্da chapa deshi tel
+- thaণ্da chapa sorishar tel
+- thaণ্da chapa tel
+- thaণ্da deshi sorishar tel
+- thaণ্da deshi tel
+- thaণ্da sorishar tel
+- thaণ্da tel
+- চাপা তেল
+- চাপা দেশি তেল
+- চাপা দেশি সরিষার তেল
+- চাপা সরিষার তেল
+- ঠাণ্ডা চাপা তেল
+- ঠাণ্ডা চাপা দেশি তেল
+- ঠাণ্ডা চাপা দেশি সরিষার তেল
+- ঠাণ্ডা চাপা সরিষার তেল
+- ঠাণ্ডা তেল
+- ঠাণ্ডা দেশি তেল
+- ঠাণ্ডা দেশি সরিষার তেল
+- ঠাণ্ডা সরিষার তেল
+- দেশি তেল
+- দেশি সরিষার তেল
+- প্রথমে চাপা তেল
+- প্রথমে চাপা দেশি তেল
+- প্রথমে চাপা দেশি সরিষার তেল
+- প্রথমে চাপা সরিষার তেল
+- প্রথমে ঠাণ্ডা চাপা তেল
+- প্রথমে ঠাণ্ডা চাপা দেশি তেল
+- প্রথমে ঠাণ্ডা চাপা সরিষার তেল
+- প্রথমে ঠাণ্ডা তেল
+- প্রথমে ঠাণ্ডা দেশি তেল
+- প্রথমে ঠাণ্ডা দেশি সরিষার তেল
+- প্রথমে ঠাণ্ডা সরিষার তেল
+- প্রথমে তেল
+- প্রথমে দেশি তেল
+- প্রথমে দেশি সরিষার তেল
+- প্রথমে সরিষার তেল
+- সরিষার তেল
+tags:
+- chapa deshi
+- chapa sorishar
+- chapa tel
+- cold
+- cold deshi
+- cold mustard
+- cold oil
+- cold pressed
+- deshi
+- deshi mustard
+- deshi oil
+- deshi sorishar
+- deshi tel
+- first
+- first cold
+- first deshi
+- first mustard
+- first oil
+- first pressed
+- mustard
+- mustard oil
+- oil
+- pressed
+- pressed deshi
+- pressed mustard
+- pressed oil
+- p্rthme chapa
+- p্rthme deshi
+- p্rthme sorishar
+- p্rthme tel
+- p্rthme thaণ্da
+- sorishar tel
+- thaণ্da chapa
+- thaণ্da deshi
+- thaণ্da sorishar
+- thaণ্da tel
+- চাপা
+- চাপা তেল
+- চাপা দেশি
+- চাপা সরিষার
+- ঠাণ্ডা
+- ঠাণ্ডা চাপা
+- ঠাণ্ডা তেল
+- ঠাণ্ডা দেশি
+- ঠাণ্ডা সরিষার
+- তেল
+- দেশি
+- দেশি তেল
+- দেশি সরিষার
+- প্রথমে
+- প্রথমে চাপা
+- প্রথমে ঠাণ্ডা
+- প্রথমে তেল
+- প্রথমে দেশি
+- প্রথমে সরিষার
+- সরিষার
+- সরিষার তেল
 
-tags: []
-
-embedding_context: ""
+embedding_context: ''
 
 retrieval:
-priority: 0.90
-business_critical: true
-boost_terms: []
+  priority: 0.9
+  business_critical: true
+  boost_terms:
+  - cold deshi mustard oil
+  - cold deshi oil
+  - cold mustard oil
+  - cold oil
+  - cold pressed deshi mustard oil
+  - cold pressed deshi oil
+  - cold pressed mustard oil
+  - cold pressed oil
+  - deshi mustard oil
+  - deshi oil
+  - deshi sorishar tel
+  - first cold deshi mustard oil
+  - first cold deshi oil
+  - first cold mustard oil
+  - first cold oil
+  - first cold pressed deshi mustard oil
+  - first cold pressed deshi oil
+  - first cold pressed mustard oil
+  - first cold pressed oil
+  - first deshi mustard oil
+  - first deshi oil
+  - first mustard oil
+  - first oil
+  - first pressed deshi mustard oil
+  - first pressed deshi oil
+  - first pressed mustard oil
+  - first pressed oil
+  - mustard oil
+  - oil
+  - pressed deshi mustard oil
+  - pressed deshi oil
+  - pressed mustard oil
+  - pressed oil
+  - p্rthme thaণ্da chapa deshi sorishar tel
+  - sorishar tel
+  - চাপা তেল
+  - চাপা দেশি তেল
+  - চাপা দেশি সরিষার তেল
+  - চাপা সরিষার তেল
+  - ঠাণ্ডা চাপা তেল
+  - ঠাণ্ডা চাপা দেশি তেল
+  - ঠাণ্ডা চাপা দেশি সরিষার তেল
+  - ঠাণ্ডা চাপা সরিষার তেল
+  - ঠাণ্ডা তেল
+  - ঠাণ্ডা দেশি তেল
+  - ঠাণ্ডা দেশি সরিষার তেল
+  - ঠাণ্ডা সরিষার তেল
+  - দেশি তেল
+  - দেশি সরিষার তেল
+  - প্রথমে চাপা তেল
+  - প্রথমে চাপা দেশি তেল
+  - প্রথমে চাপা দেশি সরিষার তেল
+  - প্রথমে চাপা সরিষার তেল
+  - প্রথমে ঠাণ্ডা চাপা তেল
+  - প্রথমে ঠাণ্ডা চাপা দেশি তেল
+  - প্রথমে ঠাণ্ডা চাপা দেশি সরিষার তেল
+  - প্রথমে ঠাণ্ডা চাপা সরিষার তেল
+  - প্রথমে ঠাণ্ডা তেল
+  - প্রথমে ঠাণ্ডা দেশি তেল
+  - প্রথমে ঠাণ্ডা দেশি সরিষার তেল
+  - প্রথমে ঠাণ্ডা সরিষার তেল
+  - প্রথমে তেল
+  - প্রথমে দেশি তেল
+  - প্রথমে দেশি সরিষার তেল
+  - প্রথমে সরিষার তেল
+  - সরিষার তেল
 
 content_defaults:
-primary_language: bn
-fallback_language: en
+  primary_language: bn
+  fallback_language: en
 
-updated_at:
+updated_at: '2026-06-09'

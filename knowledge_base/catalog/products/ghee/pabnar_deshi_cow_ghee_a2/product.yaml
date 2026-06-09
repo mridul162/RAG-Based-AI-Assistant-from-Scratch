@@ -1,46 +1,165 @@
 schema_version: 1
 
-product_id:
-slug:
+product_id: pabnar_deshi_cow_ghee_a2
+slug: pabnar-deshi-cow-ghee-a2
 
 name:
-bn:
-en:
+  bn: পাবনার দেশি গরুর ঘি A2
+  en: Pabnar Deshi Cow Ghee A2
 
-category:
-subcategory:
+category: ghee
+subcategory: ''
 
 status: active
 visibility: public
 
 origin:
-region:
-country: Bangladesh
+  region: ''
+  country: Bangladesh
 
 availability:
-seasonal: false
+  seasonal: false
 
 pricing:
-currency: BDT
+  currency: BDT
+
+  updated_at: '2026-06-09'
+  note: Subject to seasonal change.
+  variants:
+  - label: 250g
+    size_gm: 250
+    price: 0
+    in_stock: true
+  - label: 500g
+    size_gm: 500
+    price: 0
+    in_stock: true
+  - label: 1kg
+    size_gm: 1000
+    price: 0
+    in_stock: true
 
 languages_supported:
 - bn
 - en
 - banglish
 
-aliases: []
+aliases:
+- cow ghee
+- cow ghee a2
+- deshi cow ghee
+- deshi cow ghee a2
+- deshi ghee
+- deshi ghee a2
+- deshi grur ghee
+- deshi grur ghee a2
+- ghee a2
+- grur ghee
+- grur ghee a2
+- pabnar cow ghee
+- pabnar cow ghee a2
+- pabnar deshi cow ghee
+- pabnar deshi cow ghee a2
+- pabnar deshi ghee
+- pabnar deshi ghee a2
+- pabnar deshi grur ghee
+- pabnar deshi grur ghee a2
+- pabnar ghee
+- pabnar ghee a2
+- pabnar grur ghee
+- pabnar grur ghee a2
+- গরুর ঘি
+- গরুর ঘি a2
+- ঘি a2
+- দেশি গরুর ঘি
+- দেশি গরুর ঘি a2
+- দেশি ঘি
+- দেশি ঘি a2
+- পাবনার গরুর ঘি
+- পাবনার গরুর ঘি a2
+- পাবনার ঘি
+- পাবনার ঘি a2
+- পাবনার দেশি গরুর ঘি
+- পাবনার দেশি গরুর ঘি a2
+- পাবনার দেশি ঘি
+- পাবনার দেশি ঘি a2
+tags:
+- a2
+- cow
+- cow a2
+- cow ghee
+- deshi
+- deshi a2
+- deshi cow
+- deshi ghee
+- deshi grur
+- ghee
+- ghee a2
+- grur a2
+- grur ghee
+- pabnar
+- pabnar a2
+- pabnar cow
+- pabnar deshi
+- pabnar ghee
+- pabnar grur
+- গরুর
+- গরুর a2
+- গরুর ঘি
+- ঘি
+- ঘি a2
+- দেশি
+- দেশি a2
+- দেশি গরুর
+- দেশি ঘি
+- পাবনার
+- পাবনার a2
+- পাবনার গরুর
+- পাবনার ঘি
+- পাবনার দেশি
 
-tags: []
-
-embedding_context: ""
+embedding_context: ''
 
 retrieval:
-priority: 0.90
-business_critical: true
-boost_terms: []
+  priority: 0.9
+  business_critical: true
+  boost_terms:
+  - cow ghee
+  - cow ghee a2
+  - deshi cow ghee
+  - deshi cow ghee a2
+  - deshi ghee
+  - deshi ghee a2
+  - ghee
+  - ghee a2
+  - grur ghee a2
+  - pabnar cow ghee
+  - pabnar cow ghee a2
+  - pabnar deshi cow ghee
+  - pabnar deshi cow ghee a2
+  - pabnar deshi ghee
+  - pabnar deshi ghee a2
+  - pabnar deshi grur ghee a2
+  - pabnar ghee
+  - pabnar ghee a2
+  - গরুর ঘি
+  - গরুর ঘি a2
+  - ঘি a2
+  - দেশি গরুর ঘি
+  - দেশি গরুর ঘি a2
+  - দেশি ঘি
+  - দেশি ঘি a2
+  - পাবনার গরুর ঘি
+  - পাবনার গরুর ঘি a2
+  - পাবনার ঘি
+  - পাবনার ঘি a2
+  - পাবনার দেশি গরুর ঘি
+  - পাবনার দেশি গরুর ঘি a2
+  - পাবনার দেশি ঘি
+  - পাবনার দেশি ঘি a2
 
 content_defaults:
-primary_language: bn
-fallback_language: en
+  primary_language: bn
+  fallback_language: en
 
-updated_at:
+updated_at: '2026-06-09'

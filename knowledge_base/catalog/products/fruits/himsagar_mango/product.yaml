@@ -1,27 +1,43 @@
 schema_version: 1
 
-product_id:
-slug:
+product_id: himsagar_mango
+slug: himsagar-mango
 
 name:
-bn:
-en:
+  bn: হিমসাগর আম
+  en: Himsagar Mango
 
-category:
-subcategory:
+category: fruits
+subcategory: ''
 
 status: active
 visibility: public
 
 origin:
-region:
-country: Bangladesh
+  region: ''
+  country: Bangladesh
 
 availability:
-seasonal: false
+  seasonal: false
 
 pricing:
-currency: BDT
+  currency: BDT
+
+  updated_at: '2026-06-09'
+  note: Subject to seasonal change.
+  variants:
+  - label: 250g
+    size_gm: 250
+    price: 0
+    in_stock: true
+  - label: 500g
+    size_gm: 500
+    price: 0
+    in_stock: true
+  - label: 1kg
+    size_gm: 1000
+    price: 0
+    in_stock: true
 
 languages_supported:
 - bn
@@ -29,18 +45,25 @@ languages_supported:
 - banglish
 
 aliases: []
+tags:
+- fruits
+- himsagar
+- himsagar mango
+- himsagr am
+- mango
+- আম
+- হিমসাগর
+- হিমসাগর আম
 
-tags: []
-
-embedding_context: ""
+embedding_context: ''
 
 retrieval:
-priority: 0.90
-business_critical: true
-boost_terms: []
+  priority: 0.9
+  business_critical: true
+  boost_terms: []
 
 content_defaults:
-primary_language: bn
-fallback_language: en
+  primary_language: bn
+  fallback_language: en
 
-updated_at:
+updated_at: '2026-06-09'

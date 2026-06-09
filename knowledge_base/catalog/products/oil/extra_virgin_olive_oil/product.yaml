@@ -1,46 +1,102 @@
 schema_version: 1
 
-product_id:
-slug:
+product_id: extra_virgin_olive_oil
+slug: extra-virgin-olive-oil
 
 name:
-bn:
-en:
+  bn: এক্সট্রা ভার্জিন অলিভ অয়েল
+  en: Extra Virgin Olive Oil
 
-category:
-subcategory:
+category: oil
+subcategory: ''
 
 status: active
 visibility: public
 
 origin:
-region:
-country: Bangladesh
+  region: ''
+  country: Bangladesh
 
 availability:
-seasonal: false
+  seasonal: false
 
 pricing:
-currency: BDT
+  currency: BDT
+
+  updated_at: '2026-06-09'
+  note: Subject to seasonal change.
+  variants:
+  - label: 250g
+    size_gm: 250
+    price: 0
+    in_stock: true
+  - label: 500g
+    size_gm: 500
+    price: 0
+    in_stock: true
+  - label: 1kg
+    size_gm: 1000
+    price: 0
+    in_stock: true
 
 languages_supported:
 - bn
 - en
 - banglish
 
-aliases: []
+aliases:
+- extra oil
+- extra olive oil
+- extra virgin oil
+- extra virgin olive oil
+- olive oil
+- virgin oil
+- virgin olive oil
+tags:
+- bhar্jin oj়el
+- bhar্jin olibh
+- ek্st্ra bhar্jin
+- ek্st্ra oj়el
+- ek্st্ra olibh
+- extra
+- extra oil
+- extra olive
+- extra virgin
+- oil
+- olibh oj়el
+- olive
+- olive oil
+- virgin
+- virgin oil
+- virgin olive
+- অয়েল
+- অলিভ
+- অলিভ অয়েল
+- এক্সট্রা
+- এক্সট্রা অয়েল
+- এক্সট্রা অলিভ
+- এক্সট্রা ভার্জিন
+- ভার্জিন
+- ভার্জিন অয়েল
+- ভার্জিন অলিভ
 
-tags: []
-
-embedding_context: ""
+embedding_context: ''
 
 retrieval:
-priority: 0.90
-business_critical: true
-boost_terms: []
+  priority: 0.9
+  business_critical: true
+  boost_terms:
+  - extra oil
+  - extra olive oil
+  - extra virgin oil
+  - extra virgin olive oil
+  - oil
+  - olive oil
+  - virgin oil
+  - virgin olive oil
 
 content_defaults:
-primary_language: bn
-fallback_language: en
+  primary_language: bn
+  fallback_language: en
 
-updated_at:
+updated_at: '2026-06-09'

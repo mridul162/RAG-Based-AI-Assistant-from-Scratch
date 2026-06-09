@@ -1,1 +1,117 @@
-# FAQ
+```markdown
+# FAQ — Sundarbans Kholisha Flower Honey
+
+*We want your family to feel confident about every product you order from Hasanah Mart. Here are honest answers to the questions we hear most often.*
+
+<section id="faq">
+
+## Frequently Asked Questions
+
+---
+
+### Authenticity & Sourcing
+
+**Q1. How do I know this honey is genuinely from the Sundarbans?**
+
+Authentic Sundarbans honey is collected by licensed Mouwali communities who enter the forest under seasonal permits from the Bangladesh Forest Department. At Hasanah Mart, we source from suppliers who can trace their honey back to specific collector groups in the Sundarbans region. If you ever have questions about the source of a particular batch, you are welcome to ask us directly — we will tell you what we know honestly, not just what sounds good.
+
+---
+
+**Q2. Is Kholisha honey the same as general Sundarbans honey?**
+
+Not exactly. "Sundarbans honey" is a broad term that can include honey from several different flowering plants in the forest — Keora, Goran, Bain, and others. Kholisha honey specifically refers to honey collected when the Kholisha plant (*Aegiceras corniculatum*) is in bloom, between February and April. It has a milder, more delicate flavour than some other Sundarbans varieties. Some sellers use the two terms interchangeably, which is not accurate.
+
+---
+
+**Q3. Is this honey raw?**
+
+Yes. The honey we sell is strained through cloth to remove wax and debris, but it is not heated or pasteurised. This means it retains naturally occurring enzymes and pollen that are destroyed when honey is heat-treated. Because it is raw, it will crystallise naturally over time — that is completely normal and is actually a good sign.
+
+---
+
+**Q4. Does this honey have any certification?**
+
+As of 2026, there is no active GI (Geographical Indication) certification for Sundarbans honey in Bangladesh. BSTI certification confirms a basic quality standard but does not verify geographic origin or floral source. We are transparent about this. What we offer instead is traceable sourcing and honest product information — which is more useful to your family than a label alone.
+
+---
+
+**Q5. Why is the price higher than honey at my local shop?**
+
+Collecting authentic Sundarbans honey involves real costs: Forest Department permits, dangerous manual collection deep inside a protected mangrove forest, limited seasonal yield, and transport from a remote area. Cheap honey at local shops is almost always farmed, heat-treated, or mixed with sugar syrup. Our honey costs more because it is the real thing — and we price it as fairly as we can within that reality.
+
+**Our current prices:** 250g for ৳320 · 500g for ৳600 · 1kg for ৳1,100.
+
+---
+
+### Storage & Shelf Life
+
+**Q6. How should I store this honey at home?**
+
+Keep it in a tightly sealed glass or food-grade plastic container, in a cool dry place away from direct sunlight. A kitchen shelf or cupboard works well. Do not refrigerate — cold temperatures speed up crystallisation and can introduce moisture if you open and close the jar frequently, which raises the risk of fermentation over time.
+
+---
+
+**Q7. My honey has turned solid and grainy. Is it spoiled?**
+
+No, it has crystallised — which is completely natural for raw honey. It is not spoiled and is perfectly safe to eat. Crystallisation happens because the glucose in honey solidifies over time, especially in cooler weather. Kholisha honey tends to crystallise more slowly than many other varieties due to its natural sugar composition, but it will happen eventually.
+
+To return it to liquid form, place the sealed jar in a bowl of warm water (not boiling — keep the temperature under 40°C) for 15–20 minutes. Do not use a microwave.
+
+---
+
+**Q8. How long will this honey last?**
+
+Raw honey stored properly has an exceptionally long shelf life. For best flavour and quality, we recommend consuming within 2 years of harvest. The key factor is moisture — honey with a moisture content above 20% can ferment. If your honey ever smells sour, fizzy, or alcoholic, do not consume it. Otherwise, stored correctly, it keeps very well.
+
+---
+
+**Q9. Can I store honey in a metal container?**
+
+Avoid reactive metals like iron or copper, as honey's mild natural acidity can cause leaching over time. Stainless steel is acceptable for short-term storage. Glass is the best option for both storing and buying honey, which is why we recommend keeping it in the jar it arrives in.
+
+---
+
+### Health & Usage
+
+**Q10. What are the health benefits of this honey?**
+
+Raw honey naturally contains enzymes, trace minerals, pollen, and compounds with mild antimicrobial properties. These are present in Kholisha honey as they are in other quality raw honeys.
+
+We will be straightforward with you: honey is a food, not a medicine. We will not make specific health claims we cannot verify. What we can honestly say is that your family is getting a clean, natural, minimally processed food — with no added sugar, no preservatives, and no artificial ingredients.
+
+---
+
+**Q11. Can someone with diabetes eat this honey?**
+
+Honey raises blood glucose. While raw honey has a slightly lower glycaemic index than refined sugar, it is still predominantly sugar and is not safe to consume freely if you or a family member has diabetes or prediabetes. Please consult your doctor before adding honey to the diet of anyone managing blood sugar levels. Do not substitute honey for medical treatment.
+
+---
+
+**Q12. Is this honey safe for babies and young children?**
+
+Honey is **not safe for children under 12 months of age** — this applies to all honey, regardless of type or origin. Raw honey can contain *Clostridium botulinum* spores, which are harmless to older children and adults but can cause a serious illness called infant botulism in babies whose digestive systems are not yet mature. This is a firm medical guideline. Please do not give honey to infants under 1 year old.
+
+For children over 1 year and adults, honey is safe to consume in normal food quantities.
+
+---
+
+**Q13. Can I use this honey in cooking or add it to hot tea?**
+
+Yes, you can. However, heating raw honey above approximately 40°C breaks down its naturally occurring enzymes. If you are choosing raw honey specifically for its unprocessed quality, the best approach is to add it to your tea or food after it has cooled to warm — not while it is still boiling hot. For baking or cooking at high temperatures, the difference between raw and processed honey becomes much less significant.
+
+---
+
+### Ordering & Delivery
+
+**Q14. How will the honey be packaged for delivery?**
+
+We pack our honey securely to prevent leakage during transit. Glass jars are wrapped and cushioned before dispatch. If your order arrives with a broken seal, visible leakage, or any damage, please contact us immediately — we will make it right.
+
+---
+
+**Q15. Is it safe to order honey online if I cannot check it in person?**
+
+It is a fair concern, and we take it seriously. At Hasanah Mart, we only list products we are confident in sourcing. For honey specifically, we work with suppliers who can provide batch-level information on request. Our return and replacement policy means that if a product does not meet your expectations when it arrives, you have recourse — you are not just trusting a label. We encourage first-time buyers to start with the 250g jar to try it before committing to a larger size.
+
+</section>
+```

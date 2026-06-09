@@ -1,46 +1,126 @@
 schema_version: 1
 
-product_id:
-slug:
+product_id: hot_pressed_coconut_oil
+slug: hot-pressed-coconut-oil
 
 name:
-bn:
-en:
+  bn: গরম চাপা নারকেল তেল
+  en: Hot Pressed Coconut Oil
 
-category:
-subcategory:
+category: oil
+subcategory: ''
 
 status: active
 visibility: public
 
 origin:
-region:
-country: Bangladesh
+  region: ''
+  country: Bangladesh
 
 availability:
-seasonal: false
+  seasonal: false
 
 pricing:
-currency: BDT
+  currency: BDT
+
+  updated_at: '2026-06-09'
+  note: Subject to seasonal change.
+  variants:
+  - label: 250g
+    size_gm: 250
+    price: 0
+    in_stock: true
+  - label: 500g
+    size_gm: 500
+    price: 0
+    in_stock: true
+  - label: 1kg
+    size_gm: 1000
+    price: 0
+    in_stock: true
 
 languages_supported:
 - bn
 - en
 - banglish
 
-aliases: []
+aliases:
+- chapa narkel tel
+- chapa tel
+- coconut oil
+- grm chapa narkel tel
+- grm chapa tel
+- grm narkel tel
+- grm tel
+- hot coconut oil
+- hot oil
+- hot pressed coconut oil
+- hot pressed oil
+- narkel tel
+- pressed coconut oil
+- pressed oil
+- গরম চাপা তেল
+- গরম চাপা নারকেল তেল
+- গরম তেল
+- গরম নারকেল তেল
+- চাপা তেল
+- চাপা নারকেল তেল
+- নারকেল তেল
+tags:
+- chapa narkel
+- chapa tel
+- coconut
+- coconut oil
+- grm chapa
+- grm narkel
+- grm tel
+- hot
+- hot coconut
+- hot oil
+- hot pressed
+- narkel tel
+- oil
+- pressed
+- pressed coconut
+- pressed oil
+- গরম
+- গরম চাপা
+- গরম তেল
+- গরম নারকেল
+- চাপা
+- চাপা তেল
+- চাপা নারকেল
+- তেল
+- নারকেল
+- নারকেল তেল
 
-tags: []
-
-embedding_context: ""
+embedding_context: ''
 
 retrieval:
-priority: 0.90
-business_critical: true
-boost_terms: []
+  priority: 0.9
+  business_critical: true
+  boost_terms:
+  - chapa narkel tel
+  - coconut oil
+  - grm chapa narkel tel
+  - hot coconut oil
+  - hot oil
+  - hot pressed coconut oil
+  - hot pressed oil
+  - narkel tel
+  - oil
+  - pressed coconut oil
+  - pressed oil
+  - গরম চাপা তেল
+  - গরম চাপা নারকেল তেল
+  - গরম তেল
+  - গরম নারকেল তেল
+  - চাপা তেল
+  - চাপা নারকেল তেল
+  - নারকেল তেল
 
 content_defaults:
-primary_language: bn
-fallback_language: en
+  primary_language: bn
+  fallback_language: en
 
-updated_at:
+updated_at: '2026-06-09'

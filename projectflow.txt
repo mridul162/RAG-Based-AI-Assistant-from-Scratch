@@ -16,3 +16,51 @@
 
 8. Design canonical KB structure: `scripts/canonical_structure.ps1`
 
+9. Write all the schemas file in knowledge_base\schemas
+
+10. Rename the ingestion folder as artifacts
+
+    artifacts/
+    ├── raw/
+    ├── cleaned/
+    ├── normalized/
+    ├── chunked/
+    ├── embeddings/
+    ├── faiss/
+    └── pipeline_logs/
+
+11. Re-create ingestion folder (with structure given below): `python scripts/ingestion_template.py`
+
+    ingestion/
+    │
+    ├── loaders/
+    ├── parsers/
+    ├── validators/
+    ├── chunkers/
+    ├── embedders/
+    ├── vectorstores/
+    ├── pipelines/
+    ├── models/
+    ├── utils/
+    └── __init__.py
+
+12. Build products knowledge_base
+
+13. Build metadata_enrichment/ to automatically fill up product.yaml files for each products.
+
+    metadata_enrichment/
+    │
+    ├── 01_autofill_metadata.py
+    ├── 02_translate_bn_name.py
+    ├── 03_generate_aliases.py
+    ├── 04_generate_boost_terms.py
+    ├── 05_generate_banglish_aliases.py
+    ├── 06_generate_banglish_boost_terms.py
+    ├── 07_generate_tags.py
+    ├── 08_refine_retrieval_metadata.py
+    ├── 09_add_pricing_schema.py
+    ├── 10_semantic_spacing.py
+    │
+    └── metadata_pipeline.py
+
+14. Fillup product.yaml file: `python metadata_enrichment\metadata_pipeline.py`

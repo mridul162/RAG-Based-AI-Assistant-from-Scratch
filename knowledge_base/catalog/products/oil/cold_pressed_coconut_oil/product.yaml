@@ -1,46 +1,126 @@
 schema_version: 1
 
-product_id:
-slug:
+product_id: cold_pressed_coconut_oil
+slug: cold-pressed-coconut-oil
 
 name:
-bn:
-en:
+  bn: কোল্ড প্রেসড নারকেল তেল
+  en: Cold Pressed Coconut Oil
 
-category:
-subcategory:
+category: oil
+subcategory: ''
 
 status: active
 visibility: public
 
 origin:
-region:
-country: Bangladesh
+  region: ''
+  country: Bangladesh
 
 availability:
-seasonal: false
+  seasonal: false
 
 pricing:
-currency: BDT
+  currency: BDT
+
+  updated_at: '2026-06-09'
+  note: Subject to seasonal change.
+  variants:
+  - label: 250g
+    size_gm: 250
+    price: 0
+    in_stock: true
+  - label: 500g
+    size_gm: 500
+    price: 0
+    in_stock: true
+  - label: 1kg
+    size_gm: 1000
+    price: 0
+    in_stock: true
 
 languages_supported:
 - bn
 - en
 - banglish
 
-aliases: []
+aliases:
+- coconut oil
+- cold coconut oil
+- cold oil
+- cold pressed coconut oil
+- cold pressed oil
+- kol্d narkel tel
+- kol্d p্resd narkel tel
+- kol্d p্resd tel
+- kol্d tel
+- narkel tel
+- pressed coconut oil
+- pressed oil
+- p্resd narkel tel
+- p্resd tel
+- কোল্ড তেল
+- কোল্ড নারকেল তেল
+- কোল্ড প্রেসড তেল
+- কোল্ড প্রেসড নারকেল তেল
+- নারকেল তেল
+- প্রেসড তেল
+- প্রেসড নারকেল তেল
+tags:
+- coconut
+- coconut oil
+- cold
+- cold coconut
+- cold oil
+- cold pressed
+- kol্d narkel
+- kol্d p্resd
+- kol্d tel
+- narkel tel
+- oil
+- pressed
+- pressed coconut
+- pressed oil
+- p্resd narkel
+- p্resd tel
+- কোল্ড
+- কোল্ড তেল
+- কোল্ড নারকেল
+- কোল্ড প্রেসড
+- তেল
+- নারকেল
+- নারকেল তেল
+- প্রেসড
+- প্রেসড তেল
+- প্রেসড নারকেল
 
-tags: []
-
-embedding_context: ""
+embedding_context: ''
 
 retrieval:
-priority: 0.90
-business_critical: true
-boost_terms: []
+  priority: 0.9
+  business_critical: true
+  boost_terms:
+  - coconut oil
+  - cold coconut oil
+  - cold oil
+  - cold pressed coconut oil
+  - cold pressed oil
+  - kol্d p্resd narkel tel
+  - narkel tel
+  - oil
+  - pressed coconut oil
+  - pressed oil
+  - p্resd narkel tel
+  - কোল্ড তেল
+  - কোল্ড নারকেল তেল
+  - কোল্ড প্রেসড তেল
+  - কোল্ড প্রেসড নারকেল তেল
+  - নারকেল তেল
+  - প্রেসড তেল
+  - প্রেসড নারকেল তেল
 
 content_defaults:
-primary_language: bn
-fallback_language: en
+  primary_language: bn
+  fallback_language: en
 
-updated_at:
+updated_at: '2026-06-09'

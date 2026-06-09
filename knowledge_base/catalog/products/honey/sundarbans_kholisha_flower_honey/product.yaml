@@ -1,46 +1,114 @@
 schema_version: 1
 
-product_id:
-slug:
+product_id: sundarbans_kholisha_flower_honey
+slug: sundarbans-kholisha-flower-honey
 
 name:
-bn:
-en:
+  bn: সুন্দরবনের খলিশা ফুলের মধু
+  en: Sundarbans Kholisha Flower Honey
 
-category:
-subcategory:
+category: honey
+subcategory: ''
 
 status: active
 visibility: public
 
 origin:
-region:
-country: Bangladesh
+  region: ''
+  country: Bangladesh
 
 availability:
-seasonal: false
+  seasonal: false
 
 pricing:
-currency: BDT
+  currency: BDT
+
+  updated_at: '2026-06-09'
+  note: Subject to seasonal change.
+  variants:
+  - label: 250g
+    size_gm: 250
+    price: 0
+    in_stock: true
+  - label: 500g
+    size_gm: 500
+    price: 0
+    in_stock: true
+  - label: 1kg
+    size_gm: 1000
+    price: 0
+    in_stock: true
 
 languages_supported:
 - bn
 - en
 - banglish
 
-aliases: []
+aliases:
+- fuler modhu
+- kholisha fuler modhu
+- kholisha honey
+- kholisha modhu
+- sundarbans honey
+- sundarbans kholisha flower honey
+- sundarbans kholisha honey
+- sundarboner fuler modhu
+- sundarboner kholisha fuler modhu
+- sundarboner kholisha modhu
+- sundarboner modhu
+- খলিশা ফুলের মধু
+- খলিশা মধু
+- ফুলের মধু
+- সুন্দরবনের খলিশা ফুলের মধু
+- সুন্দরবনের খলিশা মধু
+- সুন্দরবনের ফুলের মধু
+- সুন্দরবনের মধু
+tags:
+- fuler modhu
+- honey
+- kholisha
+- kholisha fuler
+- kholisha honey
+- kholisha modhu
+- sundarbans
+- sundarbans honey
+- sundarbans kholisha
+- sundarboner fuler
+- sundarboner kholisha
+- sundarboner modhu
+- খলিশা
+- খলিশা ফুলের
+- খলিশা মধু
+- ফুলের মধু
+- মধু
+- সুন্দরবনের খলিশা
+- সুন্দরবনের ফুলের
+- সুন্দরবনের মধু
 
-tags: []
-
-embedding_context: ""
+embedding_context: ''
 
 retrieval:
-priority: 0.90
-business_critical: true
-boost_terms: []
+  priority: 0.9
+  business_critical: true
+  boost_terms:
+  - fuler modhu
+  - honey
+  - kholisha fuler modhu
+  - kholisha honey
+  - sundarbans honey
+  - sundarbans kholisha flower honey
+  - sundarbans kholisha honey
+  - sundarboner kholisha fuler modhu
+  - খলিশা ফুলের মধু
+  - খলিশা মধু
+  - ফুলের মধু
+  - সুন্দরবনের খলিশা ফুলের মধু
+  - সুন্দরবনের খলিশা মধু
+  - সুন্দরবনের ফুলের মধু
+  - সুন্দরবনের মধু
 
 content_defaults:
-primary_language: bn
-fallback_language: en
+  primary_language: bn
+  fallback_language: en
 
-updated_at:
+updated_at: '2026-06-09'
