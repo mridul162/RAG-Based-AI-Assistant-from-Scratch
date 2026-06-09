@@ -28,3 +28,5 @@ python-slugify
 
 PyYAML
 deep_translator
+
+jsonschema
