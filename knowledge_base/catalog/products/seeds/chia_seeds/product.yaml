@@ -1,0 +1,46 @@
+schema_version: 1
+
+product_id:
+slug:
+
+name:
+bn:
+en:
+
+category:
+subcategory:
+
+status: active
+visibility: public
+
+origin:
+region:
+country: Bangladesh
+
+availability:
+seasonal: false
+
+pricing:
+currency: BDT
+
+languages_supported:
+- bn
+- en
+- banglish
+
+aliases: []
+
+tags: []
+
+embedding_context: ""
+
+retrieval:
+priority: 0.90
+business_critical: true
+boost_terms: []
+
+content_defaults:
+primary_language: bn
+fallback_language: en
+
+updated_at:

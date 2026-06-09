@@ -1,0 +1,18 @@
+# Multilingual RAG-Based AI Assistant — Project Flow
+
+1. Create project project repo.
+
+2. Create virtual environment: `python -m venv .venv`
+
+3. Activate virtual environment: `.\.venv\Scripts\Activate.ps1`
+
+4. Build project_template.py file.
+
+5. Generate project architecture: `python project_template.py`
+
+6. Build scripts/product_template.py file
+
+7. Build scripts/canonical_structure.py file
+
+8. Design canonical KB structure: `scripts/canonical_structure.ps1`
+
