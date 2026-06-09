@@ -13,19 +13,19 @@ logs/
 *.log.*
 
 # Data & Knowledge Base (can be large)
-ingestion/raw/
-ingestion/cleaned/
-ingestion/normalized/
-ingestion/chunked/
-ingestion/embeddings/faiss/
-ingestion/embeddings/snapshots/
+artifacts/raw/
+artifacts/cleaned/
+artifacts/normalized/
+artifacts/chunked/
+artifacts/embeddings/faiss/
+artifacts/embeddings/snapshots/
 
 vector_db/
 knowledge_base/catalog/**/images/
 knowledge_base/catalog/**/media/
 
 # Temporary ingestion artifacts
-ingestion/pipeline_logs/
+artifacts/pipeline_logs/
 
 # Frontend (if using Streamlit/Gradio or similar)
 frontend/__pycache__/

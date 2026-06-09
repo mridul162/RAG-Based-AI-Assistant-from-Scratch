@@ -1,0 +1,202 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+
+  "title": "Hasanah Mart Product Schema",
+
+  "type": "object",
+
+  "required": [
+    "schema_version",
+    "product_id",
+    "slug",
+    "name",
+    "category",
+    "status",
+    "visibility",
+    "languages_supported",
+    "retrieval"
+  ],
+
+  "properties": {
+
+    "schema_version": {
+      "type": "integer"
+    },
+
+    "product_id": {
+      "type": "string"
+    },
+
+    "slug": {
+      "type": "string"
+    },
+
+    "name": {
+      "type": "object",
+
+      "required": [
+        "bn",
+        "en"
+      ],
+
+      "properties": {
+
+        "bn": {
+          "type": "string"
+        },
+
+        "en": {
+          "type": "string"
+        }
+
+      }
+    },
+
+    "category": {
+      "type": "string"
+    },
+
+    "subcategory": {
+      "type": "string"
+    },
+
+    "status": {
+      "type": "string",
+
+      "enum": [
+        "active",
+        "inactive"
+      ]
+    },
+
+    "visibility": {
+      "type": "string",
+
+      "enum": [
+        "public",
+        "private",
+        "internal"
+      ]
+    },
+
+    "origin": {
+      "type": "object",
+
+      "properties": {
+
+        "region": {
+          "type": "string"
+        },
+
+        "country": {
+          "type": "string"
+        }
+
+      }
+    },
+
+    "availability": {
+      "type": "object",
+
+      "properties": {
+
+        "seasonal": {
+          "type": "boolean"
+        }
+
+      }
+    },
+
+    "pricing": {
+      "type": "object",
+
+      "properties": {
+
+        "currency": {
+          "type": "string"
+        }
+
+      }
+    },
+
+    "languages_supported": {
+      "type": "array",
+
+      "items": {
+        "type": "string"
+      }
+    },
+
+    "aliases": {
+      "type": "array",
+
+      "items": {
+        "type": "string"
+      }
+    },
+
+    "tags": {
+      "type": "array",
+
+      "items": {
+        "type": "string"
+      }
+    },
+
+    "embedding_context": {
+      "type": "string"
+    },
+
+    "retrieval": {
+      "type": "object",
+
+      "required": [
+        "priority",
+        "business_critical"
+      ],
+
+      "properties": {
+
+        "priority": {
+          "type": "number",
+          "minimum": 0,
+          "maximum": 1
+        },
+
+        "business_critical": {
+          "type": "boolean"
+        },
+
+        "boost_terms": {
+          "type": "array",
+
+          "items": {
+            "type": "string"
+          }
+        }
+
+      }
+    },
+
+    "content_defaults": {
+      "type": "object",
+
+      "properties": {
+
+        "primary_language": {
+          "type": "string"
+        },
+
+        "fallback_language": {
+          "type": "string"
+        }
+
+      }
+    },
+
+    "updated_at": {
+      "type": "string"
+    }
+
+  }
+}

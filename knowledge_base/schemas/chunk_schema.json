@@ -1,0 +1,106 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+
+  "title": "Chunk Schema",
+
+  "type": "object",
+
+  "required": [
+    "chunk_id",
+    "chunk_text",
+    "product_id",
+    "category",
+    "knowledge_type",
+    "source_file",
+    "chunk_index",
+    "language",
+    "visibility"
+  ],
+
+  "properties": {
+
+    "chunk_id": {
+      "type": "string"
+    },
+
+    "chunk_text": {
+      "type": "string"
+    },
+
+    "product_id": {
+      "type": "string"
+    },
+
+    "category": {
+      "type": "string"
+    },
+
+    "knowledge_type": {
+      "type": "string"
+    },
+
+    "source_file": {
+      "type": "string"
+    },
+
+    "source_path": {
+      "type": "string"
+    },
+
+    "chunk_index": {
+      "type": "integer"
+    },
+
+    "token_count": {
+      "type": "integer"
+    },
+
+    "language": {
+      "type": "string",
+
+      "enum": [
+        "bn",
+        "en",
+        "banglish",
+        "mixed"
+      ]
+    },
+
+    "visibility": {
+      "type": "string",
+
+      "enum": [
+        "public",
+        "private",
+        "internal"
+      ]
+    },
+
+    "semantic_domain": {
+      "type": "string"
+    },
+
+    "chunking_strategy": {
+      "type": "string",
+
+      "enum": [
+        "semantic",
+        "heading_based",
+        "fixed_size",
+        "hybrid"
+      ]
+    },
+
+    "embedding_context": {
+      "type": "string"
+    },
+
+    "created_at": {
+      "type": "string"
+    },
+
+    "updated_at": {
+      "type": "string"
+    }
+  }
+}

@@ -1,0 +1,89 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+
+  "title": "Retrieval Schema",
+
+  "type": "object",
+
+  "required": [
+    "query",
+    "chunk_id",
+    "product_id",
+    "similarity_score"
+  ],
+
+  "properties": {
+
+    "query": {
+      "type": "string"
+    },
+
+    "chunk_id": {
+      "type": "string"
+    },
+
+    "product_id": {
+      "type": "string"
+    },
+
+    "category": {
+      "type": "string"
+    },
+
+    "knowledge_type": {
+      "type": "string"
+    },
+
+    "source_file": {
+      "type": "string"
+    },
+
+    "similarity_score": {
+      "type": "number"
+    },
+
+    "rerank_score": {
+      "type": "number"
+    },
+
+    "retrieval_priority": {
+      "type": "number"
+    },
+
+    "retrieval_source": {
+      "type": "string",
+
+      "enum": [
+        "vector_search",
+        "metadata_filter",
+        "hybrid_search",
+        "reranker"
+      ]
+    },
+
+    "semantic_domain": {
+      "type": "string"
+    },
+
+    "language": {
+      "type": "string",
+
+      "enum": [
+        "bn",
+        "en",
+        "banglish",
+        "mixed"
+      ]
+    },
+
+    "visibility": {
+      "type": "string",
+
+      "enum": [
+        "public",
+        "private",
+        "internal"
+      ]
+    }
+  }
+}

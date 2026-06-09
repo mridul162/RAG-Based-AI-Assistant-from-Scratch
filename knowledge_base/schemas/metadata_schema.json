@@ -1,0 +1,68 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+
+  "title": "Metadata Schema",
+
+  "type": "object",
+
+  "required": [
+    "visibility",
+    "language",
+    "semantic_domain"
+  ],
+
+  "properties": {
+
+    "visibility": {
+      "type": "string",
+
+      "enum": [
+        "public",
+        "private",
+        "internal"
+      ]
+    },
+
+    "language": {
+      "type": "string",
+
+      "enum": [
+        "bn",
+        "en",
+        "banglish",
+        "mixed"
+      ]
+    },
+
+    "semantic_domain": {
+      "type": "string"
+    },
+
+    "aliases": {
+      "type": "array",
+
+      "items": {
+        "type": "string"
+      }
+    },
+
+    "tags": {
+      "type": "array",
+
+      "items": {
+        "type": "string"
+      }
+    },
+
+    "source_type": {
+      "type": "string",
+
+      "enum": [
+        "markdown",
+        "yaml",
+        "manual",
+        "generated"
+      ]
+    }
+  }
+}
