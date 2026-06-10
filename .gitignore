@@ -345,3 +345,4 @@ __marimo__/
 .streamlit/secrets.toml
 
 projectflow.txt
+artifacts\parsed\
