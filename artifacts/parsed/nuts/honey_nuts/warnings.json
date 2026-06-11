@@ -1,11 +1,92 @@
 [
   {
-    "heading": "Warnings",
-    "level": 1,
-    "section_id": null,
+    "heading": "Declared Allergens",
+    "level": 3,
+    "section_id": "allergens",
     "heading_path": [
-      "Warnings"
+      "Declared Allergens"
     ],
-    "content": ""
+    "content": "This product contains **tree nuts**, which are a major allergen recognised by food safety authorities worldwide.\n\n| Allergen | Present | Notes |\n|---|---|---|\n| Tree nuts (almonds, cashews, etc.) | ✅ Yes — primary ingredient | Severe reactions possible in sensitised individuals |\n| Honey (bee product) | ✅ Yes — primary ingredient | Rare but documented allergy; distinct from infant botulism risk |\n| Peanuts | ⚠️ Possible | May be present if peanuts are included in the nut mix; confirm with seller |\n| Gluten | ⚠️ Cross-contact risk | May be processed in a facility handling wheat products; confirm with seller |\n| Soy | ⚠️ Cross-contact risk | Confirm with seller if soy allergy is severe |\n| Dairy | ⚠️ Cross-contact risk | Confirm with seller if dairy allergy is severe |"
+  },
+  {
+    "heading": "Nut Allergy Warning",
+    "level": 3,
+    "section_id": "allergens",
+    "heading_path": [
+      "Nut Allergy Warning"
+    ],
+    "content": "&gt; ⚠️ **CONTAINS TREE NUTS.** Not suitable for individuals with a tree nut allergy. Tree nut allergies can cause severe or life-threatening anaphylaxis. If you carry an epinephrine auto-injector (EpiPen), have it accessible before consuming this or any nut product."
+  },
+  {
+    "heading": "Honey Allergy",
+    "level": 3,
+    "section_id": "allergens",
+    "heading_path": [
+      "Honey Allergy"
+    ],
+    "content": "Honey allergy is uncommon but real. Symptoms can include oral allergy syndrome (itching/swelling of mouth and throat), hives, or in rare cases anaphylaxis. Individuals with known pollen allergies — particularly to **bee pollen, composite flowers (e.g. sunflowers, chrysanthemums)**, or **celery** — have a higher risk of honey sensitivity.\n\n</section>"
+  },
+  {
+    "heading": "❌ Infants Under 12 Months — **Do Not Feed**",
+    "level": 3,
+    "section_id": "contraindications",
+    "heading_path": [
+      "❌ Infants Under 12 Months — **Do Not Feed**"
+    ],
+    "content": "&gt; 🚫 **This product must NOT be given to infants under 12 months of age.**\n\nHoney — including honey used as a coating or ingredient in processed foods — can contain spores of *Clostridium botulinum*. In infants under one year, the immature gut flora cannot prevent these spores from germinating and producing botulinum toxin, which can cause **infant botulism** — a rare but potentially fatal illness.\n\nThis restriction applies to **all honey-containing products**, not just raw honey.\n\n---"
+  },
+  {
+    "heading": "⚠️ Groups Who Should Exercise Caution or Consult a Doctor First",
+    "level": 3,
+    "section_id": "contraindications",
+    "heading_path": [
+      "⚠️ Groups Who Should Exercise Caution or Consult a Doctor First"
+    ],
+    "content": "| Group | Reason for Caution |\n|---|---|\n| Children aged 1–3 years | Nuts are a choking hazard; honey-coated nuts especially so. Serve only under adult supervision in age-appropriate portions. Always consult a paediatrician before introducing tree nuts. |\n| Individuals with tree nut allergies | Risk of severe allergic reaction including anaphylaxis. Avoid completely. |\n| Individuals with bee/honey allergy | Honey is a primary ingredient. Avoid completely. |\n| People with diabetes (Type 1 or Type 2) | Contains natural sugars from honey; can affect blood glucose. Consult a doctor or dietitian regarding portion size. |\n| People with fructose intolerance | Honey is high in fructose. May cause digestive discomfort. |\n| People with irritable bowel syndrome (IBS) on a low-FODMAP diet | Honey is a high-FODMAP food and may trigger symptoms. |\n| Individuals on calorie-restricted diets | Honey nuts are energy-dense (~500–600 kcal per 100g estimated). Monitor portion carefully. |\n| People with kidney disease | Nuts are relatively high in potassium and phosphorus; consult a nephrologist or dietitian about safe intake. |\n| Pregnant women | Honey and nuts are generally considered safe in moderate amounts during pregnancy, but raw or unprocessed honey carries a theoretical (low) risk of bacterial contamination. Prefer honey from verified processed sources. Consult your doctor. |\n| Elderly individuals with swallowing difficulties (dysphagia) | Whole nuts present a choking and aspiration risk. |\n\n</section>"
+  },
+  {
+    "heading": "Drug Interactions",
+    "level": 3,
+    "section_id": "interactions",
+    "heading_path": [
+      "Drug Interactions"
+    ],
+    "content": "| Medication / Substance | Interaction | Recommendation |\n|---|---|---|\n| **Warfarin / other anticoagulants (blood thinners)** | Almonds and cashews contain Vitamin K; large or inconsistent nut intake can interfere with INR stability. | Keep nut intake consistent day-to-day; inform your prescribing doctor. |\n| **MAO Inhibitors (MAOIs)** | Certain nuts contain tyramine; high tyramine intake with MAOIs can cause hypertensive crisis. | Consult your doctor if you are on MAOIs (e.g. phenelzine, tranylcypromine). |\n| **Diabetes medications (insulin, metformin, sulfonylureas)** | Honey raises blood glucose; may require dose adjustment if consumed regularly. | Monitor blood sugar and consult your doctor. |\n| **Immunosuppressants** | Patients on immunosuppressive therapy should avoid honey from unverified sources due to potential microbial contamination risk. | Confirm honey is from a reliable, processed source. |"
+  },
+  {
+    "heading": "Condition-Specific Notes",
+    "level": 3,
+    "section_id": "interactions",
+    "heading_path": [
+      "Condition-Specific Notes"
+    ],
+    "content": "- **Nut-triggered migraine:** Some individuals report almonds or other tree nuts as migraine triggers. Monitor personal response.\n- **Acne-prone skin:** High-glycaemic foods (including honey) may worsen acne in susceptible individuals when consumed in excess.\n- **Oral allergy syndrome (OAS):** Individuals allergic to birch pollen may experience OAS symptoms from almonds specifically (itching/tingling in mouth and throat). This is typically mild but can escalate. Stop eating and seek medical advice if symptoms worsen.\n\n</section>"
+  },
+  {
+    "heading": "General Guidance",
+    "level": 3,
+    "section_id": "safe-limits",
+    "heading_path": [
+      "General Guidance"
+    ],
+    "content": "&gt; The following are general population guidelines based on nutritional recommendations. Individual tolerances vary. These are not medical prescriptions.\n\n| Population | Suggested Daily Limit | Notes |\n|---|---|---|\n| Healthy adults | 30–40g (roughly a small handful) | Aligns with standard tree nut portion recommendations from nutrition guidelines |\n| Children aged 3–12 | 10–20g | Supervise closely; ensure nuts are chewed properly |\n| Children under 3 | Not recommended as whole nuts | Choking hazard; if introduced, consult a paediatrician first |\n| Diabetic individuals | Consult a dietitian | Honey content affects carbohydrate load; 15–20g per serving is a conservative starting point |\n| Infants under 12 months | **Zero — completely contraindicated** | See honey/botulism warning above |"
+  },
+  {
+    "heading": "Caloric Density Note",
+    "level": 3,
+    "section_id": "safe-limits",
+    "heading_path": [
+      "Caloric Density Note"
+    ],
+    "content": "Honey nuts are calorie-dense. A 30g portion delivers approximately **150–180 kcal** (estimated, based on typical honey-coated nut nutritional profiles). Regular consumption beyond recommended portions contributes meaningfully to total daily energy intake and added sugar load."
+  },
+  {
+    "heading": "Storage &amp; Consumption Safety",
+    "level": 3,
+    "section_id": "safe-limits",
+    "heading_path": [
+      "Storage &amp; Consumption Safety"
+    ],
+    "content": "- Do not consume if the packaging is damaged, the nuts smell rancid or musty, or the coating shows visible mould.\n- Once opened, store in an airtight container in a cool, dry place and consume within **2–4 weeks** for optimal safety and quality.\n- Do not leave open portions in humid conditions — honey coating absorbs moisture, which can accelerate microbial growth.\n- **Do not feed to pets**, particularly dogs and cats. Macadamia nuts (if present in the mix) are toxic to dogs. Grapes/raisins are sometimes mixed with nut products — verify the mix does not contain these if sharing a household with pets.\n\n</section>"
   }
 ]

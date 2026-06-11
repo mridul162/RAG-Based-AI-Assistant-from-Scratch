@@ -1,4 +1,3 @@
-# Benefits
 # Sundarbans Kholisha Flower Honey — Benefits
 
 ## Health benefits

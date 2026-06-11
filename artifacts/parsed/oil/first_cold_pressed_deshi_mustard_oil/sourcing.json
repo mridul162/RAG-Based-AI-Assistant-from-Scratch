@@ -1,11 +1,20 @@
 [
   {
-    "heading": "Sourcing",
-    "level": 1,
+    "heading": "Source Profile",
+    "level": 3,
     "section_id": null,
     "heading_path": [
-      "Sourcing"
+      "Source Profile"
     ],
-    "content": ""
+    "content": "| Attribute          | Details                          |\n| ------------------ | -------------------------------- |\n| Country of Origin  | Bangladesh                       |\n| Raw Material       | Mustard Seeds (Brassica species) |\n| Product Type       | First Cold Pressed Mustard Oil   |\n| Extraction Method  | mechanical (wooden) Cold Pressing         |\n| Processing Level   | Minimally Processed              |\n| Additives          | None Intended                    |\n| Solvent Extraction | Not Used                         |\n\n</section>"
+  },
+  {
+    "heading": "Farm-to-Consumer Journey",
+    "level": 3,
+    "section_id": null,
+    "heading_path": [
+      "Farm-to-Consumer Journey"
+    ],
+    "content": "**Step 1: Seed Cultivation**\n\n* Farmers cultivate mustard crops using seasonal agricultural practices.\n\n**Step 2: Harvesting**\n\n* Mature mustard seeds are harvested and collected.\n\n**Step 3: Cleaning &amp; Sorting**\n\n* Seeds are cleaned and sorted to improve extraction quality.\n\n**Step 4: Cold Press Extraction**\n\n* Oil is mechanically extracted through first cold pressing without solvent-based processing.\n\n**Step 5: Settling &amp; Filtration**\n\n* Freshly pressed oil is allowed to settle and is filtered when necessary.\n\n**Step 6: Packaging**\n\n* Oil is packed into sealed food-grade containers to maintain freshness and prevent contamination.\n\n**Step 7: Distribution**\n\n* Packaged oil is supplied to wholesalers, retailers, and consumers.\n\n</section>"
   }
 ]

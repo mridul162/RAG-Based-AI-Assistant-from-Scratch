@@ -1,11 +1,47 @@
 [
   {
-    "heading": "Warnings",
+    "heading": "Document",
     "level": 1,
-    "section_id": null,
+    "section_id": "allergens",
     "heading_path": [
-      "Warnings"
+      "Document"
     ],
-    "content": ""
+    "content": "<section id=\"allergens\">\n\nHoney is a natural product and may contain or trigger the following allergens:\n\n| Allergen | Details |\n|---|---|\n| **Pollen** | Lychee flower honey contains trace amounts of lychee (*Litchi chinensis*) pollen. Individuals with pollen allergies — particularly to tree pollens — may react. |\n| **Bee-derived proteins** | Honey may contain trace bee proteins (from saliva, enzymes). Those with known bee or venom allergies should exercise caution. |\n| **Royal jelly / propolis** | Natural honey may contain trace amounts of propolis or royal jelly, which are known contact allergens in sensitive individuals. |\n| **Cross-reactive fruits** | People with latex-fruit syndrome or lychee fruit allergy may experience cross-reactivity with lychee pollen residues in the honey. |\n\n**If you experience itching, swelling, difficulty breathing, or any signs of allergic reaction after consuming honey, discontinue use immediately and seek medical attention.**\n\n</section>"
+  },
+  {
+    "heading": "⛔ Must Avoid",
+    "level": 3,
+    "section_id": "contraindications",
+    "heading_path": [
+      "⛔ Must Avoid"
+    ],
+    "content": "- **Infants under 12 months (1 year):** All honey — including natural, raw, and processed honey — poses a **serious risk of infant botulism**. *Clostridium botulinum* spores can survive in honey and produce toxins in an infant's immature digestive system, potentially causing paralysis or death. **Never feed honey to babies under 1 year of age under any circumstances.**\n\n- **Individuals with confirmed bee product or pollen allergies:** Risk of allergic reaction, including anaphylaxis."
+  },
+  {
+    "heading": "⚠️ Should Consult a Doctor First",
+    "level": 3,
+    "section_id": "contraindications",
+    "heading_path": [
+      "⚠️ Should Consult a Doctor First"
+    ],
+    "content": "- **People with diabetes (Type 1 or Type 2):** Honey is high in natural sugars (primarily fructose and glucose). It can raise blood glucose levels. Diabetics should only consume honey under medical supervision and within a tracked dietary plan.\n\n- **People with fructose malabsorption or hereditary fructose intolerance:** Honey is high in fructose and may cause significant gastrointestinal distress in these individuals.\n\n- **Immunocompromised individuals** (e.g. those undergoing chemotherapy, organ transplant recipients, people with HIV/AIDS): Raw honey may contain naturally occurring bacteria or spores that a weakened immune system cannot adequately fight off.\n\n- **Pregnant and breastfeeding women:** Honey is generally considered safe for healthy adults during pregnancy. However, immunocompromised pregnant women or those with gestational diabetes should consult their physician.\n\n- **People with irritable bowel syndrome (IBS) or following a low-FODMAP diet:** Fructose and oligosaccharides in honey may trigger IBS symptoms.\n\n</section>"
+  },
+  {
+    "heading": "Document",
+    "level": 1,
+    "section_id": "interactions",
+    "heading_path": [
+      "Document"
+    ],
+    "content": "<section id=\"interactions\">\n\n| Drug / Condition | Interaction | Recommendation |\n|---|---|---|\n| **Warfarin / blood thinners** | Honey may have mild anticoagulant properties; high consumption could potentially influence INR levels. | Avoid consuming large or irregular amounts; inform your physician. |\n| **Insulin / oral hypoglycaemics** | Honey raises blood glucose; it can interfere with dosing requirements for diabetic medications. | Monitor blood glucose carefully. Do not use as a sugar substitute without medical advice. |\n| **Antibiotics** | Honey has natural antimicrobial properties. While this does not typically cause a direct drug interaction, it should not be used as a substitute for prescribed antibiotic treatment. | Continue prescribed antibiotics as directed; do not replace with honey. |\n| **Diabetes (uncontrolled)** | The high glycaemic load of honey can destabilise blood sugar control. | Avoid or use strictly under physician guidance. |\n| **Phenylketonuria (PKU)** | Honey itself does not contain phenylalanine and is not a direct concern, but this flag is maintained for completeness when combined with other dietary restrictions. | No specific restriction; general dietary management applies. |\n\n&gt; **Note:** This list covers the most commonly documented interactions. Always inform your healthcare provider about all foods and supplements you are consuming, especially if you are on regular medication.\n\n</section>"
+  },
+  {
+    "heading": "Additional Notes",
+    "level": 3,
+    "section_id": "safe-usage",
+    "heading_path": [
+      "Additional Notes"
+    ],
+    "content": "- Honey is a source of **natural sugars and calories** (~300–320 kcal per 100g). Excessive consumption may contribute to weight gain, tooth decay, and elevated triglycerides.\n- **Do not heat honey at very high temperatures** (above ~40°C / 104°F) for consumption — it degrades beneficial enzymes and may increase hydroxymethylfurfural (HMF) content.\n- Store in a cool, dry place away from direct sunlight. Keep the lid tightly closed to prevent moisture absorption and fermentation.\n- Natural honey may **crystallise** over time. This is normal and does not indicate spoilage. Gently warm the jar in lukewarm water to re-liquefy.\n- This product is **seasonal and raw/natural**. Composition (colour, aroma, viscosity) may vary slightly between batches depending on the harvest season.\n\n</section>"
   }
 ]

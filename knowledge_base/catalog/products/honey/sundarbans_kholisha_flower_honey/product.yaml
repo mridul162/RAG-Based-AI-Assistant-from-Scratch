@@ -1,7 +1,7 @@
 schema_version: 1
 
 product_id: sundarbans_kholisha_flower_honey
-slug: sundarbans-kholisha-flower-honey
+slug: sundarbans-kholisha-flower-honey   # Alternative: sundarban-khalisha-modhu
 
 name:
   bn: সুন্দরবনের খলিশা ফুলের মধু
@@ -14,29 +14,28 @@ status: active
 visibility: public
 
 origin:
-  region: ''
+  region: Sundarbans   # Recommended: more specific
   country: Bangladesh
 
 availability:
-  seasonal: false
+  seasonal: true       # Important change
 
 pricing:
   currency: BDT
-
-  updated_at: '2026-06-09'
-  note: Subject to seasonal change.
+  updated_at: '2026-06-11'
+  note: Subject to seasonal change and availability. Premium wild honey.
   variants:
   - label: 250g
     size_gm: 250
-    price: 0
+    price: 320
     in_stock: true
   - label: 500g
     size_gm: 500
-    price: 0
+    price: 600
     in_stock: true
   - label: 1kg
     size_gm: 1000
-    price: 0
+    price: 1100
     in_stock: true
 
 languages_supported:
@@ -46,69 +45,78 @@ languages_supported:
 
 aliases:
 - fuler modhu
+- khalisha fuler modhu
+- khalisha honey
+- khalisha modhu
 - kholisha fuler modhu
 - kholisha honey
 - kholisha modhu
+- padma modhu
 - sundarbans honey
 - sundarbans kholisha flower honey
 - sundarbans kholisha honey
-- sundarboner fuler modhu
-- sundarboner kholisha fuler modhu
-- sundarboner kholisha modhu
-- sundarboner modhu
+- sundarbaner fuler modhu
+- sundarbaner khalisha fuler modhu
+- sundarbaner kholisha fuler modhu
+- sundarbaner modhu
+- mangrove honey
 - খলিশা ফুলের মধু
 - খলিশা মধু
+- পদ্ম মধু
 - ফুলের মধু
 - সুন্দরবনের খলিশা ফুলের মধু
 - সুন্দরবনের খলিশা মধু
-- সুন্দরবনের ফুলের মধু
 - সুন্দরবনের মধু
+- সুন্দরবনের ফুলের মধু
+
 tags:
 - fuler modhu
 - honey
+- khalisha
+- khalisha fuler
+- khalisha honey
+- khalisha modhu
 - kholisha
 - kholisha fuler
 - kholisha honey
-- kholisha modhu
+- mangrove
+- padma modhu
 - sundarbans
 - sundarbans honey
-- sundarbans kholisha
-- sundarboner fuler
-- sundarboner kholisha
-- sundarboner modhu
+- sundarbaner
 - খলিশা
 - খলিশা ফুলের
 - খলিশা মধু
+- পদ্ম মধু
 - ফুলের মধু
 - মধু
+- সুন্দরবনের
 - সুন্দরবনের খলিশা
-- সুন্দরবনের ফুলের
 - সুন্দরবনের মধু
 
-embedding_context: ''
+embedding_context: |
+  Premium wild Sundarbans Kholisha (Khalisha) Flower Honey (সুন্দরবনের খলিশা ফুলের মধু), also known as Padma Modhu. Collected from the blossoms of the Khalisha tree (Aegiceras corniculatum) in the mangrove forests of the Sundarbans, Bangladesh. Light golden color, delicate floral aroma, and rich taste. Highly valued for its purity, medicinal properties, and as one of the best Sundarbans honeys. Harvested seasonally by local Moualis.
 
 retrieval:
-  priority: 0.9
+  priority: 0.95        # Increased
   business_critical: true
   boost_terms:
-  - fuler modhu
-  - honey
-  - kholisha fuler modhu
-  - kholisha honey
-  - sundarbans honey
-  - sundarbans kholisha flower honey
-  - sundarbans kholisha honey
-  - sundarboner kholisha fuler modhu
-  - খলিশা ফুলের মধু
-  - খলিশা মধু
-  - ফুলের মধু
   - সুন্দরবনের খলিশা ফুলের মধু
+  - খলিশা ফুলের মধু
+  - kholisha fuler modhu
+  - khalisha fuler modhu
+  - sundarbans kholisha flower honey
+  - sundarbans honey
+  - padma modhu
   - সুন্দরবনের খলিশা মধু
-  - সুন্দরবনের ফুলের মধু
-  - সুন্দরবনের মধু
+  - খলিশা মধু
+  - sundarbaner kholisha modhu
+  - sundarbans kholisha honey
+  - কালিশা মধু
+  - ফুলের মধু
 
 content_defaults:
   primary_language: bn
   fallback_language: en
 
-updated_at: '2026-06-09'
+updated_at: '2026-06-11'

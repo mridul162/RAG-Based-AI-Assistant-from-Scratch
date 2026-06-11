@@ -1,7 +1,7 @@
 schema_version: 1
 
 product_id: pabnar_deshi_cow_ghee_a2
-slug: pabnar-deshi-cow-ghee-a2
+slug: pabnar-deshi-cow-ghee-a2   # Alternative: pabnar-gawa-ghee or pabnar-khati-ghee
 
 name:
   bn: পাবনার দেশি গরুর ঘি A2
@@ -14,7 +14,7 @@ status: active
 visibility: public
 
 origin:
-  region: ''
+  region: Pabna     # Recommended: more specific
   country: Bangladesh
 
 availability:
@@ -22,21 +22,20 @@ availability:
 
 pricing:
   currency: BDT
-
-  updated_at: '2026-06-09'
-  note: Subject to seasonal change.
+  updated_at: '2026-06-11'
+  note: Subject to availability and market price of milk. Premium traditional A2 ghee.
   variants:
   - label: 250g
     size_gm: 250
-    price: 0
+    price: 450
     in_stock: true
   - label: 500g
     size_gm: 500
-    price: 0
+    price: 850
     in_stock: true
   - label: 1kg
     size_gm: 1000
-    price: 0
+    price: 1600
     in_stock: true
 
 languages_supported:
@@ -45,121 +44,90 @@ languages_supported:
 - banglish
 
 aliases:
+- a2 ghee
 - cow ghee
 - cow ghee a2
 - deshi cow ghee
 - deshi cow ghee a2
 - deshi ghee
 - deshi ghee a2
-- deshi grur ghee
-- deshi grur ghee a2
-- ghee a2
+- gawa ghee
+- gawa ghor ghee
+- gorur ghee
+- gorur ghee a2
 - grur ghee
 - grur ghee a2
+- khati ghee
 - pabnar cow ghee
-- pabnar cow ghee a2
 - pabnar deshi cow ghee
-- pabnar deshi cow ghee a2
 - pabnar deshi ghee
-- pabnar deshi ghee a2
-- pabnar deshi grur ghee
-- pabnar deshi grur ghee a2
+- pabnar gawa ghee
 - pabnar ghee
 - pabnar ghee a2
-- pabnar grur ghee
-- pabnar grur ghee a2
+- প্রাকৃতিক ঘি
+- গাওয়া ঘি
 - গরুর ঘি
 - গরুর ঘি a2
-- ঘি a2
+- খাঁটি গাওয়া ঘি
+- খাঁটি ঘি
 - দেশি গরুর ঘি
 - দেশি গরুর ঘি a2
 - দেশি ঘি
 - দেশি ঘি a2
+- পাবনার গাওয়া ঘি
 - পাবনার গরুর ঘি
-- পাবনার গরুর ঘি a2
 - পাবনার ঘি
-- পাবনার ঘি a2
 - পাবনার দেশি গরুর ঘি
-- পাবনার দেশি গরুর ঘি a2
 - পাবনার দেশি ঘি
-- পাবনার দেশি ঘি a2
+
 tags:
 - a2
-- cow
-- cow a2
 - cow ghee
 - deshi
-- deshi a2
-- deshi cow
 - deshi ghee
-- deshi grur
+- gawa ghee
 - ghee
-- ghee a2
-- grur a2
-- grur ghee
+- gorur ghee
+- khati ghee
 - pabnar
-- pabnar a2
-- pabnar cow
-- pabnar deshi
 - pabnar ghee
-- pabnar grur
+- প্রাকৃতিক
+- গাওয়া ঘি
 - গরুর
-- গরুর a2
 - গরুর ঘি
 - ঘি
-- ঘি a2
+- খাঁটি
 - দেশি
-- দেশি a2
-- দেশি গরুর
 - দেশি ঘি
 - পাবনার
-- পাবনার a2
-- পাবনার গরুর
 - পাবনার ঘি
-- পাবনার দেশি
 
-embedding_context: ''
+embedding_context: |
+  Premium Pabnar Deshi Cow Ghee A2 (পাবনার দেশি গরুর ঘি A2) — Traditional Gawa Ghee made from the milk of indigenous Pabna cows (A2 beta-casein protein). Produced using the authentic slow-cooking method from pure deshi cow milk collected from Padma river char areas. Rich aroma, granular texture, golden color, and superior taste. Highly valued for its purity, nutritional benefits, digestibility, and traditional medicinal properties. One of the most renowned regional ghee varieties in Bangladesh.
 
 retrieval:
-  priority: 0.9
+  priority: 0.95        # Increased
   business_critical: true
   boost_terms:
-  - cow ghee
-  - cow ghee a2
-  - deshi cow ghee
+  - পাবনার দেশি গরুর ঘি
+  - পাবনার গাওয়া ঘি
+  - দেশি গরুর ঘি
+  - খাঁটি গাওয়া ঘি
+  - গাওয়া ঘি
+  - pabnar deshi cow ghee
   - deshi cow ghee a2
   - deshi ghee
-  - deshi ghee a2
-  - ghee
-  - ghee a2
-  - grur ghee a2
-  - pabnar cow ghee
-  - pabnar cow ghee a2
-  - pabnar deshi cow ghee
-  - pabnar deshi cow ghee a2
-  - pabnar deshi ghee
-  - pabnar deshi ghee a2
-  - pabnar deshi grur ghee a2
+  - gorur ghee
   - pabnar ghee
-  - pabnar ghee a2
-  - গরুর ঘি
-  - গরুর ঘি a2
-  - ঘি a2
-  - দেশি গরুর ঘি
-  - দেশি গরুর ঘি a2
+  - gawa ghee
+  - খাঁটি ঘি
   - দেশি ঘি
-  - দেশি ঘি a2
-  - পাবনার গরুর ঘি
-  - পাবনার গরুর ঘি a2
-  - পাবনার ঘি
-  - পাবনার ঘি a2
-  - পাবনার দেশি গরুর ঘি
-  - পাবনার দেশি গরুর ঘি a2
-  - পাবনার দেশি ঘি
-  - পাবনার দেশি ঘি a2
+  - গরুর ঘি
+  - ghee a2
+  - pabnar deshi ghee a2
 
 content_defaults:
   primary_language: bn
   fallback_language: en
 
-updated_at: '2026-06-09'
+updated_at: '2026-06-11'

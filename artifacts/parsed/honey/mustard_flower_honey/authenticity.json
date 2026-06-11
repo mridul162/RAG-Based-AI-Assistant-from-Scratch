@@ -1,11 +1,38 @@
 [
   {
-    "heading": "Authenticity",
+    "heading": "Document",
     "level": 1,
-    "section_id": null,
+    "section_id": "visual",
     "heading_path": [
-      "Authenticity"
+      "Document"
     ],
-    "content": ""
+    "content": "<section id=\"visual\">\n\nMustard flower honey has a distinct appearance that sets it apart from multifloral or other single-origin honeys.\n\n| Indicator | Genuine | Suspect |\n|---|---|---|\n| **Color** | Light golden to pale amber when liquid; creamy white to pale yellow when crystallized | Unusually dark brown or water-clear transparency |\n| **Crystallization** | Crystallizes readily — often within weeks of harvest, especially in cool weather. Fine, smooth, almost butter-like texture | Stays permanently liquid for many months (may indicate added glucose syrup or heating) |\n| **Clarity** | Slightly hazy or opaque when fresh; not perfectly clear | Perfectly clear like water (over-filtered or diluted) |\n| **Foam/Bubbles** | Small natural foam layer may appear on top shortly after collection | Excessive or persistent large bubbles (fermentation from high moisture) |\n| **Consistency** | Thick, slow-dripping flow; forms a ribbon when poured | Watery, flows quickly like syrup |\n\n**Crystallization note:** Because mustard honey has a high glucose-to-fructose ratio, crystallization is normal and expected — especially during and after Bangladesh's winter season (November–February). Crystallized mustard honey is not spoiled. Buyers should treat rapid crystallization as a positive authenticity signal, not a defect.\n\n</section>"
+  },
+  {
+    "heading": "Document",
+    "level": 1,
+    "section_id": "sensory",
+    "heading_path": [
+      "Document"
+    ],
+    "content": "<section id=\"sensory\">\n\nMustard flower honey has a strong sensory profile that is difficult to replicate with cheap adulterants.\n\n**Aroma**\n- Characteristic pungent, slightly sharp floral scent — noticeably different from mild multifloral honey\n- Warm, earthy undertone associated with mustard blossoms\n- Should not smell fermented, sour, or chemical\n\n**Taste**\n- Initial sweetness followed by a mild pungent or slightly spicy finish (from mustard flower nectar compounds)\n- Full-bodied, not thin or watery on the palate\n- Slight warming sensation in the throat — this is the characteristic most buyers associate with its traditional use in cough and cold relief\n- Aftertaste lingers pleasantly; does not taste of plain sugar or corn syrup\n\n**Texture in the mouth**\n- Smooth and coating when liquid\n- Fine-grained and creamy when crystallized — melts evenly on the tongue without grittiness\n\n&gt; If the honey tastes only of plain sweetness with no pungent or floral note, the mustard flower content may be low or absent.\n\n</section>"
+  },
+  {
+    "heading": "Document",
+    "level": 1,
+    "section_id": "certification",
+    "heading_path": [
+      "Document"
+    ],
+    "content": "<section id=\"certification\">\n\nFor bulk buyers, institutional procurement, or quality-sensitive use cases, the following checks are recommended.\n\n**Pollen analysis (Melissopalynology)**\n- A lab microscopy test of the honey sample should show a dominant presence of *Brassica* (mustard) pollen grains\n- This is the most reliable method to confirm floral origin\n- Genuine mustard flower honey from Bangladesh typically shows &gt;45% mustard pollen in the pollen profile\n\n**Moisture content**\n- Should be ≤20% by weight (measured via refractometer)\n- Higher moisture (&gt;21%) increases fermentation risk and may indicate dilution with water\n\n**HMF (Hydroxymethylfurfural)**\n- Should be &lt;40 mg/kg for fresh honey\n- Elevated HMF (&gt;80 mg/kg) indicates overheating or old/adulterated stock\n\n**Diastase activity**\n- Natural honey contains active enzymes; diastase number should be ≥8 (Schade scale)\n- Very low diastase suggests the honey was overheated or heavily processed\n\n**Brix / Sugar profile**\n- Natural mustard honey: predominantly glucose + fructose\n- Presence of sucrose &gt;5% or detectable high-fructose corn syrup (C4 sugars via SCIRA isotope test) is a red flag\n\n**Bangladesh Standards and Testing Institution (BSTI)**\n- Look for a valid BSTI certification mark on packaged honey if purchasing from a commercial seller\n- Certification indicates the product met national food safety standards at time of testing\n\n</section>"
+  },
+  {
+    "heading": "Quick At-Home Checks",
+    "level": 3,
+    "section_id": "adulteration",
+    "heading_path": [
+      "Quick At-Home Checks"
+    ],
+    "content": "| Test | Method | Genuine result |\n|---|---|---|\n| **Thumb test** | Place a small drop on your thumb | Stays in place, does not spread or drip immediately |\n| **Water test** | Drop a small amount into a glass of still water | Sinks and stays as a lump; does not dissolve immediately |\n| **Crystallization check** | Store at room temperature for 2–4 weeks in winter | Should show signs of granulation or full crystallization |\n| **Aroma check** | Open container and smell before tasting | Should have a noticeable, slightly pungent floral mustard scent |\n| **Burn test** | Dip a cotton wick in honey and attempt to light it | Pure honey will burn; water-diluted honey will not ignite |\n\n&gt; Note: At-home tests can indicate problems but are not conclusive. For high-stakes purchasing decisions, request a lab report from the supplier.\n\n</section>"
   }
 ]

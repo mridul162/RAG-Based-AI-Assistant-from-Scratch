@@ -1,11 +1,74 @@
 [
   {
-    "heading": "Warnings",
-    "level": 1,
-    "section_id": null,
+    "heading": "Notes on Allergen Risk",
+    "level": 3,
+    "section_id": "allergens",
     "heading_path": [
-      "Warnings"
+      "Notes on Allergen Risk"
     ],
-    "content": ""
+    "content": "- This is a **raw, minimally processed honey**. It is not allergen-free and has not been processed to remove pollen.\n- Individuals with known **hay fever, seasonal allergies, or pollen allergies** should start with a very small amount (¼ teaspoon) and monitor for reactions before regular use.\n- Symptoms of a honey or pollen allergic reaction may include: itching or tingling of the mouth/throat, hives, swelling, sneezing, runny nose, or in severe cases, difficulty breathing.\n- **If you experience any allergic symptoms, stop use immediately and seek medical attention.**\n- This product is produced and packed in an environment that also handles other bee products. Cross-contact with other hive materials (beeswax, royal jelly, propolis) is possible.\n\n</section>"
+  },
+  {
+    "heading": "Absolute Contraindications",
+    "level": 3,
+    "section_id": "contraindications",
+    "heading_path": [
+      "Absolute Contraindications"
+    ],
+    "content": "<table>\n\n| Group | Reason |\n|---|---|\n| **Infants under 12 months** | Raw honey — including all floral varieties — can contain *Clostridium botulinum* spores. Infant digestive systems cannot neutralise these spores, creating a risk of infant botulism, a potentially fatal condition. **This warning has no exceptions.** |\n| **Individuals with known honey allergy** | Direct contraindication; risk of anaphylaxis |\n| **Individuals with known bee product allergy** | Includes allergy to bee pollen, propolis, or royal jelly |\n\n</table>"
+  },
+  {
+    "heading": "Consult a Doctor Before Use",
+    "level": 3,
+    "section_id": "contraindications",
+    "heading_path": [
+      "Consult a Doctor Before Use"
+    ],
+    "content": "<table>\n\n| Group | Reason |\n|---|---|\n| **Pregnant women** | Raw honey carries a small risk of *Clostridium* spores and other microbial contamination; medical guidance recommended, particularly in the first trimester |\n| **Breastfeeding women** | Limited safety data on nigella-derived compounds transmitted through breast milk |\n| **Individuals with diabetes (Type 1 or Type 2)** | Honey is high in natural sugars (primarily fructose and glucose) and will affect blood glucose levels; use requires medical supervision and dose management |\n| **Individuals with compromised immune systems** | Including those on immunosuppressant therapy, chemotherapy, or with HIV/AIDS; raw honey may carry microbial risks that a healthy immune system would neutralise |\n| **Individuals with low blood pressure (hypotension)** | Black seed (*Nigella sativa*) compounds have demonstrated blood-pressure-lowering effects in some studies; compounding effect is possible |\n| **Individuals scheduled for surgery** | Black seed has potential anticoagulant and blood-pressure effects; discontinue at least 2 weeks before any planned surgery |\n| **Individuals with hormone-sensitive conditions** | Some research suggests nigella compounds may have mild hormonal activity; those with oestrogen-sensitive conditions should seek guidance |\n| **Children under 3 years** | Though the infant botulism risk decreases significantly after 12 months, caution is advised for toddlers; consult a paediatrician |\n\n</table>\n</section>"
+  },
+  {
+    "heading": "Condition-Specific Notes",
+    "level": 3,
+    "section_id": "interactions",
+    "heading_path": [
+      "Condition-Specific Notes"
+    ],
+    "content": "- **Kidney disease:** High-dose nigella consumption has been associated with nephrotoxic effects in animal studies. Individuals with pre-existing kidney conditions should use this honey cautiously and in small amounts only.\n- **Liver disease:** Metabolic processing of nigella compounds may be impaired; consult a hepatologist.\n- **Clotting disorders:** Any condition affecting blood coagulation (e.g. haemophilia, thrombocytopenia) warrants medical clearance before use.\n\n&gt; **Note:** The concentration of nigella bioactive compounds in flower honey is substantially lower than in black seed oil or supplements. Interaction risks are proportionally lower for typical dietary consumption (1–2 teaspoons/day), but the risk is not zero and is higher with medicinal or high-dose use.\n\n</section>"
+  },
+  {
+    "heading": "General Population (Healthy Adults)",
+    "level": 3,
+    "section_id": "safe-limits",
+    "heading_path": [
+      "General Population (Healthy Adults)"
+    ],
+    "content": "<table>\n\n| Context | Suggested Limit | Notes |\n|---|---|---|\n| **Daily dietary use** | 1–2 teaspoons (approximately 10–15g) per day | Consistent with general honey consumption guidance; accounts for total daily sugar intake |\n| **Maximum single serving** | 1 tablespoon (approximately 20g) | Exceeding this regularly contributes to excess calorie and sugar intake |\n| **Weekly upper limit** | No established specific limit; stay within daily guidance | Regular excess consumption contributes to weight gain, dental caries, and metabolic stress |\n\n</table>"
+  },
+  {
+    "heading": "Caloric and Sugar Reference",
+    "level": 3,
+    "section_id": "safe-limits",
+    "heading_path": [
+      "Caloric and Sugar Reference"
+    ],
+    "content": "- 1 teaspoon (≈7g) of honey contains approximately **21 kcal** and **5.7g of sugars**\n- 1 tablespoon (≈20g) contains approximately **60 kcal** and **16g of sugars**\n- These values count toward the WHO recommendation of less than 25g of free sugars per day for adults"
+  },
+  {
+    "heading": "Storage and Usage Safety",
+    "level": 3,
+    "section_id": "safe-limits",
+    "heading_path": [
+      "Storage and Usage Safety"
+    ],
+    "content": "- **Do not heat in a microwave** or boil — high heat degrades beneficial compounds and can create HMF (hydroxymethylfurfural), which is harmful in large quantities\n- **Do not add to boiling water or milk** — allow liquids to cool to below 40°C before adding honey\n- **Store in a sealed container away from direct sunlight and moisture** — improper storage encourages fermentation\n- **Do not use from a wet spoon** — introducing water into the jar promotes yeast growth and spoilage\n- **Crystallised honey is safe to consume** — gently warm the sealed jar in warm water (not boiling) to re-liquefy"
+  },
+  {
+    "heading": "Shelf Life Note",
+    "level": 3,
+    "section_id": "safe-limits",
+    "heading_path": [
+      "Shelf Life Note"
+    ],
+    "content": "Honey does not have a strict expiry date if stored correctly in a sealed container. However, this product should be consumed within **24 months of harvest** for optimal quality. If the honey smells sour, fermented, or fizzy, discard it.\n\n---\n\n&gt; **Disclaimer:** The safety information in this document is compiled from established food safety guidelines and published pharmacological research on honey and *Nigella sativa*. It is intended as general guidance only and does not constitute medical advice. Customers with specific health conditions, those taking prescription medications, or those who are pregnant should consult a qualified healthcare professional before consuming this product.\n\n</section>"
   }
 ]

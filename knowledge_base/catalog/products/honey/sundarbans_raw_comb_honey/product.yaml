@@ -1,10 +1,10 @@
 schema_version: 1
 
 product_id: sundarbans_raw_comb_honey
-slug: sundarbans-raw-comb-honey
+slug: sundarbans-raw-comb-honey   # Alternative: sundarban-chaker-modhu
 
 name:
-  bn: সুন্দরবনের কাঁচা চিরুনি মধু
+  bn: সুন্দরবনের চাকের মধু
   en: Sundarbans Raw Comb Honey
 
 category: honey
@@ -14,29 +14,28 @@ status: active
 visibility: public
 
 origin:
-  region: ''
+  region: Sundarbans   # Recommended: more specific
   country: Bangladesh
 
 availability:
-  seasonal: false
+  seasonal: true       # Important change
 
 pricing:
   currency: BDT
-
-  updated_at: '2026-06-09'
-  note: Subject to seasonal change.
+  updated_at: '2026-06-11'
+  note: Subject to seasonal change and availability. Premium wild raw comb honey.
   variants:
   - label: 250g
     size_gm: 250
-    price: 0
+    price: 400
     in_stock: true
   - label: 500g
     size_gm: 500
-    price: 0
+    price: 780
     in_stock: true
   - label: 1kg
     size_gm: 1000
-    price: 0
+    price: 1500
     in_stock: true
 
 languages_supported:
@@ -45,71 +44,77 @@ languages_supported:
 - banglish
 
 aliases:
-- chiruni modhu
+- chaker modhu
+- chokher modhu
 - comb honey
-- kancha chiruni modhu
-- kancha modhu
+- jangli modhu
+- khati chaker modhu
+- prakritik chaker modhu
+- raw chaker modhu
+- raw comb honey
+- raw forest honey
+- raw modhu
 - sundarbans comb honey
 - sundarbans honey
 - sundarbans raw comb honey
-- sundarboner chiruni modhu
-- sundarboner kancha chiruni modhu
-- sundarboner kancha modhu
-- sundarboner modhu
-- কাঁচা চিরুনি মধু
-- কাঁচা মধু
-- চিরুনি মধু
-- সুন্দরবনের কাঁচা চিরুনি মধু
-- সুন্দরবনের কাঁচা মধু
-- সুন্দরবনের চিরুনি মধু
+- sundarbaner chaker modhu
+- sundarbaner raw chaker modhu
+- sundarbaner modhu
+- চাকের মধু
+- চাক কাটা মধু
+- প্রাকৃতিক চাকের মধু
+- র চাকের মধু
+- র মধু
+- সুন্দরবনের চাকের মধু
 - সুন্দরবনের মধু
+- জংলি মধু
+
 tags:
-- chiruni modhu
-- comb
+- chaker modhu
 - comb honey
 - honey
-- kancha chiruni
-- kancha modhu
+- jangli modhu
+- khati modhu
+- prakritik chaker
+- raw chaker
+- raw comb
+- raw honey
+- raw modhu
 - sundarbans
-- sundarbans comb
 - sundarbans honey
-- sundarboner chiruni
-- sundarboner kancha
-- sundarboner modhu
-- কাঁচা
-- কাঁচা চিরুনি
-- কাঁচা মধু
-- চিরুনি
-- চিরুনি মধু
+- sundarbaner chaker
+- চাকের মধু
+- প্রাকৃতিক মধু
+- র মধু
 - মধু
-- সুন্দরবনের কাঁচা
-- সুন্দরবনের চিরুনি
+- সুন্দরবনের চাকের মধু
 - সুন্দরবনের মধু
+- জংলি মধু
 
-embedding_context: ''
+embedding_context: |
+  Premium Sundarbans Raw Comb Honey (সুন্দরবনের চাকের মধু) — 100% natural wild honey harvested directly from beehives (chaks) in the mangrove forests of the Sundarbans, Bangladesh by experienced Moualis. Contains natural comb, bee pollen, propolis, and royal jelly. Rich, complex forest flavor with strong medicinal properties. Known for purity, antioxidants, and immunity benefits. One of the most premium and sought-after honeys in Bangladesh.
 
 retrieval:
-  priority: 0.9
+  priority: 0.95        # Increased
   business_critical: true
   boost_terms:
-  - chiruni modhu
-  - comb honey
-  - honey
-  - kancha chiruni modhu
-  - sundarbans comb honey
-  - sundarbans honey
+  - সুন্দরবনের চাকের মধু
+  - চাকের মধু
+  - প্রাকৃতিক চাকের মধু
   - sundarbans raw comb honey
-  - sundarboner kancha chiruni modhu
-  - কাঁচা চিরুনি মধু
-  - কাঁচা মধু
-  - চিরুনি মধু
-  - সুন্দরবনের কাঁচা চিরুনি মধু
-  - সুন্দরবনের কাঁচা মধু
-  - সুন্দরবনের চিরুনি মধু
-  - সুন্দরবনের মধু
+  - sundarbans chaker modhu
+  - raw chaker modhu
+  - chaker modhu
+  - sundarbans honey
+  - র চাকের মধু
+  - খাঁটি চাকের মধু
+  - জংলি মধু
+  - raw comb honey
+  - sundarbaner modhu
+  - ফুলের মধু
 
 content_defaults:
   primary_language: bn
   fallback_language: en
 
-updated_at: '2026-06-09'
+updated_at: '2026-06-11'

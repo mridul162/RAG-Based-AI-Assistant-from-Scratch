@@ -1,11 +1,137 @@
 [
   {
-    "heading": "FAQ",
-    "level": 1,
-    "section_id": null,
+    "heading": "1. What exactly is black seed flower honey, and how is it different from black seed oil?",
+    "level": 3,
+    "section_id": "faq",
     "heading_path": [
-      "FAQ"
+      "1. What exactly is black seed flower honey, and how is it different from black seed oil?"
     ],
-    "content": ""
+    "content": "Black seed flower honey is honey collected by bees that forage primarily on the flowers of *Nigella sativa* (black cumin / kalonjira) plants. The bees collect nectar from those flowers, and the resulting honey carries the characteristic dark colour and faint spice-bitter notes associated with the plant.\n\nIt is **not** the same as black seed oil. Black seed oil is cold-pressed directly from *Nigella sativa* seeds and contains concentrated amounts of thymoquinone and other active compounds. The honey is derived from the flower's nectar — not the seed — so the concentration of nigella-specific compounds is much lower than in the oil. They are related products from the same plant but are nutritionally and chemically distinct.\n\n---"
+  },
+  {
+    "heading": "2. Why is the honey so dark? Is the colour natural?",
+    "level": 3,
+    "section_id": "faq",
+    "heading_path": [
+      "2. Why is the honey so dark? Is the colour natural?"
+    ],
+    "content": "Yes, the dark amber to near-black colour is a natural characteristic of this honey variety. The colour comes from the specific phenolic compounds, minerals, and nectar composition of *Nigella sativa* flowers — darker honey generally correlates with higher mineral content and antioxidant levels.\n\nIf the colour looks artificially uniform, jet-black, or has a caramel-burnt smell, that can indicate added colouring agents such as molasses or caramel. See the `authenticity.md` document for a detailed visual check guide.\n\n---"
+  },
+  {
+    "heading": "3. My honey has crystallised. Has it gone bad?",
+    "level": 3,
+    "section_id": "faq",
+    "heading_path": [
+      "3. My honey has crystallised. Has it gone bad?"
+    ],
+    "content": "No. Crystallisation is a natural process and a sign that the honey has not been heavily processed or adulterated with glucose syrup. Raw honey crystallises because of its natural glucose content. Black seed flower honey typically crystallises more slowly than mustard honey, forming a fine-grained texture over weeks to months.\n\nTo re-liquefy: place the sealed jar in a bowl of warm water (below 40°C) and stir occasionally. Do not microwave or use boiling water — high heat degrades the honey's beneficial compounds and can produce HMF, a harmful byproduct of overheated honey.\n\n---"
+  },
+  {
+    "heading": "4. How should I store this honey?",
+    "level": 3,
+    "section_id": "faq",
+    "heading_path": [
+      "4. How should I store this honey?"
+    ],
+    "content": "Store in a sealed, dry container away from direct sunlight and heat. A kitchen cupboard or pantry at room temperature is ideal. Specific guidance:\n\n- **Do not refrigerate** — this accelerates crystallisation and is unnecessary\n- **Keep the lid tightly closed** — honey absorbs moisture from air, which can lead to fermentation\n- **Never use a wet spoon** — introducing water into the jar promotes yeast growth and spoilage\n- **Avoid storing near a stove or window** — heat and light degrade quality over time\n\nCorrectly stored, sealed honey remains safe and usable for up to 24 months. Honey that smells sour, tastes fizzy, or has visibly separated with a watery top layer may have fermented and should be discarded.\n\n---"
+  },
+  {
+    "heading": "5. Is this honey raw and unfiltered?",
+    "level": 3,
+    "section_id": "faq",
+    "heading_path": [
+      "5. Is this honey raw and unfiltered?"
+    ],
+    "content": "This honey is minimally processed. It is not subjected to high-heat pasteurisation, which would destroy its natural enzymes, pollen, and beneficial compounds. It may be lightly strained to remove large debris such as wax fragments, but it retains natural pollen, trace propolis, and its live enzyme content.\n\nBecause it is raw, it naturally contains bee pollen and may contain trace amounts of propolis. This is relevant if you have known allergies to bee products — see `warnings.md` for details.\n\n---"
+  },
+  {
+    "heading": "6. Can I give this to my child?",
+    "level": 3,
+    "section_id": "faq",
+    "heading_path": [
+      "6. Can I give this to my child?"
+    ],
+    "content": "**Not if the child is under 12 months old.** This is an absolute restriction — raw honey of any type can contain *Clostridium botulinum* spores, which are harmless to adults and older children but can cause infant botulism in babies under one year. This restriction has no exceptions regardless of honey type or brand.\n\nFor children between **1 and 3 years**, honey is generally considered safe in small amounts, but given the stronger flavour profile of black seed flower honey, it is worth introducing cautiously. For any child with allergies or health conditions, consult a paediatrician first.\n\n---"
+  },
+  {
+    "heading": "7. I have diabetes. Can I consume this honey?",
+    "level": 3,
+    "section_id": "faq",
+    "heading_path": [
+      "7. I have diabetes. Can I consume this honey?"
+    ],
+    "content": "Honey is high in natural sugars — primarily fructose and glucose — and will raise blood glucose levels. It is not a sugar-free or diabetic-safe food. People with Type 1 or Type 2 diabetes should treat honey as they would any other concentrated sugar source and only consume it under guidance from their doctor or dietitian.\n\nSome research suggests *Nigella sativa* compounds may have a mild blood glucose-lowering effect, but this does not make the honey safe to consume freely for people managing diabetes. The interaction between honey's sugar content and any nigella-related effect is unpredictable. Do not self-manage — consult your physician.\n\n---"
+  },
+  {
+    "heading": "8. What health benefits does this honey have?",
+    "level": 3,
+    "section_id": "faq",
+    "heading_path": [
+      "8. What health benefits does this honey have?"
+    ],
+    "content": "We will be straightforward here: **most commonly cited health benefits of black seed honey are rooted in traditional use and preliminary research, not conclusive clinical evidence.**\n\nWhat can be said accurately:\n- Raw honey in general contains antioxidants, natural enzymes, and trace minerals\n- *Nigella sativa* has been the subject of substantial scientific research, with some evidence supporting anti-inflammatory and antimicrobial properties — primarily from studies on black seed oil and extracts, not flower honey\n- The concentration of nigella bioactive compounds (such as thymoquinone) in flower honey is substantially lower than in black seed oil or supplements\n- Honey has a long documented history of use in traditional medicine across South and Southeast Asia\n\nWe do not make specific therapeutic claims for this product. If you are considering it for a health condition, speak with a healthcare professional rather than relying on product descriptions.\n\n---"
+  },
+  {
+    "heading": "9. How do I know this is genuine black seed flower honey and not a fake?",
+    "level": 3,
+    "section_id": "faq",
+    "heading_path": [
+      "9. How do I know this is genuine black seed flower honey and not a fake?"
+    ],
+    "content": "The most practical buyer-side checks:\n\n- **Colour:** Deep dark amber, not uniform jet black\n- **Smell:** Warm, faintly spicy — not sharp like opening a spice jar, and not neutrally sweet\n- **Taste:** Rich sweetness with a noticeable subtle bitter-warm finish that lingers\n- **Crystallisation:** Will crystallise naturally over time — fully liquid honey after months of storage is a warning sign\n- **Water test:** A small amount dropped into still water should sink and hold its shape briefly before dissolving\n\nFor a full verification guide including common adulteration methods and how to spot them, refer to the `authenticity.md` document.\n\n---"
+  },
+  {
+    "heading": "10. What is the price, and why does the 1kg variant cost the same as 500g?",
+    "level": 3,
+    "section_id": "faq",
+    "heading_path": [
+      "10. What is the price, and why does the 1kg variant cost the same as 500g?"
+    ],
+    "content": "Current pricing (as of 2026-06-11):\n\n| Size | Price (BDT) | Price per 100g |\n|---|---|---|\n| 250g | ৳300 | ৳120 |\n| 500g | ৳600 | ৳120 |\n| 1kg | ৳1200 | ৳120 |\n\nThe 1kg variant offers significantly better value per gram — half the per-gram cost of the 250g and 500g options. This appears to be a promotional or volume pricing decision. If you are a regular user or buying for a household, the 1kg size is substantially more economical.\n\nPricing is subject to seasonal change as noted in the product spec.\n\n---"
+  },
+  {
+    "heading": "11. Is this honey sourced ethically and sustainably? Where does it come from?",
+    "level": 3,
+    "section_id": "faq",
+    "heading_path": [
+      "11. Is this honey sourced ethically and sustainably? Where does it come from?"
+    ],
+    "content": "The honey originates from Bangladesh, harvested from regions where *Nigella sativa* is cultivated. Specific region information is not currently listed in the product specification.\n\nWe are not in a position to make specific claims about beekeeping practices, colony welfare, or environmental certification for this product without documentation. If ethical sourcing or specific origin traceability is important to you, we recommend asking directly at the point of purchase for any available sourcing information.\n\n---"
+  },
+  {
+    "heading": "12. Can I use this honey for cooking?",
+    "level": 3,
+    "section_id": "faq",
+    "heading_path": [
+      "12. Can I use this honey for cooking?"
+    ],
+    "content": "Yes, though its strong flavour profile means it works better in some contexts than others.\n\n**Works well with:**\n- Warm water or herbal tea (add after the liquid cools below 40°C)\n- Plain yoghurt or labneh\n- Whole-grain bread or flatbread\n- Marinades for meat where a slightly bitter, savoury note is desirable\n- Pairing with strong cheeses\n\n**Less suitable for:**\n- Delicate desserts where a neutral or fruity sweetness is expected\n- Recipes where the dark colour would be visually unwanted\n\nAvoid adding honey to boiling liquids — heat above approximately 40–50°C begins to degrade natural enzymes and beneficial compounds.\n\n---"
+  },
+  {
+    "heading": "13. I am taking blood pressure medication. Is it safe to use this honey?",
+    "level": 3,
+    "section_id": "faq",
+    "heading_path": [
+      "13. I am taking blood pressure medication. Is it safe to use this honey?"
+    ],
+    "content": "Exercise caution. *Nigella sativa* has demonstrated blood-pressure-lowering properties in some clinical and preclinical studies. If you are already taking antihypertensive medication (such as amlodipine, enalapril, losartan, or similar), consuming nigella-derived products in meaningful amounts may compound that effect and cause blood pressure to drop too low.\n\nFor typical culinary use (1 teaspoon in warm water), the risk is likely low, but the interaction is pharmacologically plausible. If you are managing hypertension with medication, consult your prescribing doctor before making this a regular part of your diet. See `warnings.md` for a complete drug interaction table.\n\n---"
+  },
+  {
+    "heading": "14. Does this honey have an expiry date? What if my jar is unlabelled?",
+    "level": 3,
+    "section_id": "faq",
+    "heading_path": [
+      "14. Does this honey have an expiry date? What if my jar is unlabelled?"
+    ],
+    "content": "Pure honey does not expire in the way that most foods do — archaeologists have found edible honey thousands of years old in sealed vessels. However, **quality and safety over extended periods depend entirely on storage conditions.**\n\nFor practical purposes, consume within **24 months of harvest** for best quality. If your jar lacks a harvest or pack date, judge by condition:\n- Correctly stored honey that smells clean and tastes as expected is safe regardless of age\n- Honey that has fermented (sour or fizzy smell/taste, separation with a watery layer on top) should be discarded\n- Crystallised honey is safe — crystallisation is not spoilage\n\nIf buying from a market or retailer, ask for the pack or harvest date before purchasing large quantities.\n\n---"
+  },
+  {
+    "heading": "15. How is this different from just buying black cumin seeds or black seed oil?",
+    "level": 3,
+    "section_id": "faq",
+    "heading_path": [
+      "15. How is this different from just buying black cumin seeds or black seed oil?"
+    ],
+    "content": "These are three different products from the same plant with different compositions, uses, and price points:\n\n<table>\n\n| Product | Source part | Key compounds | Typical use | Relative potency of nigella compounds |\n|---|---|---|---|---|\n| **Black seed flower honey** | Flower nectar (via bees) | Natural honey sugars, enzymes, trace phenolics from nigella nectar | Food, daily tonic, sweetener | Low — diluted by honey composition |\n| **Black cumin seeds** | Seeds of *Nigella sativa* | Thymoquinone, fixed oils, fibre, protein | Cooking spice, direct consumption | Moderate |\n| **Black seed oil** | Cold-pressed from seeds | Concentrated thymoquinone and fatty acids | Supplement, topical use | High — most concentrated form |\n\n</table>\n\nIf you are looking for the flavour and cultural significance of kalonjira in a food form, the honey is appropriate. If you are seeking the most pharmacologically active form of *Nigella sativa* for therapeutic purposes, black seed oil is the relevant product — and should be used under medical guidance given its potency.\n\n</section>"
   }
 ]

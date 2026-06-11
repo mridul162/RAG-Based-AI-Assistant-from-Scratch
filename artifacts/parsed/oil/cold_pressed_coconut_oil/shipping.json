@@ -7,5 +7,45 @@
       "Shipping"
     ],
     "content": ""
+  },
+  {
+    "heading": "Temperature Requirements",
+    "level": 2,
+    "section_id": null,
+    "heading_path": [
+      "Shipping",
+      "Temperature Requirements"
+    ],
+    "content": "* **State Transitions:** The oil solidifies below 24°C and liquefies above this threshold. In Bangladesh, transit conditions typically keep the product in a liquid state.\n* **Thermal Exposure:** While the oil has high thermal stability, prolonged exposure to extreme heat (above 40°C) inside delivery vans or cargo holds should be avoided to prevent pressure buildup inside the container.\n* **Leakage Management:** Because the product liquefies during typical Bangladeshi transit conditions, high-quality, airtight sealing is critical to prevent capillary leakage through the cap threads.\n\n---"
+  },
+  {
+    "heading": "Packaging Notes",
+    "level": 2,
+    "section_id": null,
+    "heading_path": [
+      "Shipping",
+      "Packaging Notes"
+    ],
+    "content": "* **Primary Containment:** All variants (250mL, 500mL, and 1L) feature induction-sealed caps to provide a leak-proof barrier against pressure changes during handling.\n* **Fragility & Shock Absorption:** * Glass bottle variants require double-layer bubble wrapping and placement in corrugated dividers.\n* Food-grade PET variants are wrapped in single-layer defensive bubble wrap to minimize scuffing and impact punctures.\n\n\n* **Orientation Marking:** Shipments containing liquid oils must be clearly labeled with **\"This Side Up\"** directional arrows and **\"Fragile - Liquid\"** handling stickers on the external box.\n\n---"
+  },
+  {
+    "heading": "Regulatory Considerations",
+    "level": 2,
+    "section_id": null,
+    "heading_path": [
+      "Shipping",
+      "Regulatory Considerations"
+    ],
+    "content": "* **Documentation:** Consignment notes must clearly list the product category as **\"Edible/Cosmetic Vegetable Oil\"** along with its corresponding batch ID and manufacturing date.\n* **Safety Classifications:** This product is non-hazardous, non-flammable under standard conditions, and does not fall under the hazardous materials classification for domestic road and air courier networks.\n\n---"
+  },
+  {
+    "heading": "International Shipping",
+    "level": 2,
+    "section_id": null,
+    "heading_path": [
+      "Shipping",
+      "International Shipping"
+    ],
+    "content": "| Factor | Requirement / Restriction |\n| --- | --- |\n| **HS Code** | Maintained under **HS Code 1513.11.00** (Virgin Coconut Oil and its fractions). |\n| **Certifications Required** | Phytosanitary Certificate from the Ministry of Agriculture (Bangladesh), BSTI certification, and a comprehensive Material Safety Data Sheet (MSDS). |\n| **Air Freight Restrictions** | Many international commercial air couriers classify bulk liquids under specific restricted categories. Shipments require explicit approval, specialized leak-proof secondary containment bags, and declaration of weight. |\n| **Import Regulations** | Destination country customs (e.g., FDA in the USA, EFSA in Europe) frequently mandate strict biological testing proofs to guarantee the oil is free from aflatoxins and chemical residues. |"
   }
 ]

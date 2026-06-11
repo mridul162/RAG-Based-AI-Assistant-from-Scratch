@@ -1,10 +1,10 @@
 schema_version: 1
 
 product_id: cold_pressed_coconut_oil
-slug: cold-pressed-coconut-oil
+slug: cold-pressed-coconut-oil   # Alternative: cold-pressed-narikel-tel
 
 name:
-  bn: কোল্ড প্রেসড নারকেল তেল
+  bn: কোল্ড প্রেসড নারিকেল তেল
   en: Cold Pressed Coconut Oil
 
 category: oil
@@ -14,7 +14,7 @@ status: active
 visibility: public
 
 origin:
-  region: ''
+  region: ''          # Recommended: "Barishal", "Noakhali", "Chittagong" or "Coastal" if applicable
   country: Bangladesh
 
 availability:
@@ -22,21 +22,20 @@ availability:
 
 pricing:
   currency: BDT
-
-  updated_at: '2026-06-09'
-  note: Subject to seasonal change.
+  updated_at: '2026-06-11'
+  note: Pure cold pressed virgin coconut oil. Subject to market price of coconut.
   variants:
-  - label: 250g
-    size_gm: 250
-    price: 0
+  - label: 250mL
+    size_ml: 250
+    price: 390
     in_stock: true
-  - label: 500g
-    size_gm: 500
-    price: 0
+  - label: 500mL
+    size_ml: 500
+    price: 770
     in_stock: true
-  - label: 1kg
-    size_gm: 1000
-    price: 0
+  - label: 1L
+    size_ml: 1000
+    price: 1500
     in_stock: true
 
 languages_supported:
@@ -46,81 +45,51 @@ languages_supported:
 
 aliases:
 - coconut oil
-- cold coconut oil
-- cold oil
 - cold pressed coconut oil
-- cold pressed oil
-- kol্d narkel tel
-- kol্d p্resd narkel tel
-- kol্d p্resd tel
-- kol্d tel
-- narkel tel
-- pressed coconut oil
-- pressed oil
-- p্resd narkel tel
-- p্resd tel
-- কোল্ড তেল
-- কোল্ড নারকেল তেল
-- কোল্ড প্রেসড তেল
-- কোল্ড প্রেসড নারকেল তেল
-- নারকেল তেল
-- প্রেসড তেল
-- প্রেসড নারকেল তেল
+- cold pressed narikel tel
+- khati narikel tel
+- narikel tel
+- pure coconut oil
+- virgin coconut oil
+- কোল্ড প্রেসড নারিকেল তেল
+- নারিকেল তেল
+- খাঁটি নারিকেল তেল
+- ভার্জিন নারিকেল তেল
+- দেশি নারিকেল তেল
+
 tags:
 - coconut
 - coconut oil
-- cold
-- cold coconut
-- cold oil
 - cold pressed
-- kol্d narkel
-- kol্d p্resd
-- kol্d tel
-- narkel tel
+- khati
+- narikel tel
 - oil
-- pressed
-- pressed coconut
-- pressed oil
-- p্resd narkel
-- p্resd tel
-- কোল্ড
-- কোল্ড তেল
-- কোল্ড নারকেল
+- virgin coconut oil
+- নারিকেল তেল
+- খাঁটি নারিকেল তেল
 - কোল্ড প্রেসড
 - তেল
-- নারকেল
-- নারকেল তেল
-- প্রেসড
-- প্রেসড তেল
-- প্রেসড নারকেল
 
-embedding_context: ''
+embedding_context: |
+  Pure Cold Pressed Coconut Oil (কোল্ড প্রেসড নারিকেল তেল) extracted from fresh, mature coconuts using traditional cold-press method without heat or chemicals. Retains natural aroma, nutrients, and medium-chain triglycerides (MCTs). Versatile for cooking (frying, baking), hair care, skin moisturizing, oil pulling, and massage. Known for its antibacterial, antifungal properties and high smoke point. One of the healthiest and purest forms of coconut oil available in Bangladesh.
 
 retrieval:
-  priority: 0.9
+  priority: 0.95        # Increased
   business_critical: true
   boost_terms:
-  - coconut oil
-  - cold coconut oil
-  - cold oil
+  - কোল্ড প্রেসড নারিকেল তেল
+  - নারিকেল তেল
   - cold pressed coconut oil
-  - cold pressed oil
-  - kol্d p্resd narkel tel
-  - narkel tel
-  - oil
-  - pressed coconut oil
-  - pressed oil
-  - p্resd narkel tel
-  - কোল্ড তেল
-  - কোল্ড নারকেল তেল
-  - কোল্ড প্রেসড তেল
-  - কোল্ড প্রেসড নারকেল তেল
-  - নারকেল তেল
-  - প্রেসড তেল
-  - প্রেসড নারকেল তেল
+  - coconut oil
+  - খাঁটি নারিকেল তেল
+  - virgin coconut oil
+  - cold pressed narikel tel
+  - খাঁটি নারকেলের তেল
+  - pure coconut oil
+  - দেশি নারিকেল তেল
 
 content_defaults:
   primary_language: bn
   fallback_language: en
 
-updated_at: '2026-06-09'
+updated_at: '2026-06-11'

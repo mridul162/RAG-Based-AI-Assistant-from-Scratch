@@ -1,11 +1,65 @@
 [
   {
-    "heading": "Sourcing",
+    "heading": "Document",
     "level": 1,
     "section_id": null,
     "heading_path": [
-      "Sourcing"
+      "Document"
     ],
-    "content": ""
+    "content": "<section>\n\nBlack Seed Flower Honey is sourced from honey bee colonies that forage primarily on the flowers of the black seed plant (*Nigella sativa*), commonly known as kalojira or black cumin. The product originates in Bangladesh, where black seed is cultivated as an agricultural crop in various farming regions.\n\nBecause black seed is grown across multiple districts, the exact sourcing area may vary from season to season depending on crop availability, flowering conditions, and beekeeping operations. Regardless of the specific district, production depends on the presence of large flowering black seed fields capable of supporting nectar collection by honey bees.\n\nThe floral source plays a significant role in shaping the honey's color, aroma, flavor, and overall characteristics. Environmental factors such as soil conditions, climate, rainfall, and local biodiversity can contribute to natural variations between harvests.\n\n</section>"
+  },
+  {
+    "heading": "Typical harvesting process",
+    "level": 3,
+    "section_id": null,
+    "heading_path": [
+      "Typical harvesting process"
+    ],
+    "content": "1. Black seed plants enter their flowering stage.\n2. Honey bees forage on the flowers and collect nectar.\n3. Bees convert nectar into honey within the hive.\n4. Honey-filled combs are harvested once they are sufficiently capped by the bees.\n5. Honey is extracted from the combs using mechanical extraction methods.\n6. The extracted honey is filtered to remove natural debris such as wax particles while retaining the honey itself.\n7. The honey is stored, packaged, and prepared for distribution."
+  },
+  {
+    "heading": "Processing approach",
+    "level": 3,
+    "section_id": null,
+    "heading_path": [
+      "Processing approach"
+    ],
+    "content": "<table>\n\n| Step             | Purpose                                                    |\n| ---------------- | ---------------------------------------------------------- |\n| Hive placement   | Maximize access to black seed flower nectar                |\n| Honey extraction | Remove honey from combs                                    |\n| Filtration       | Remove wax and visible impurities                          |\n| Settling         | Allow air bubbles and fine particles to separate naturally |\n| Packaging        | Prepare for storage and sale                               |\n\n</table>\n\nThe exact processing methods may vary among producers, but excessive processing is generally avoided to preserve the honey's natural characteristics.\n\n</section>"
+  },
+  {
+    "heading": "Seasonal characteristics",
+    "level": 3,
+    "section_id": null,
+    "heading_path": [
+      "Seasonal characteristics"
+    ],
+    "content": "* Harvest timing depends on regional planting schedules and weather conditions.\n* Nectar flow is strongest during peak flowering periods.\n* Annual variations in rainfall, temperature, and crop yields can influence honey production volumes.\n* Once harvested, properly stored honey can remain available throughout the year, even though nectar collection itself is seasonal.\n\nBecause natural conditions change from year to year, differences in color, aroma, texture, and flavor between harvest batches are considered normal.\n\n</section>"
+  },
+  {
+    "heading": "Source-to-consumer pathway",
+    "level": 3,
+    "section_id": null,
+    "heading_path": [
+      "Source-to-consumer pathway"
+    ],
+    "content": "1. Black seed cultivation by local farmers.\n2. Placement of bee colonies near flowering fields.\n3. Nectar collection and honey production by bees.\n4. Harvesting and extraction by beekeepers.\n5. Filtration and settling of raw honey.\n6. Packaging into retail containers.\n7. Storage and distribution.\n8. Delivery to retailers or end consumers."
+  },
+  {
+    "heading": "Quality considerations",
+    "level": 3,
+    "section_id": null,
+    "heading_path": [
+      "Quality considerations"
+    ],
+    "content": "* Honey is collected from managed apiaries during active nectar flow periods.\n* Proper handling helps minimize contamination from moisture and foreign materials.\n* Storage in sealed containers helps preserve quality and flavor.\n* Natural crystallization may occur during storage and is not considered a defect."
+  },
+  {
+    "heading": "Sustainability and ethical considerations",
+    "level": 3,
+    "section_id": null,
+    "heading_path": [
+      "Sustainability and ethical considerations"
+    ],
+    "content": "Beekeeping associated with crop pollination can provide mutual benefits for both agriculture and honey production. Honey bee activity supports pollination within agricultural ecosystems, while farmers and beekeepers benefit from healthy flowering crops.\n\nResponsible sourcing practices may include:\n\n* Maintaining healthy bee colonies.\n* Harvesting mature honey rather than unripe nectar.\n* Supporting local farming communities through agricultural partnerships.\n* Minimizing unnecessary processing while preserving product integrity.\n\nBecause sourcing practices can vary between producers and seasons, sustainability measures may differ across individual supply chains.\n\n</section>"
   }
 ]

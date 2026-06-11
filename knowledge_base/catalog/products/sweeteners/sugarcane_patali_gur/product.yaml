@@ -4,17 +4,17 @@ product_id: sugarcane_patali_gur
 slug: sugarcane-patali-gur
 
 name:
-  bn: আখ পাটালি গুর
+  bn: আখের পাটালি গুর
   en: Sugarcane Patali Gur
 
 category: sweeteners
-subcategory: ''
+subcategory: jaggery
 
 status: active
 visibility: public
 
 origin:
-  region: ''
+  region: Rajshahi, Faridpur, Kushtia
   country: Bangladesh
 
 availability:
@@ -22,21 +22,12 @@ availability:
 
 pricing:
   currency: BDT
-
   updated_at: '2026-06-09'
   note: Subject to seasonal change.
   variants:
-  - label: 250g
-    size_gm: 250
-    price: 0
-    in_stock: true
-  - label: 500g
-    size_gm: 500
-    price: 0
-    in_stock: true
   - label: 1kg
     size_gm: 1000
-    price: 0
+    price: 250
     in_stock: true
 
 languages_supported:
@@ -44,33 +35,90 @@ languages_supported:
 - en
 - banglish
 
-aliases: []
+aliases:
+  # Banglish / romanized Bengali variants
+  - akher patali gur
+  - akher gur
+  - akher patali
+  - patali gur
+  - akhir gur
+  - akhir patali
+  - cane gur
+  - cane patali
+  # English natural-language variants
+  - sugarcane jaggery
+  - sugarcane molasses cake
+  - sugarcane palm sugar
+  - raw sugarcane sugar
+  - cane jaggery
+  - bangladeshi jaggery
+  - desi gur
+  # Bengali script variants & common misspellings
+  - আখের গুড়
+  - আখের পাটালি গুড়
+  - পাটালি গুড়
+  - আখ গুর
+  - আখ গুড়
+  - গুড়
 tags:
-- akh gur
-- akh patali
+- akher gur
+- akher patali
 - gur
 - patali
 - patali gur
 - sugarcane
 - sugarcane gur
 - sugarcane patali
+- sugarcane jaggery
+- jaggery
+- cane jaggery
+- bangladeshi gur
+- desi gur
 - sweeteners
-- আখ
-- আখ গুর
-- আখ পাটালি
+- natural sweetener
+- unrefined sugar
+- আখের
+- আখের গুর
+- আখের গুড়
+- আখের পাটালি
 - গুর
+- গুড়
 - পাটালি
 - পাটালি গুর
+- পাটালি গুড়
 
-embedding_context: ''
+embedding_context: >
+  আখের পাটালি গুর (Sugarcane Patali Gur) is a traditional Bangladeshi unrefined
+  jaggery made from sugarcane juice. It is molded into solid disc or cylindrical
+  shapes (patali) and used as a natural sweetener in Bengali sweets, desserts,
+  payesh, pitha, and everyday cooking. It has a characteristic rich, caramel-like
+  flavor distinct from refined sugar or date palm gur (khejur gur). Sourced
+  primarily from sugarcane-growing regions of Bangladesh such as Rajshahi,
+  Faridpur, and Kushtia. A staple sweetener in Bangladeshi households seeking
+  natural, chemical-free alternatives to white sugar.
 
 retrieval:
   priority: 0.9
   business_critical: true
-  boost_terms: []
+  boost_terms:
+    # High-intent purchase terms
+    - patali gur
+    - akher patali gur
+    - sugarcane jaggery
+    - আখের পাটালি গুর
+    - আখের পাটালি গুড়
+    # Category-level terms that should surface this product
+    - natural sweetener
+    - unrefined jaggery
+    - desi gur
+    - bangladeshi gur
+    # Substitution / comparison intent
+    - sugar substitute
+    - chemical free sweetener
+    - organic gur
 
 content_defaults:
   primary_language: bn
   fallback_language: en
 
-updated_at: '2026-06-09'
+updated_at: '2026-06-11'

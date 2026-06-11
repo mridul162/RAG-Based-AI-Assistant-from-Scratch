@@ -1,1 +1,180 @@
 # FAQ
+# faq.md — Pabnar Deshi Cow Ghee A2
+
+**Product:** পাবনার দেশি গরুর ঘি A2 (Pabnar Deshi Cow Ghee A2)
+**Purpose:** Honest answers to the most common customer questions.
+
+---
+
+## FAQ
+
+<section id="faq">
+
+---
+
+### 1. What exactly is "Pabnar Deshi Cow Ghee A2" — how is it different from regular ghee?
+
+Pabnar Deshi Cow Ghee A2 is clarified butter made exclusively from the milk of indigenous (deshi) cows raised in the Pabna region of Bangladesh, particularly in the char (river island) areas along the Padma. The "A2" refers to A2 beta-casein — the type of milk protein naturally produced by these indigenous breeds, as opposed to A1 beta-casein found in many modern crossbred or Holstein-Friesian dairy cows.
+
+The difference from regular ghee comes down to three things: the cow breed (deshi vs. crossbred), the milk protein type (A2 vs. A1/mixed), and the production method (traditional slow-cooking vs. industrial processing). The result is a ghee with a richer aroma, granular texture, deeper color, and a more complex flavor than most commercially available ghee.
+
+---
+
+### 2. How do I know the ghee I receive is genuine and not adulterated?
+
+This is the right question to ask, and there is no single foolproof answer without lab testing. However, here are the practical checks:
+
+- **Texture:** Authentic deshi cow ghee solidifies with a visible grainy or crystalline texture. Smooth, creamy solid texture suggests buffalo ghee or vegetable fat blending.
+- **Color:** Should be deep golden-yellow, not pale, white, or artificially bright.
+- **Aroma:** Rich and nutty when at room temperature; intensifies significantly when a small amount is heated. Should not smell neutral, chemical, or like coconut/vegetable oil.
+- **Melt test:** A small amount placed on your warm palm should melt almost immediately and completely.
+- **Heat test:** A teaspoon heated in a dry pan should not sputter or bubble (which indicates water content).
+
+For definitive verification, a BSTI-accredited lab can run a Reichert-Meissl value test. See `authenticity.md` for the full verification guide.
+
+---
+
+### 3. Why is this ghee more expensive than what I find in supermarkets?
+
+Several factors drive the higher price:
+
+- **Cow breed:** Deshi indigenous cows produce significantly less milk than crossbred dairy cows — sometimes 2–4 liters per day vs. 15–20 liters for HF cows. Less milk means more cows and more cost per kilogram of ghee.
+- **Production method:** The traditional slow-cooking process is labor-intensive and time-consuming compared to industrial clarification.
+- **Regional sourcing:** Collecting milk specifically from Pabna char areas adds logistics cost.
+- **Lower yield:** Traditional methods produce slightly less ghee per liter of milk than industrial methods.
+
+The price reflects genuine input costs, not just branding. That said, always verify authenticity before assuming price equals quality — adulterated ghee is also sometimes sold at a premium.
+
+---
+
+### 4. What does "A2" mean and does it actually matter?
+
+A2 refers to A2 beta-casein, a protein variant in milk. Most indigenous South Asian cattle breeds (including Bangladeshi deshi cows) naturally produce milk with A2 beta-casein. Many modern high-yield crossbred cows produce a mix of A1 and A2 or predominantly A1.
+
+Some research suggests A1 beta-casein may be harder to digest for certain people and may be associated with digestive discomfort, while A2 milk may be better tolerated. However, the scientific evidence on this is still developing and not yet conclusive enough to make definitive health claims.
+
+For ghee specifically, the clarification process removes most milk proteins anyway, so the practical difference between A1 and A2 ghee is smaller than between A1 and A2 fluid milk. The more significant benefit of this product is the indigenous breed sourcing and traditional production method rather than A2 status alone.
+
+---
+
+### 5. Can people with lactose intolerance consume this ghee?
+
+Many people with lactose intolerance tolerate pure ghee well. The clarification process removes most of the lactose and whey from butter, leaving predominantly fat. However, trace amounts of lactose and dairy proteins may remain — this is not a guaranteed lactose-free product.
+
+If your lactose intolerance is mild to moderate, you will likely be fine with normal serving sizes (1–2 teaspoons). If your intolerance is severe, or if you have a confirmed cow's milk protein allergy (which is different from lactose intolerance), consult a doctor before use. See `warnings.md` for full allergen details.
+
+---
+
+### 6. Can I give this ghee to my baby or young child?
+
+For infants under 6 months: No. They should receive only breast milk or formula.
+
+For infants 6–12 months: Small amounts of ghee can be introduced as part of complementary feeding — this is a common and traditional South Asian practice. However, consult your pediatrician for guidance specific to your child.
+
+For children over 1 year: Ghee in age-appropriate quantities as part of a balanced diet is generally fine, provided there is no dairy allergy.
+
+Do not use ghee as a weight-gain supplement for children without medical guidance.
+
+---
+
+### 7. How should I store this ghee and how long does it last?
+
+- Store in an **airtight glass jar** away from direct sunlight and moisture.
+- At room temperature (below 30°C), it stays fresh for **2–3 months** after opening.
+- **Refrigeration** extends shelf life to 6–12 months but is not required.
+- Always use a **clean, dry spoon** — moisture introduced into the jar is the primary cause of early spoilage.
+- Do not store near a stove or in direct heat.
+
+Signs that ghee has gone rancid: off smell (sour, metallic, or musty), darker-than-normal color, or an unpleasant taste. Rancid ghee should be discarded.
+
+---
+
+### 8. The ghee I received looks solid and grainy. Is it spoiled or low quality?
+
+No — this is actually a positive authenticity indicator. Pure deshi cow ghee naturally solidifies into a grainy or crystalline texture at room temperature (especially below 25°C). This granular solidification is characteristic of genuine cow ghee and is caused by its natural fat crystal structure.
+
+Buffalo ghee and vegetable fat blends solidify smoothly and evenly, without the granular texture. If your ghee is smooth and creamy when solid, that is more cause for concern than if it is grainy.
+
+When melted, the ghee will become a clear golden liquid — this is normal.
+
+---
+
+### 9. The color of my ghee seems different from a previous batch. Why?
+
+Slight color variation between batches is normal and expected for an artisanal product. The color of deshi cow ghee can range from pale gold to deep amber-orange depending on the season, the cow's diet (grazing vs. supplementary feed), and the specific slow-cooking batch duration.
+
+Ghee from cows with a grass-heavy diet (common in the char areas of Pabna) tends to be deeper golden due to higher beta-carotene content. Winter batches may appear lighter than summer batches.
+
+Significant color variation — very pale/white or unnaturally bright — is more concerning and may indicate blending with another fat.
+
+---
+
+### 10. Is this ghee suitable for high-heat cooking and frying?
+
+Yes. Ghee has a high smoke point of approximately 230–250°C (450–480°F), which makes it well-suited for sautéing, tempering spices (বাগার/তড়কা), shallow frying, and high-heat cooking.
+
+Avoid heating ghee until it visibly smokes and burns — at that point, the fat breaks down and produces harmful compounds. For deep frying at sustained very high temperatures, other oils may be more practical due to cost.
+
+---
+
+### 11. I have high cholesterol. Can I still use this ghee?
+
+This is a medical question and we strongly recommend consulting your doctor or a registered dietitian for personalized guidance.
+
+Generally: ghee is high in saturated fat (~60–65%), which has historically been associated with elevated LDL cholesterol. If you have diagnosed hyperlipidemia or cardiovascular disease, you should discuss dietary fat intake with your physician before using ghee regularly.
+
+Some emerging research suggests that traditional ghee consumed in moderate amounts may not affect lipid profiles the same way as processed fats, but this evidence is not strong enough to override clinical advice for individuals with existing conditions. Moderation — 1 teaspoon per day — is a reasonable starting point for those with borderline concern, but not a substitute for medical guidance.
+
+---
+
+### 12. Does this product have a BSTI certification?
+
+Commercially sold ghee in Bangladesh is required to carry a BSTI (Bangladesh Standards and Testing Institution) mark. You should verify that the product you purchase carries this mark on its packaging along with a clearly printed batch number, production date, and expiry date.
+
+If you are purchasing from a vendor who cannot provide BSTI documentation or shows a stickered-over date, treat it as a red flag. Ask the seller directly for this information before purchasing.
+
+---
+
+### 13. What sizes are available and what are the current prices?
+
+As of June 2026, the product is available in three sizes:
+
+| Size | Price (BDT) |
+|---|---|
+| 250g | ৳450 |
+| 500g | ৳850 |
+| 1kg | ৳1,600 |
+
+Prices are subject to change based on seasonal milk availability and market rates. The 1kg size offers the best per-gram value. All sizes are currently in stock.
+
+---
+
+### 14. How is this ghee produced? What is the "traditional slow-cooking method"?
+
+The traditional method — sometimes called the *bilona* method or *pot method* — involves the following general steps:
+
+1. Fresh raw milk from deshi cows is collected and allowed to set into curd (দই).
+2. The curd is churned to separate butter (মাখন).
+3. The butter is then slow-cooked over a low flame in an open pot, stirring periodically.
+4. As water evaporates and milk solids settle and brown at the bottom, the clarified fat is carefully skimmed or strained off.
+5. The result is allowed to cool and solidify.
+
+This process takes significantly longer than industrial methods but produces a more aromatic, flavorful ghee with the characteristic granular texture. It also means each batch has slight natural variation — a feature, not a defect.
+
+---
+
+### 15. Is this product available year-round or only in certain seasons?
+
+This product is listed as non-seasonal and is available year-round. However, supply can be affected by seasonal factors in practice:
+
+- **Milk yield** from deshi cows is higher during cooler months (October–March) when grazing is better in the char areas.
+- **Pricing** may fluctuate slightly during summer months or during Eid and festive periods when demand spikes.
+
+If you need a large quantity for a specific occasion (e.g. wedding cooking, gifting), it is advisable to order in advance rather than assuming immediate availability.
+
+</section>
+
+---
+
+*Last updated: 2026-06-11 | Product ID: pabnar_deshi_cow_ghee_a2*
+*Answers reflect general product knowledge. For medical or legal queries, consult a qualified professional.*

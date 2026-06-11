@@ -1,11 +1,83 @@
 [
   {
-    "heading": "Authenticity",
+    "heading": "Document",
     "level": 1,
-    "section_id": null,
+    "section_id": "visual",
     "heading_path": [
-      "Authenticity"
+      "Document"
     ],
-    "content": ""
+    "content": "<section id=\"visual\">\n\n| Indicator | Authentic | Suspect / Adulterated |\n|---|---|---|\n| **Color** | Deep golden-amber to slightly greenish-gold; naturally opaque or semi-opaque | Pale yellow, water-clear, or unnaturally bright yellow |\n| **Clarity** | Slightly cloudy or hazy at room temperature — natural fine sediment is acceptable | Perfectly clear and water-thin (suggests refined oil blending) |\n| **Cold behavior** | Thickens noticeably in cool temperatures (below ~15°C); may show slight solidification at edges | Stays fully liquid and thin in cold — suggests dilution with refined oil |\n| **Sediment** | Fine natural seed sediment may settle at the bottom of unfiltered variants | No sediment at all in an unfiltered product can indicate heavy processing |\n| **Surface sheen** | Rich, slightly viscous surface when poured | Watery, fast-spreading surface |\n\n**Practical test:** Pour a small amount onto a white plate. Genuine cold pressed deshi mustard oil will spread slowly and leave a deep golden film.\n\n</section>"
+  },
+  {
+    "heading": "Document",
+    "level": 1,
+    "section_id": "sensory",
+    "heading_path": [
+      "Document"
+    ],
+    "content": "<section id=\"sensory\">\n\nGenuine first cold pressed deshi mustard oil has a distinct sensory profile that is difficult to fake convincingly.\n\n**Aroma**\n- Strong, sharp, pungent smell — this comes from natural **allyl isothiocyanate** compounds in deshi (local variety) mustard seeds\n- The pungency should be immediate and strong when the bottle is opened — it may cause mild eye-watering\n- Aroma should be raw and \"alive\" — not flat, stale, or chemically neutral\n- Refined or blended oils have a weak, flat, or generic vegetable oil smell\n\n**Taste**\n- Sharp, slightly bitter, with a characteristic biting heat on the tongue and back of the throat\n- The heat sensation should linger briefly — similar to mild horseradish\n- Should leave a clean finish without a greasy or rancid aftertaste\n- Artificially colored or blended oils taste bland, flat, or generically \"oily\"\n\n**Cooking behavior**\n- When heated in a pan, genuine mustard oil produces a pungent, nose-clearing steam before settling into a nutty aroma — this is normal and expected\n- The smoke point is moderate; it will smoke before other refined oils would\n\n**Quick sensory check:** Rub a few drops between your palms. Genuine cold pressed deshi mustard oil will produce a warm, pungent, sharp smell when friction is applied. Adulterated oil smells faint or neutral.\n\n</section>"
+  },
+  {
+    "heading": "Document",
+    "level": 1,
+    "section_id": "certification",
+    "heading_path": [
+      "Document"
+    ],
+    "content": "<section id=\"certification\">\n\nFor high-confidence verification, the following laboratory and documentary checks apply:\n\n**What to look for on the label / documentation**\n- Confirmation that extraction used **cold-press (expeller) method only** — no solvent extraction, no hexane\n- Statement of **\"first press\"** or **\"first cold pressed\"** — this means oil from the first mechanical pressing of seeds, without reprocessing\n- Country and ideally region of seed origin (Bangladesh; ideally North Bengal / Rajshahi / Dinajpur region for deshi varieties)\n- Net weight and batch/lot number for traceability\n\n**Recommended lab parameters (for bulk or B2B buyers)**\n\n| Parameter | Expected value for genuine product |\n|---|---|\n| **Erucic acid content** | High (typically 30–50%) — natural marker of true mustard oil; low erucic acid suggests blending with other oils |\n| **Allyl isothiocyanate** | Detectable — confirms deshi seed variety |\n| **Peroxide value** | Low (fresh oil); elevated peroxide = rancid or old stock |\n| **Free Fatty Acid (FFA)** | Low in fresh, well-stored oil |\n| **Refractive index** | Consistent with mustard oil standard |\n| **Absence of mineral oil / paraffin** | Confirm via standard adulteration panel |\n\n**Regulatory note:** In Bangladesh, edible oils fall under BSTI (Bangladesh Standards and Testing Institution) standards. Buyers may request a BSTI compliance declaration from the seller.\n\n</section>"
+  },
+  {
+    "heading": "1. Refined oil sold as cold pressed",
+    "level": 3,
+    "section_id": "fakes",
+    "heading_path": [
+      "1. Refined oil sold as cold pressed"
+    ],
+    "content": "**What it is:** Commercially refined mustard oil (heat-extracted, solvent-processed, deodorized) relabeled as \"cold pressed.\"\n**How to spot it:** Weak or absent pungency; pale color; stays fully liquid and clear in cold; no lingering heat on the tongue.\n\n---"
+  },
+  {
+    "heading": "2. Blending with cheaper vegetable oils",
+    "level": 3,
+    "section_id": "fakes",
+    "heading_path": [
+      "2. Blending with cheaper vegetable oils"
+    ],
+    "content": "**What it is:** Genuine mustard oil extended with refined soybean, palm, or sunflower oil.\n**How to spot it:** Reduced pungency, thinner consistency, lighter color, little to no eye-watering when bottle is opened. Lab test will show low erucic acid and altered fatty acid profile.\n\n---"
+  },
+  {
+    "heading": "3. Artificial coloring to mimic mustard oil",
+    "level": 3,
+    "section_id": "fakes",
+    "heading_path": [
+      "3. Artificial coloring to mimic mustard oil"
+    ],
+    "content": "**What it is:** Pale refined oil colored with synthetic dyes (e.g. metanil yellow) to achieve a golden-yellow appearance.\n**How to spot it:** Color looks unnaturally uniform and bright. No real pungency. Aroma is flat. A turmeric paper test or basic lab dye screening can detect synthetic colorants.\n\n&gt; ⚠️ **Metanil yellow** (also called \"butter yellow\") is a banned colorant in Bangladesh and is toxic — its presence in edible oil is a serious food safety issue.\n\n---"
+  },
+  {
+    "heading": "4. Second or third press sold as first press",
+    "level": 3,
+    "section_id": "fakes",
+    "heading_path": [
+      "4. Second or third press sold as first press"
+    ],
+    "content": "**What it is:** Oil extracted from seed cake left after the first press — lower quality, weaker flavor — but labeled as first cold pressed.\n**How to spot it:** Weaker aroma and color compared to true first press. Requires lab testing (fatty acid profile, tocopherol levels) for definitive identification.\n\n---"
+  },
+  {
+    "heading": "5. Non-deshi seed variety sold as \"deshi\"",
+    "level": 3,
+    "section_id": "fakes",
+    "heading_path": [
+      "5. Non-deshi seed variety sold as \"deshi\""
+    ],
+    "content": "**What it is:** Oil pressed from imported hybrid or yellow mustard (sarson) seeds rather than local Bangladeshi deshi (black/brown) mustard.\n**How to spot it:** Deshi variety has a sharper, more aggressive pungency and darker color. Hybrid/yellow mustard oil is milder and lighter. Seed origin documentation from the seller is the best check.\n\n---"
+  },
+  {
+    "heading": "Quick Field Test Summary",
+    "level": 3,
+    "section_id": "fakes",
+    "heading_path": [
+      "Quick Field Test Summary"
+    ],
+    "content": "| Test | Method | Genuine result |\n|---|---|---|\n| Cold test | Refrigerate for 30 min | Thickens or hazes |\n| Smell test | Open bottle, sniff | Sharp, pungent, eye-watering |\n| Palm rub test | Rub drops between palms | Strong pungent warmth |\n| Plate spread test | Drop on white plate | Slow spread, deep golden film |\n| Heat test | Heat small amount in pan | Pungent smoke, then nutty aroma |\n\n</section>"
   }
 ]

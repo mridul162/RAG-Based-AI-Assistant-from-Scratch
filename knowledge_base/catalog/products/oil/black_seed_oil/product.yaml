@@ -1,10 +1,10 @@
 schema_version: 1
 
 product_id: black_seed_oil
-slug: black-seed-oil
+slug: black-seed-oil   # Alternative: kalojira-tel
 
 name:
-  bn: কালো বীজ তেল
+  bn: কালোজিরার তেল
   en: Black Seed Oil
 
 category: oil
@@ -14,29 +14,28 @@ status: active
 visibility: public
 
 origin:
-  region: ''
+  region: ''          # Recommended: "Satkhira" / "Natore" / "Pabna" if source-specific
   country: Bangladesh
 
 availability:
-  seasonal: false
+  seasonal: false     # Usually available year-round as pressed oil
 
 pricing:
   currency: BDT
-
-  updated_at: '2026-06-09'
-  note: Subject to seasonal change.
+  updated_at: '2026-06-11'
+  note: Pure cold-pressed Black Seed Oil. Subject to market price of kalojira.
   variants:
-  - label: 250g
-    size_gm: 250
-    price: 0
+  - label: 100mL
+    size_ml: 100
+    price: 240
     in_stock: true
-  - label: 500g
-    size_gm: 500
-    price: 0
+  - label: 250mL
+    size_ml: 250
+    price: 590
     in_stock: true
-  - label: 1kg
-    size_gm: 1000
-    price: 0
+  - label: 500mL
+    size_ml: 500
+    price: 1100
     in_stock: true
 
 languages_supported:
@@ -45,50 +44,57 @@ languages_supported:
 - banglish
 
 aliases:
-- bij tel
-- black oil
+- black cumin oil
 - black seed oil
-- kalo bij tel
+- kalojira oil
+- kalojira tel
+- kalo jira oil
+- kalo jira tel
 - kalo tel
-- seed oil
-- কালো তেল
-- কালো বীজ তেল
-- বীজ তেল
-tags:
-- bij tel
-- black
-- black oil
-- black seed
-- kalo bij
-- kalo tel
-- oil
-- seed
-- seed oil
-- কালো
-- কালো তেল
-- কালো বীজ
-- তেল
-- বীজ
-- বীজ তেল
+- kalojirar tel
+- nigella oil
+- nigella seed oil
+- কালোজিরা তেল
+- কালোজিরার তেল
+- কালো জিরা তেল
+- কালো জিরার তেল
+- নাইজেলা তেল
 
-embedding_context: ''
+tags:
+- black cumin
+- black seed
+- kalojira
+- kalojira tel
+- kalo jira
+- kalo tel
+- nigella
+- oil
+- tel
+- কালোজিরা
+- কালোজিরার তেল
+- কালো জিরা
+- তেল
+
+embedding_context: |
+  Pure Black Seed Oil (কালোজিরার তেল / Kalojira Tel) cold-pressed from high-quality Nigella sativa (Kalojira) seeds. Also known as Black Cumin Seed Oil. Dark amber color with strong, slightly spicy aroma. Renowned for its powerful medicinal properties including immunity boosting, anti-inflammatory, antioxidant, and respiratory health benefits. Traditionally used in Bangladesh for skin care, hair growth, joint pain, and digestive health. One of the most valued therapeutic oils.
 
 retrieval:
-  priority: 0.9
+  priority: 0.95        # Increased
   business_critical: true
   boost_terms:
-  - bij tel
-  - black oil
+  - কালোজিরার তেল
+  - কালোজিরা তেল
+  - kalojira tel
   - black seed oil
-  - kalo bij tel
-  - oil
-  - seed oil
-  - কালো তেল
-  - কালো বীজ তেল
-  - বীজ তেল
+  - kalojira oil
+  - কালো জিরার তেল
+  - black cumin oil
+  - kalo jira tel
+  - nigella seed oil
+  - কালোজিরা তেল
 
 content_defaults:
   primary_language: bn
   fallback_language: en
 
-updated_at: '2026-06-09'
+updated_at: '2026-06-11'

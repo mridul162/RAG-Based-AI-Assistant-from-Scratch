@@ -1,11 +1,47 @@
 [
   {
-    "heading": "Warnings",
+    "heading": "Document",
     "level": 1,
-    "section_id": null,
+    "section_id": "allergens",
     "heading_path": [
-      "Warnings"
+      "Document"
     ],
-    "content": ""
+    "content": "<section id=\"allergens\">\n\nThis product contains or may contain the following allergens:\n\n| Allergen | Notes |\n|---|---|\n| **Bee pollen** | Present naturally in raw comb honey. A known and significant allergen. Can trigger reactions ranging from mild oral allergy syndrome to severe anaphylaxis in sensitized individuals. |\n| **Propolis** | Present in trace amounts. Cross-reacts with balsam of Peru, certain resins, and some topical products. Can cause allergic contact reactions. |\n| **Royal jelly** | May be present in trace amounts in wild comb honey. Associated with asthma, anaphylaxis, and dermatitis in sensitive individuals, particularly those with existing asthma or atopy. |\n| **Beeswax** | The natural comb is consumed alongside the honey. Beeswax allergy is rare but documented. |\n| **Floral allergens** | Pollen from Sundarbans mangrove and forest flora is carried in the honey. Cross-reactivity with specific plant allergies is possible. |\n\n**If you have a known allergy to bee products, bee stings, pollen, or any component listed above, consult a physician before consuming this product.**\n\n</section>"
+  },
+  {
+    "heading": "Absolute — Do Not Consume",
+    "level": 3,
+    "section_id": "contraindications",
+    "heading_path": [
+      "Absolute — Do Not Consume"
+    ],
+    "content": "- **Infants under 12 months:** Risk of infant botulism (see critical warning above).\n- **Individuals with confirmed bee product allergy:** Includes allergy to bee pollen, propolis, royal jelly, or beeswax.\n- **Individuals with known anaphylaxis to honey:** Do not consume under any circumstances without medical clearance.\n\n---"
+  },
+  {
+    "heading": "Exercise Caution — Consult a Doctor First",
+    "level": 3,
+    "section_id": "contraindications",
+    "heading_path": [
+      "Exercise Caution — Consult a Doctor First"
+    ],
+    "content": "- **Children aged 1–3 years:** Honey is generally considered safe after 12 months, but raw wild honey should be introduced cautiously and in small amounts due to higher microbial content compared to pasteurized honey.\n- **Pregnant women:** Raw honey carries a small risk of exposure to environmental contaminants and unpasteurized microbial content. Medical guidance varies; consult your OB/GYN.\n- **Breastfeeding mothers:** Generally considered low-risk, but consult a physician if in doubt.\n- **Immunocompromised individuals:** Including those undergoing chemotherapy, on long-term immunosuppressants, or living with HIV/AIDS. Raw honey is not sterile and may carry microbial or fungal spores that a healthy immune system handles easily but a compromised one may not.\n- **Individuals with asthma or atopic conditions:** Royal jelly and bee pollen in raw honey are associated with asthma exacerbation and allergic reactions in atopic individuals.\n- **Diabetics:** Honey is high in natural sugars (primarily fructose and glucose) and will raise blood glucose. It is not a safe sugar substitute for people managing diabetes. Consume only under medical advice and within a controlled dietary plan.\n- **Individuals on low-fructose or low-FODMAP diets:** Honey is high in fructose and is a high-FODMAP food. May trigger symptoms in people with fructose malabsorption or IBS.\n- **People with pollen food allergy syndrome (PFAS/OAS):** Cross-reactive pollen in raw honey may trigger oral allergy symptoms (itching or tingling in the mouth/throat).\n\n</section>"
+  },
+  {
+    "heading": "Document",
+    "level": 1,
+    "section_id": "interactions",
+    "heading_path": [
+      "Document"
+    ],
+    "content": "<section id=\"interactions\">\n\n| Drug / Condition | Interaction | Guidance |\n|---|---|---|\n| **Warfarin (Coumadin) and other anticoagulants** | Honey, particularly in large amounts, may have mild antiplatelet effects and could theoretically interact with blood thinners. | Do not consume in large quantities; inform your doctor if you use anticoagulants regularly. |\n| **Antidiabetic medications (insulin, metformin, etc.)** | Honey raises blood glucose and may counteract glucose-lowering medications or cause unpredictable glycemic swings. | Diabetics should avoid or consume only under direct medical supervision with blood glucose monitoring. |\n| **Antibiotics** | No established direct interaction, but honey has natural antimicrobial properties (hydrogen peroxide, propolis). No clinically significant drug interaction documented at food consumption levels. | Generally safe alongside antibiotics at normal dietary amounts. |\n| **MAO inhibitors (MAOIs)** | No direct interaction documented with honey specifically. Tyramine content in fermented or over-aged honey is a theoretical concern. | Avoid if honey shows signs of fermentation (bubbling, sour smell, alcohol taste). |\n| **Allergy immunotherapy (desensitization)** | Consuming bee pollen in raw honey while undergoing pollen immunotherapy may interfere with or complicate the therapy. | Consult your allergist before consuming raw honey during immunotherapy. |\n| **Compromised gut flora (post-antibiotic, IBD, Crohn's)** | Raw honey contains wild yeasts and microorganisms. These are harmless to a healthy gut but may be disruptive when gut flora is disturbed. | Exercise caution after a course of antibiotics or during IBD flare-ups. |\n\n</section>"
+  },
+  {
+    "heading": "Document",
+    "level": 1,
+    "section_id": "safe-limits",
+    "heading_path": [
+      "Document"
+    ],
+    "content": "<section id=\"safe-limits\">\n\nThere is no universally established medical upper limit for honey consumption in healthy adults, but the following guidance is based on nutritional science and general health recommendations:\n\n**Healthy adults:**\n- A commonly cited moderate intake is **1–2 tablespoons (approximately 20–40g) per day** as part of a balanced diet.\n- At this level, honey contributes roughly 60–120 kcal and 15–30g of sugar per day.\n\n**Key considerations:**\n\n- **This is raw, unpasteurized honey.** It retains natural enzymes, pollen, and wild microorganisms. These are generally beneficial, but consuming very large quantities daily of any raw product is not recommended.\n- **Sugar load:** Even natural sugar is sugar. Overconsumption contributes to caloric surplus, dental caries, and blood glucose spikes. The WHO recommends keeping free sugar intake below 10% of total daily energy intake (about 50g/day for an average adult — honey counts toward this).\n- **Honey as medicine:** This product is sold as a food, not a medicine. Medicinal claims (immunity, wound healing, etc.) are traditional and not a substitute for professional medical treatment.\n- **Do not heat excessively:** Heating above 40°C (104°F) destroys the natural enzymes, antioxidants, and antimicrobial compounds that make raw honey valuable. Do not dissolve in boiling water or cook into high-heat recipes if retaining raw properties is important to you.\n\n</section>"
   }
 ]

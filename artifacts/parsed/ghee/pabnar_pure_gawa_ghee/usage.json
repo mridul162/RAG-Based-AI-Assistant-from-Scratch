@@ -1,11 +1,20 @@
 [
   {
-    "heading": "Usage",
-    "level": 1,
+    "heading": "As a Finishing Ingredient",
+    "level": 3,
     "section_id": null,
     "heading_path": [
-      "Usage"
+      "As a Finishing Ingredient"
     ],
-    "content": ""
+    "content": "| Use Case         | Suggested Amount                    |\n| ---------------- | ----------------------------------- |\n| Hot rice         | 1–2 teaspoons per serving           |\n| Khichuri         | 1–2 teaspoons per serving           |\n| Polao or biryani | 1–2 tablespoons per pot or to taste |\n| Dal (lentils)    | 1 teaspoon per bowl                 |\n| Bread or paratha | ½–1 teaspoon per piece              |"
+  },
+  {
+    "heading": "For Cooking",
+    "level": 3,
+    "section_id": null,
+    "heading_path": [
+      "For Cooking"
+    ],
+    "content": "| Preparation         | Suggested Amount                            |\n| ------------------- | ------------------------------------------- |\n| Vegetable sauté     | 1–2 tablespoons                             |\n| Tempering spices    | 1 tablespoon                                |\n| Dessert preparation | As required by recipe                       |\n| Baking              | Substitute according to recipe requirements |\n\n</section>"
   }
 ]

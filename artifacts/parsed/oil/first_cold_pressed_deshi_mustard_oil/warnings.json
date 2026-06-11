@@ -1,11 +1,65 @@
 [
   {
-    "heading": "Warnings",
+    "heading": "Document",
     "level": 1,
-    "section_id": null,
+    "section_id": "allergens",
     "heading_path": [
-      "Warnings"
+      "Document"
     ],
-    "content": ""
+    "content": "<section id=\"allergens\">\n\n| Allergen | Status |\n|---|---|\n| **Mustard** | ✅ PRIMARY ALLERGEN — this product is 100% mustard oil |\n| Tree nuts | ❌ Not present |\n| Peanuts | ❌ Not present |\n| Sesame | ❌ Not present |\n| Gluten | ❌ Not present |\n| Soy | ❌ Not present |\n| Dairy | ❌ Not present |\n\n&gt; ⚠️ **Mustard is a major food allergen** recognized in the EU, Canada, and many other regulatory frameworks. Individuals with a known mustard allergy must avoid this product entirely.\n\n**Cross-contamination:** If processed in a facility that also handles other seeds or oilseeds, cross-contamination is possible. Buyers with severe allergies should confirm facility practices with the seller.\n\n**Symptoms of mustard allergy** may include: skin hives, itching, swelling, digestive upset, runny nose, or in severe cases, anaphylaxis. Seek immediate medical attention if a serious allergic reaction occurs.\n\n</section>"
+  },
+  {
+    "heading": "❌ Avoid — Strong Caution",
+    "level": 3,
+    "section_id": "contraindications",
+    "heading_path": [
+      "❌ Avoid — Strong Caution"
+    ],
+    "content": "**Infants under 12 months (topical use)**\nApplying undiluted mustard oil on the skin of newborns and very young infants is a traditional practice but carries documented risk. Studies have indicated that topical mustard oil may impair the skin barrier in neonates. Avoid applying to infants' skin unless specifically advised by a pediatrician.\n\n**Infants under 12 months (oral / food use)**\nNot recommended as a direct supplement. As a cooking ingredient in very small amounts in weaning foods, consult a pediatrician first.\n\n**Individuals with confirmed mustard allergy**\nComplete avoidance required — even trace contact may trigger a reaction.\n\n**Individuals with erucic acid sensitivity**\nDeshi mustard oil is naturally high in erucic acid (typically 30–50%). While consumed traditionally in Bangladesh and South Asia for generations, some regulatory bodies (including the EU and US FDA) restrict mustard oil for edible use due to erucic acid content. Individuals with known cardiac conditions should consult a doctor before consuming mustard oil regularly as a dietary fat.\n\n---"
+  },
+  {
+    "heading": "⚠️ Use with Caution",
+    "level": 3,
+    "section_id": "contraindications",
+    "heading_path": [
+      "⚠️ Use with Caution"
+    ],
+    "content": "**Pregnant and breastfeeding women**\nModerate use as a cooking oil is generally considered traditional and safe in South Asian diets. Avoid consuming large quantities as a supplement or tonic. Consult a healthcare provider for personalized guidance.\n\n**Individuals with thyroid conditions (hypothyroidism / goiter)**\nMustard belongs to the cruciferous/Brassica family. Raw or uncooked mustard compounds (glucosinolates) may have mild goitrogenic effects when consumed in very large amounts. Cooking significantly reduces this risk. People with thyroid disorders should avoid drinking mustard oil raw in large quantities and consult their doctor.\n\n**Individuals with gallbladder disease or bile duct disorders**\nHigh-fat oils can stimulate bile flow. People with active gallbladder disease, gallstones, or bile duct obstruction should use with caution and seek medical advice.\n\n**People with existing cardiovascular conditions**\nDue to high erucic acid content, those with pre-existing heart conditions should discuss regular dietary use with their cardiologist.\n\n**Children (topical use)**\nDilute before applying to skin. Avoid use near eyes, nose, and mouth. Do not apply to broken or irritated skin.\n\n</section>"
+  },
+  {
+    "heading": "Document",
+    "level": 1,
+    "section_id": "interactions",
+    "heading_path": [
+      "Document"
+    ],
+    "content": "<section id=\"interactions\">\n\n&gt; **Disclaimer:** The interactions listed below are based on known properties of mustard oil and its compounds. This is not an exhaustive medical list. Always consult a qualified healthcare provider before making changes to your diet if you are on medication.\n\n| Medication / Condition | Interaction | Guidance |\n|---|---|---|\n| **Anticoagulants / Blood thinners** (e.g. warfarin, aspirin therapy) | Mustard oil contains omega-3 fatty acids which may have mild blood-thinning properties; large supplemental doses could theoretically enhance anticoagulant effects | Use only as a normal cooking oil in typical quantities; avoid consuming as a supplement |\n| **Thyroid medications** (e.g. levothyroxine) | Glucosinolate compounds in raw mustard may mildly interfere with thyroid hormone synthesis | Avoid consuming raw/unheated mustard oil in large amounts; cooked use in normal quantities is generally fine |\n| **Antihypertensive drugs** | Some studies suggest mustard oil may have mild blood pressure effects; combining with medication could alter outcomes | Monitor blood pressure; inform your doctor of regular mustard oil consumption |\n| **Hypercholesterolemia treatment** | High erucic acid content is a consideration in lipid management | Discuss with your doctor if on active cholesterol-lowering therapy |\n| **Diabetes / Blood sugar medications** | No well-established direct interaction, but dietary fat changes can affect glucose metabolism | Consult a doctor if making significant changes to cooking oil |\n\n</section>"
+  },
+  {
+    "heading": "Dietary (Cooking) Use",
+    "level": 3,
+    "section_id": "safe-limits",
+    "heading_path": [
+      "Dietary (Cooking) Use"
+    ],
+    "content": "- **General adult population:** Mustard oil used as a primary cooking oil in typical South Asian culinary quantities is widely considered safe. No specific upper daily limit has been formally established for cooking use in Bangladesh.\n- **As a supplement / tonic (raw consumption):** Not recommended in large amounts. If consuming raw, limit to **1–2 teaspoons per day** and consult a healthcare provider.\n- **WHO / international note:** The WHO and some international bodies advise caution with oils high in erucic acid as the primary dietary fat. This applies to very high-consumption patterns, not typical cooking use."
+  },
+  {
+    "heading": "Topical Use",
+    "level": 3,
+    "section_id": "safe-limits",
+    "heading_path": [
+      "Topical Use"
+    ],
+    "content": "- **Adults:** Can be applied directly to skin and hair. Avoid contact with eyes.\n- **Children (over 1 year):** Dilute with a carrier oil (e.g. coconut oil) at a 1:1 ratio before applying to skin. Keep away from face.\n- **Infants (under 12 months):** Avoid topical application. See contraindications above.\n- **Do not apply to:** Open wounds, severely broken skin, mucous membranes, or near the eyes."
+  },
+  {
+    "heading": "Storage &amp; Handling Safety",
+    "level": 3,
+    "section_id": "safe-limits",
+    "heading_path": [
+      "Storage &amp; Handling Safety"
+    ],
+    "content": "- Store in a cool, dark place away from direct sunlight and heat.\n- Keep the container tightly sealed to prevent oxidation and rancidity.\n- Do not use if the oil smells rancid, has changed color significantly, or shows signs of contamination.\n- Keep out of reach of children.\n- Flammable — keep away from open flames when heating. Do not overheat; overheated oil produces harmful smoke compounds.\n\n---\n\n&gt; **Medical disclaimer:** The information in this document is provided for general informational purposes only. It does not constitute medical advice. Always consult a qualified healthcare professional for medical guidance specific to your situation.\n\n</section>"
   }
 ]

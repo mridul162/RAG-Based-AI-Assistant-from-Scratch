@@ -1,11 +1,20 @@
 [
   {
-    "heading": "Sourcing",
-    "level": 1,
+    "heading": "Source Region",
+    "level": 3,
     "section_id": null,
     "heading_path": [
-      "Sourcing"
+      "Source Region"
     ],
-    "content": ""
+    "content": "| Attribute        | Details                                  |\n| ---------------- | ---------------------------------------- |\n| Country          | Bangladesh                               |\n| Primary Region   | Pabna                                    |\n| Product Type     | Traditional cow ghee (Gawa Ghee)         |\n| Raw Material     | Fresh cow's milk                         |\n| Production Style | Traditional slow-cooked ghee preparation |\n\n</section>"
+  },
+  {
+    "heading": "Farm-to-Consumer Journey",
+    "level": 3,
+    "section_id": null,
+    "heading_path": [
+      "Farm-to-Consumer Journey"
+    ],
+    "content": "**Step 1: Milk Collection**\n\n* Fresh cow's milk is sourced from dairy-producing areas within and around Pabna.\n* Milk is collected and prepared for processing.\n\n**Step 2: Fat Extraction**\n\n* Cream or milk fat is separated using traditional dairy practices.\n\n**Step 3: Ghee Preparation**\n\n* The milk fat is slowly cooked until clarified ghee is formed.\n* The process develops the product's characteristic aroma, flavor, and color.\n\n**Step 4: Quality Inspection**\n\n* The finished ghee is visually checked for consistency, texture, aroma, and purity.\n* Impurities and excess milk solids are removed through filtration.\n\n**Step 5: Packaging**\n\n* Ghee is packed into sealed containers to help preserve freshness and quality.\n\n**Step 6: Distribution**\n\n* Products are transported to retailers, distributors, and end customers.\n\n</section>"
   }
 ]

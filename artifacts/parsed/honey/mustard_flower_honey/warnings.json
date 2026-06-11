@@ -1,11 +1,119 @@
 [
   {
-    "heading": "Warnings",
-    "level": 1,
-    "section_id": null,
+    "heading": "Honey Allergens (General)",
+    "level": 3,
+    "section_id": "allergens",
     "heading_path": [
-      "Warnings"
+      "Honey Allergens (General)"
     ],
-    "content": ""
+    "content": "Raw honey may contain trace amounts of:\n- **Bee proteins** (including bee venom proteins) — a potential trigger for individuals with bee/wasp venom allergies\n- **Propolis** — a resinous bee product present in raw honey at low levels; some individuals are sensitive to it\n- **Royal jelly** — may be present in trace amounts; known to cause allergic reactions in sensitive individuals"
+  },
+  {
+    "heading": "Mustard-Specific Allergen (Important)",
+    "level": 3,
+    "section_id": "allergens",
+    "heading_path": [
+      "Mustard-Specific Allergen (Important)"
+    ],
+    "content": "Mustard (*Brassica* spp.) is a **recognized food allergen** listed under major allergen frameworks in several countries. Mustard flower honey contains mustard pollen and potentially trace floral compounds from mustard blossoms.\n\n**Individuals with a known mustard or Brassica allergy should treat this product with caution and consult a doctor before consuming it.**\n\nThis is a meaningful distinction from generic multifloral honey and should be communicated clearly to buyers who ask about allergens.\n\n| Allergen | Present | Level | Notes |\n|---|---|---|---|\n| Bee proteins | Yes | Trace | Risk for bee venom-allergic individuals |\n| Propolis | Yes | Trace | Risk for propolis-sensitive individuals |\n| Mustard / Brassica pollen | Yes | Moderate | Risk for mustard-allergic individuals |\n| Gluten | No | None | Honey is naturally gluten-free |\n| Dairy | No | None | — |\n| Nuts | No | None | — |\n\n&gt; This product is produced in an apiary environment. Cross-contamination with other floral pollens is inherent to natural honey and cannot be fully excluded.\n\n</section>"
+  },
+  {
+    "heading": "⚠️ Infants Under 12 Months — Do Not Use",
+    "level": 3,
+    "section_id": "contraindications",
+    "heading_path": [
+      "⚠️ Infants Under 12 Months — Do Not Use"
+    ],
+    "content": "**Honey of any type must not be given to children under 12 months of age.** Raw honey may contain spores of *Clostridium botulinum*, a bacterium harmless to adults and older children but capable of germinating in an infant's immature digestive system and producing botulinum toxin, causing **infant botulism** — a serious and potentially fatal illness.\n\nThis applies regardless of the honey's purity, origin, or how it is administered (directly, in food, or on a pacifier).\n\n**There are no exceptions to this restriction.**"
+  },
+  {
+    "heading": "Individuals with Mustard or Brassica Allergy",
+    "level": 3,
+    "section_id": "contraindications",
+    "heading_path": [
+      "Individuals with Mustard or Brassica Allergy"
+    ],
+    "content": "As noted above, mustard pollen is present in this honey. Anyone who reacts to mustard seeds, mustard oil, or other Brassica vegetables (e.g. cabbage, broccoli, cauliflower) in an allergic (not intolerance-based) way should avoid this product or seek medical clearance first."
+  },
+  {
+    "heading": "Individuals with Diagnosed Bee Venom Allergy (Severe)",
+    "level": 3,
+    "section_id": "contraindications",
+    "heading_path": [
+      "Individuals with Diagnosed Bee Venom Allergy (Severe)"
+    ],
+    "content": "Those with a documented severe allergy to bee stings (anaphylaxis history) should exercise caution with raw honey products and consult an allergist before use."
+  },
+  {
+    "heading": "People with Uncontrolled Diabetes",
+    "level": 3,
+    "section_id": "contraindications",
+    "heading_path": [
+      "People with Uncontrolled Diabetes"
+    ],
+    "content": "Honey is a high-glycemic food. Mustard flower honey is predominantly glucose and fructose. While it is a natural sugar source, it will raise blood glucose levels. People with uncontrolled or poorly managed diabetes should not use honey as a free food. Those with well-managed diabetes may consume small amounts under dietary guidance."
+  },
+  {
+    "heading": "People with Fructose Malabsorption",
+    "level": 3,
+    "section_id": "contraindications",
+    "heading_path": [
+      "People with Fructose Malabsorption"
+    ],
+    "content": "Honey contains significant fructose. Those with diagnosed fructose malabsorption may experience bloating, cramping, or diarrhea.\n\n</section>"
+  },
+  {
+    "heading": "Document",
+    "level": 1,
+    "section_id": "interactions",
+    "heading_path": [
+      "Document"
+    ],
+    "content": "<section id=\"interactions\">\n\n| Condition / Drug | Interaction | Recommendation |\n|---|---|---|\n| **Diabetes medications** (insulin, metformin, sulfonylureas) | Honey raises blood glucose and may affect medication dosing requirements | Use only under dietary supervision; monitor blood glucose if consuming regularly |\n| **Warfarin / blood thinners** | Large amounts of honey may have a mild anticoagulant effect; evidence is limited but noted | Keep consumption moderate and consistent; inform prescribing doctor |\n| **Immunosuppressed patients** (chemotherapy, organ transplant, HIV) | Raw honey carries a low but non-zero microbial load; pasteurized honey is generally recommended for this group | Consult treating physician before use; this product is raw/natural, not pasteurized |\n| **Pollen allergy / hay fever** | Mustard pollen in the honey may trigger or worsen pollen allergy symptoms in sensitive individuals during allergy season | Start with a very small amount to test tolerance; discontinue if symptoms worsen |\n| **Gastrointestinal conditions** (IBS, SIBO) | Honey's fructose and fermentable sugars may aggravate symptoms in some GI conditions | Use in small amounts; monitor tolerance |\n\n&gt; This table covers the most clinically relevant interactions. It is not exhaustive. Customers taking prescribed medications for any chronic condition should check with their doctor or pharmacist if unsure.\n\n</section>"
+  },
+  {
+    "heading": "General Healthy Adults",
+    "level": 3,
+    "section_id": "safe-usage",
+    "heading_path": [
+      "General Healthy Adults"
+    ],
+    "content": "- A commonly referenced moderate daily intake of honey for adults is **1–2 tablespoons (approximately 20–40g) per day** as part of a normal diet.\n- There is no evidence that mustard flower honey requires a lower limit than other honeys when consumed in moderation.\n- Consuming honey in excess of this regularly contributes meaningfully to daily sugar intake and is not recommended for weight management or dental health."
+  },
+  {
+    "heading": "Children (1 Year and Older)",
+    "level": 3,
+    "section_id": "safe-usage",
+    "heading_path": [
+      "Children (1 Year and Older)"
+    ],
+    "content": "- Small amounts (½–1 teaspoon) are generally considered safe for children over 12 months.\n- Honey should not be a primary sweetener in a child's regular diet.\n- **Under 12 months: strictly avoid** (see above)."
+  },
+  {
+    "heading": "Heating",
+    "level": 3,
+    "section_id": "safe-usage",
+    "heading_path": [
+      "Heating"
+    ],
+    "content": "- Do not mix into boiling water or cook at high temperatures. Excessive heat (above ~60°C) degrades beneficial enzymes and antioxidants. Add to warm — not boiling — water or food.\n- Avoid storing near a heat source or in direct sunlight."
+  },
+  {
+    "heading": "Storage",
+    "level": 3,
+    "section_id": "safe-usage",
+    "heading_path": [
+      "Storage"
+    ],
+    "content": "- Store in a sealed container at room temperature, away from moisture.\n- Do not refrigerate — cold accelerates crystallization and makes the honey harder to use.\n- Crystallized honey is safe to eat as-is or can be gently liquefied in a warm water bath (below 40°C).\n- No expiry in the traditional sense, but best consumed within **18–24 months** of harvest for optimal flavor and enzyme activity."
+  },
+  {
+    "heading": "Topical Use",
+    "level": 3,
+    "section_id": "safe-usage",
+    "heading_path": [
+      "Topical Use"
+    ],
+    "content": "- When used on skin or minor wounds, apply a thin layer only. Discontinue if redness, swelling, or irritation develops — this may indicate a propolis or pollen sensitivity.\n\n</section>"
   }
 ]

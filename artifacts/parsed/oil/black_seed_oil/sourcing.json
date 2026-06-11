@@ -1,11 +1,215 @@
 [
   {
-    "heading": "Sourcing",
+    "heading": "Origin Summary",
+    "level": 3,
+    "section_id": null,
+    "heading_path": [
+      "Origin Summary"
+    ],
+    "content": "| Attribute       | Details                           |\n| --------------- | --------------------------------- |\n| Botanical Name  | *Nigella sativa*                  |\n| Common Names    | Kalojira, Black Seed, Black Cumin |\n| Product Origin  | Bangladesh                        |\n| Raw Material    | Mature dried kalojira seeds       |\n| Processing Type | Cold-pressed oil extraction       |"
+  },
+  {
+    "heading": "Growing Conditions",
+    "level": 3,
+    "section_id": null,
+    "heading_path": [
+      "Growing Conditions"
+    ],
+    "content": "Kalojira grows well in:\n\n* Well-drained soils.\n* Moderate winter temperatures.\n* Dry conditions during seed maturation.\n* Small-scale and commercial farming systems.\n\nBangladesh's climate supports seasonal cultivation of kalojira, making it a familiar crop in many agricultural communities."
+  },
+  {
+    "heading": "Local Sourcing Benefits",
+    "level": 3,
+    "section_id": null,
+    "heading_path": [
+      "Local Sourcing Benefits"
+    ],
+    "content": "Locally sourced seeds may offer:\n\n* Reduced transportation distances.\n* Faster movement from harvest to processing.\n* Support for domestic agricultural producers.\n* Improved supply chain visibility compared to some imported alternatives.\n\n</section>"
+  },
+  {
+    "heading": "Cultivation",
+    "level": 3,
+    "section_id": null,
+    "heading_path": [
+      "Cultivation"
+    ],
+    "content": "Kalojira is grown primarily for its aromatic seeds. Farmers cultivate the crop during the cooler growing season and manage it using conventional agricultural practices suitable for local conditions."
+  },
+  {
+    "heading": "Harvesting Process",
+    "level": 3,
+    "section_id": null,
+    "heading_path": [
+      "Harvesting Process"
+    ],
+    "content": "The harvesting process typically includes:\n\n1. Allowing seed pods to mature fully on the plant.\n2. Harvesting plants when seed capsules dry and ripen.\n3. Drying harvested material to reduce moisture.\n4. Separating seeds from stems and plant matter.\n5. Cleaning and sorting seeds before processing."
+  },
+  {
+    "heading": "Seed Selection",
+    "level": 3,
+    "section_id": null,
+    "heading_path": [
+      "Seed Selection"
+    ],
+    "content": "Before oil extraction, seeds are generally:\n\n* Cleaned to remove dust and foreign materials.\n* Inspected for quality.\n* Dried to an appropriate moisture level.\n* Sorted to improve consistency."
+  },
+  {
+    "heading": "Oil Extraction",
+    "level": 3,
+    "section_id": null,
+    "heading_path": [
+      "Oil Extraction"
+    ],
+    "content": "The oil is obtained through cold pressing.\n\nCold pressing typically involves:\n\n* Mechanical extraction without solvent use.\n* Minimal heat generation during processing.\n* Retention of the oil's characteristic aroma, flavor, and natural composition.\n\nThe resulting oil is filtered before packaging while remaining less processed than heavily refined oils.\n\n</section>"
+  },
+  {
+    "heading": "Crop Season",
+    "level": 3,
+    "section_id": null,
+    "heading_path": [
+      "Crop Season"
+    ],
+    "content": "In Bangladesh, kalojira is generally cultivated as a winter-season crop.\n\nTypical agricultural stages include:\n\n| Stage         | Approximate Period          |\n| ------------- | --------------------------- |\n| Sowing        | Late autumn to early winter |\n| Growth Period | Winter months               |\n| Harvest       | Late winter to early spring |\n\nActual timing may vary depending on region, weather conditions, and farming practices."
+  },
+  {
+    "heading": "Availability",
+    "level": 3,
+    "section_id": null,
+    "heading_path": [
+      "Availability"
+    ],
+    "content": "Although harvesting is seasonal, Black Seed Oil is available throughout the year because:\n\n* Seeds can be stored after harvest.\n* Oil can be pressed in batches as needed.\n* Proper storage helps preserve seed quality for future processing.\n\nAs a result, consumers can generally purchase Black Seed Oil year-round."
+  },
+  {
+    "heading": "Freshness Considerations",
+    "level": 3,
+    "section_id": null,
+    "heading_path": [
+      "Freshness Considerations"
+    ],
+    "content": "Freshly harvested and properly stored seeds are preferred for oil production because seed quality influences:\n\n* Aroma.\n* Flavor.\n* Appearance.\n* Overall oil characteristics.\n\n</section>"
+  },
+  {
+    "heading": "From Farm to Consumer",
+    "level": 3,
+    "section_id": null,
+    "heading_path": [
+      "From Farm to Consumer"
+    ],
+    "content": "The typical supply chain follows these stages:\n\n```text\nCultivation\n      ↓\nHarvesting\n      ↓\nDrying &amp; Cleaning\n      ↓\nSeed Storage\n      ↓\nCold Pressing\n      ↓\nFiltration\n      ↓\nPackaging\n      ↓\nDistribution\n      ↓\nConsumer\n```"
+  },
+  {
+    "heading": "Processing Workflow",
+    "level": 3,
+    "section_id": null,
+    "heading_path": [
+      "Processing Workflow"
+    ],
+    "content": ""
+  },
+  {
+    "heading": "Step 1: Seed Procurement",
+    "level": 4,
+    "section_id": null,
+    "heading_path": [
+      "Processing Workflow",
+      "Step 1: Seed Procurement"
+    ],
+    "content": "Quality kalojira seeds are sourced from agricultural producers and suppliers."
+  },
+  {
+    "heading": "Step 2: Cleaning &amp; Preparation",
+    "level": 4,
+    "section_id": null,
+    "heading_path": [
+      "Processing Workflow",
+      "Step 2: Cleaning &amp; Preparation"
+    ],
+    "content": "Seeds are cleaned and prepared for pressing to remove impurities and improve processing consistency."
+  },
+  {
+    "heading": "Step 3: Cold Press Extraction",
+    "level": 4,
+    "section_id": null,
+    "heading_path": [
+      "Processing Workflow",
+      "Step 3: Cold Press Extraction"
+    ],
+    "content": "Oil is mechanically extracted using cold-press methods that avoid chemical solvents."
+  },
+  {
+    "heading": "Step 4: Filtration",
+    "level": 4,
+    "section_id": null,
+    "heading_path": [
+      "Processing Workflow",
+      "Step 4: Filtration"
+    ],
+    "content": "The oil is filtered to remove larger suspended particles while maintaining its natural character."
+  },
+  {
+    "heading": "Step 5: Packaging",
+    "level": 4,
+    "section_id": null,
+    "heading_path": [
+      "Processing Workflow",
+      "Step 5: Packaging"
+    ],
+    "content": "The finished oil is packaged into retail containers of various sizes, including:\n\n* 100 mL\n* 250 mL\n* 500 mL"
+  },
+  {
+    "heading": "Step 6: Distribution",
+    "level": 4,
+    "section_id": null,
+    "heading_path": [
+      "Processing Workflow",
+      "Step 6: Distribution"
+    ],
+    "content": "Products are distributed through retail, direct-sales, online, and delivery channels throughout Bangladesh.\n\n</section>"
+  },
+  {
+    "heading": "Agricultural Support",
+    "level": 3,
+    "section_id": null,
+    "heading_path": [
+      "Agricultural Support"
+    ],
+    "content": "Local sourcing may contribute to:\n\n* Income opportunities for Bangladeshi farmers.\n* Demand for locally grown kalojira.\n* Reduced dependence on imported raw materials."
+  },
+  {
+    "heading": "Resource Efficiency",
+    "level": 3,
+    "section_id": null,
+    "heading_path": [
+      "Resource Efficiency"
+    ],
+    "content": "Compared with imported alternatives, local production may reduce:\n\n* International transportation requirements.\n* Long-distance logistics.\n* Associated packaging and handling demands."
+  },
+  {
+    "heading": "Responsible Processing",
+    "level": 3,
+    "section_id": null,
+    "heading_path": [
+      "Responsible Processing"
+    ],
+    "content": "Cold-press extraction is generally considered a minimal-processing method because it:\n\n* Avoids chemical solvent extraction.\n* Preserves the natural characteristics of the seed.\n* Produces oil with fewer processing steps than refined alternatives."
+  },
+  {
+    "heading": "Transparency",
+    "level": 3,
+    "section_id": null,
+    "heading_path": [
+      "Transparency"
+    ],
+    "content": "Supply chain transparency depends on individual producers, processors, and distributors. Customers seeking additional sourcing or quality documentation should contact the supplier directly for batch-specific information when available.\n\n</section>"
+  },
+  {
+    "heading": "Document",
     "level": 1,
     "section_id": null,
     "heading_path": [
-      "Sourcing"
+      "Document"
     ],
-    "content": ""
+    "content": "<section>\n\n| Category             | Summary                                                              |\n| -------------------- | -------------------------------------------------------------------- |\n| Raw Material         | *Nigella sativa* (Kalojira) seeds                                    |\n| Country of Origin    | Bangladesh                                                           |\n| Harvest Type         | Seasonal agricultural crop                                           |\n| Processing Method    | Cold-pressed extraction                                              |\n| Availability         | Year-round through stored seed and batch production                  |\n| Supply Chain Length  | Relatively short compared to imported alternatives                   |\n| Sustainability Focus | Local sourcing, minimal processing, support for domestic agriculture |\n\n</section>"
   }
 ]

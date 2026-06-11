@@ -1,1 +1,43 @@
 # Storage
+## Ideal Conditions
+
+Sundarbans Raw Comb Honey is a live, unpasteurized product containing natural active enzymes, wild yeasts, and organic matter. Proper storage is necessary to preserve its medicinal properties and prevent premature fermentation.
+
+* **Temperature:** Store in a cool, dry place between **18°C and 25°C**. Keep away from direct sunlight, stove tops, ovens, or any heat-emitting kitchen appliances.
+* **Do Not Refrigerate:** Refrigeration accelerates crystallization and thickens the honey, making it difficult to scoop without damaging the natural comb pieces. Cold storage can also inadvertently introduce moisture upon opening.
+* **Humidity Control:** Wild mangrove honey naturally carries a higher moisture profile (around 18% to 20%) compared to factory-processed honeys. Always close the lid tightly immediately after use to prevent it from absorbing additional ambient moisture from the air (hygroscopy), which can trigger wild yeast fermentation.
+
+---
+
+## Container Recommendations
+
+The type of storage container used directly affects the acidity and shelf life of raw honey.
+
+* **Best Option (Glass Jars):** High-quality glass is non-reactive and non-porous. It provides the best barrier against moisture and odors while ensuring the native organic acids in the Sundarbans honey do not react with the container wall.
+* **Acceptable Option (Food-Grade HDPE Plastic):** Safe for short-to-medium term storage if glass is unavailable. Ensure the plastic is completely BPA-free.
+* **Strictly Avoid (Metals):** Never store raw honey long-term in metal containers (including tin, iron, or low-grade stainless steel). The natural acidity of raw honey (typically pH 3.5 to 4.5) can slowly corrode metals, leading to chemical contamination and altering the honey's taste and color.
+
+---
+
+## Shelf Life
+
+Pure raw honey technically does not have an absolute expiration date due to its low pH and natural hydrogen peroxide content. However, because this product contains raw honeycomb, pollen, and propolis fragments, the recommended quality timelines are as follows:
+
+| Package State | Recommended Shelf Life | Quality Maintenance Notes |
+| --- | --- | --- |
+| **Unopened Jar** | **2 Years** from harvest date | Maintain stable room temperature out of direct light. |
+| **Opened Jar** | **1 Year** for optimal quality | Use clean, completely dry wooden or plastic spoons. |
+
+> **Crystallization is Not Expiration:** Raw honey may slowly cloudy up, solidify, or turn grainy over time. This is a natural physical reaction of glucose separating from the liquid matrix, proving the honey is unheated and unfiltered. To reliquefy, place the sealed glass jar in a warm water bath (below 40°C) until the crystals melt. Do not microwave.
+
+---
+
+## Signs of Spoilage
+
+While true honey spoilage is rare, the high wild-yeast count and natural moisture content of wild-harvested Sundarbans honey mean fermentation can occur if water gets inside the jar.
+
+Watch out for these specific signs that the product has degraded or spoiled:
+
+* **Active Fermentation:** A sharp, sour, beer-like, or alcohol-like smell replacing the rich, woody mangrove aroma.
+* **Excessive Gas and Foam:** Continuous bubbling, a thick layer of white foam forming rapidly on the surface, or gas escaping aggressively (hissing) when the lid is unscrewed.
+* **Mold Growth:** While pure honey inhibits mold, exposed pieces of honeycomb or pollen floating at the top can develop mold patches if contaminated with dirty, wet utensils. Discard the entire jar if mold is present.

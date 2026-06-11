@@ -7,5 +7,45 @@
       "Shipping"
     ],
     "content": ""
+  },
+  {
+    "heading": "Temperature requirements",
+    "level": 2,
+    "section_id": null,
+    "heading_path": [
+      "Shipping",
+      "Temperature requirements"
+    ],
+    "content": "* **Transit Thresholds:** Black seed oil should ideally be maintained between 15°C and 25°C during transport. Short-term exposure to standard domestic transit temperatures is acceptable, but prolonged exposure to temperatures exceeding 35°C must be avoided to prevent accelerated oxidation and loss of active thymoquinone.\n* **Storage in Transit:** Shipments must not be placed near heat-generating components in delivery vehicles or left exposed to direct sunlight in open loading docks, particularly during summer months.\n* **Seasonal Restrictions:** There are no seasonal bans on shipping this product since it is available year-round. However, during periods of extreme heat, thermal bubble wrap or insulated shipping liners are recommended for long-distance domestic routes."
+  },
+  {
+    "heading": "Packaging notes",
+    "level": 2,
+    "section_id": null,
+    "heading_path": [
+      "Shipping",
+      "Packaging notes"
+    ],
+    "content": "* **Fragility:** The product is distributed in glass variants (100mL, 250mL, and 500mL) to preserve chemical stability. These containers are highly fragile and susceptible to impact damage.\n* **Shock Absorption:** Each individual bottle must be wrapped in multiple layers of bubble wrap or custom-fit corrugated sleeves before being placed inside the outer transit box.\n* **Leak Prevention:** To avoid leakage caused by pressure changes or vibration during handling, the bottle cap must feature a secure pressure seal or induction liner. The neck of the bottle should be wrapped with tamper-evident, leak-proof shrink bands.\n* **Void Fill:** Outer boxes must contain sufficient void fill (such as kraft paper or air pillows) to ensure the product remains entirely stationary during sorting and transit."
+  },
+  {
+    "heading": "Regulatory considerations",
+    "level": 2,
+    "section_id": null,
+    "heading_path": [
+      "Shipping",
+      "Regulatory considerations"
+    ],
+    "content": "* **Product Classification:** Classified as a liquid-based therapeutic food/herbal oil product within Bangladesh.\n* **Shipping Documentation:** All domestic commercial shipments must be accompanied by a standard invoice specifying the product IDs (`black_seed_oil`), batch details, and manufacturing/packing dates.\n* **Weight Variants:** Shipping calculations and manifests must accurately account for the net weights of the active variants:\n* 100mL (Net oil volume)\n* 250mL (Net oil volume)\n* 500mL (Net oil volume)\n*(Gross shipping weight will be higher due to protective glass packaging).*"
+  },
+  {
+    "heading": "International shipping",
+    "level": 2,
+    "section_id": null,
+    "heading_path": [
+      "Shipping",
+      "International shipping"
+    ],
+    "content": "* **Liquid Restrictions:** International transport of liquids via air courier is strictly regulated. Shipments require explicit authorization from the carrier, and the packages must conform to IATA (International Air Transport Association) liquid packaging guidelines, including double-sealing and pressure-resistant containment.\n* **Customs Compliance:** When crossing international borders, *Nigella sativa* oil may be classified as either a dietary supplement, a traditional medicine, or a food item depending on the destination country's regulations (e.g., FDA in the United States, EFSA in the European Union).\n* **Required Documentation:** International orders typically require:\n* A detailed Material Safety Data Sheet (MSDS) certifying the oil is non-hazardous, non-flammable, and alcohol-free.\n* A Certificate of Analysis (CoA) confirming 100% purity.\n* Commercial invoices featuring accurate HS Codes for vegetable/fixed oils.\n\n\n* **Importer Responsibility:** Buyers are responsible for ensuring that black seed oil importations comply with their local national health and customs authorities."
   }
 ]

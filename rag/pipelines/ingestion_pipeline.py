@@ -190,6 +190,8 @@ class IngestionPipeline:
 
         total_chunks = 0
 
+        chunk_word_counts = []
+
         # -------------------------------------------------
         # STEP 4 — PROCESS DOCUMENTS
         # -------------------------------------------------
@@ -307,6 +309,11 @@ class IngestionPipeline:
 
             total_chunks += len(chunks)
 
+            chunk_word_counts.extend(
+                chunk.metadata["word_count"]
+                for chunk in chunks
+            )
+
             # ---------------------------------------------
             # Persist Chunk Artifacts
             # ---------------------------------------------
@@ -333,6 +340,8 @@ class IngestionPipeline:
             total_sections=total_sections,
 
             total_chunks=total_chunks,
+
+            chunk_word_counts=chunk_word_counts,
         )
 
         # -------------------------------------------------
@@ -378,6 +387,7 @@ class IngestionPipeline:
         documents,
         total_sections,
         total_chunks,
+        chunk_word_counts,
     ):
 
         print("\n" + "=" * 70)
@@ -398,6 +408,23 @@ class IngestionPipeline:
             f"Chunks Generated    : "
             f"{total_chunks}"
         )
+
+        if chunk_word_counts:
+
+            print("\nChunk Word Counts:")
+
+            print(
+                f"  Min: {min(chunk_word_counts)}"
+            )
+
+            print(
+                f"  Max: {max(chunk_word_counts)}"
+            )
+
+            print(
+                f"  Avg: "
+                f"{sum(chunk_word_counts) / len(chunk_word_counts):.2f}"
+            )
 
         # -------------------------------------------------
         # Category Distribution

@@ -1,1 +1,84 @@
 # Comparisons
+# comparisons.md — Pabnar Pure Gawa Ghee
+
+**Product:** পাবনার খাঁটি গাওয়া ঘি (Pabnar Pure Gawa Ghee)
+**Purpose:** Help buyers make an informed choice by comparing this product against the most common alternatives in the Bangladeshi market.
+
+> ℹ️ Competitor data reflects general market knowledge as of June 2026. Prices are approximate and vary by vendor, season, and location. This comparison is intended to be honest about trade-offs, not to promote one product over another.
+
+---
+
+## Comparison Table
+
+<section id="comparison-table">
+
+| Dimension | **Pabnar Pure Gawa Ghee** | **Pabnar Deshi Cow Ghee A2** | **Commercial Branded Cow Ghee** (supermarket) | **Buffalo Ghee** (মহিষের ঘি) |
+|---|---|---|---|---|
+| **Milk source** | Indigenous deshi Pabna cows | Indigenous deshi Pabna cows (A2 beta-casein verified by breed) | Mixed or crossbred dairy cows (HF/Sahiwal cross); source rarely specified | Water buffalo |
+| **Beta-casein type** | A2 (by virtue of indigenous breed sourcing, not lab-verified per batch) | A2 — explicitly claimed and central to the product identity | A1/A2 mixed; typically not tested or stated | Not applicable (buffalo milk) |
+| **Production method** | Traditional slow-cooking / bilona / gawa method | Traditional slow-cooking / bilona method | Industrial high-heat clarification | Traditional or semi-industrial |
+| **Color** | Rich golden to deep amber-yellow | Deep golden-yellow; may show orange-gold tone | Pale to medium yellow; consistent across batches | Off-white to pale cream-yellow |
+| **Texture when solid** | Granular and crystalline — hallmark of authentic gawa ghee | Granular and crystalline | Smooth to semi-granular depending on brand | Smooth and soft; rarely granular |
+| **Aroma** | Rich, nutty, intense; pastoral undertone from char-area grazing | Rich, nutty, complex; similar pastoral character | Mild to moderate; less aromatic complexity | Mild and neutral; lower aromatic intensity |
+| **Taste** | Full-bodied, nutty, clean long finish | Full-bodied, slightly more complex due to A2 positioning | Neutral to mild; predictable and consistent | Mild, flat; less character |
+| **Origin / Traceability** | Pabna, Bangladesh — Padma char areas; regional artisanal sourcing | Pabna, Bangladesh — same regional origin; more specific A2 breed claim | Mixed sourcing; region typically not disclosed | Varies; not region-specific |
+| **A2 status** | Implied by indigenous breed — not independently certified per batch | Central product claim; implied by breed sourcing (PCR lab test recommended for verification) | Rarely claimed or verified | Not an A2 product |
+| **BSTI certification** | Required for commercial sale; verify on packaging | Required for commercial sale; verify on packaging | Generally present for established brands | Generally present for established brands |
+| **Price (approx. BDT/kg)** | ৳1,400/kg | ৳1,600/kg | ৳800–1,200/kg | ৳600–900/kg |
+| **Shelf life** | 6–12 months sealed; best within 2–3 months of opening | 6–12 months sealed; best within 2–3 months of opening | 12–18 months (industrial processing and packaging) | 6–12 months |
+| **Batch consistency** | Moderate — natural variation between seasons and batches | Moderate — same artisanal variability | High — industrial quality control | Moderate |
+| **Adulteration risk** | Higher — artisanal supply chain; requires buyer verification | Higher — same artisanal supply chain risk | Lower for reputable brands — reputational and regulatory accountability | Moderate |
+| **Availability** | Specialty sellers, local Pabna markets, online vendors | Specialty sellers, online vendors | Supermarkets, pharmacies, grocery chains nationwide | Local markets, butchers, dairy shops |
+| **Best use case** | Daily cooking, biriyani, halwa, finishing fat; traditional medicinal use | Same as gawa ghee; preferred by buyers specifically seeking A2 protein | High-volume cooking, food businesses needing consistency | Budget cooking; dishes where ghee flavor is secondary |
+
+</section>
+
+---
+
+## When to Choose This Product
+
+<section id="choose-this">
+
+**You want authentic traditional gawa ghee at a better price than A2-labelled alternatives.**
+Pabnar Pure Gawa Ghee and Pabnar Deshi Cow Ghee A2 come from the same regional tradition and essentially the same indigenous cow source. If you are not specifically buying for A2 protein reasons, this product delivers the same traditional quality — granular texture, rich aroma, slow-cooked depth — at ৳200/kg less than the A2-labelled variant.
+
+**You cook traditional Bangladeshi dishes where ghee aroma and flavor are central.**
+For biriyani, polao, khichuri, halwa, payes, or using ghee as a finishing drizzle, the rich nutty depth of authentic gawa ghee makes a genuine and noticeable difference compared to commercial or buffalo alternatives. This is where the premium over cheaper ghee is most clearly justified.
+
+**Regional provenance matters to you.**
+Pabna has a long-standing reputation as the source of Bangladesh's finest cow ghee. If you are buying for someone who cares about authentic origin — for gifting, for a traditional household, or for culinary authenticity — this product carries that regional identity. Generic commercial ghee does not.
+
+**You want to avoid industrial processing.**
+The traditional bilona/gawa method preserves flavor compounds and fat crystal structures that industrial clarification destroys. If you value minimally processed, additive-free food, this product aligns with that preference. Commercial branded ghee is almost always industrially processed.
+
+**You use ghee in traditional home remedies or for infant skin care.**
+In South Asian home practice, deshi cow ghee from recognized regional sources (especially Pabna) is specifically preferred for these uses over commercial or buffalo alternatives. This product is the culturally appropriate choice for those applications.
+
+</section>
+
+---
+
+## When a Competitor May Be Better
+
+<section id="choose-competitor">
+
+**When A2 protein is your specific reason for buying → Pabnar Deshi Cow Ghee A2**
+If you are choosing ghee because you believe A2 beta-casein is more digestible or better for your health, the A2-labelled product makes the claim more explicitly and positions it as the core reason to buy. The ৳200/kg premium buys you a more specific product identity for that use case, even if the underlying source is similar.
+
+**When you need reliable batch-to-batch consistency → Commercial Branded Ghee**
+Artisanal gawa ghee varies naturally between batches — in color, aroma intensity, and texture — based on season, cow diet, and production batch. For a food business, restaurant, or buyer who needs predictable inputs, a well-established branded commercial ghee offers far greater consistency. Industrial quality control solves the variability problem, even if it sacrifices some flavor complexity.
+
+**When supply chain trust is your primary concern → Commercial Branded Ghee**
+The artisanal ghee market in Bangladesh has a serious adulteration problem. A reputable branded product, sold in a sealed factory-packaged container with full BSTI compliance, carries institutional accountability that individual artisanal sellers do not. If you cannot verify the seller's authenticity credentials or access lab testing, a well-known branded ghee may actually be the safer choice.
+
+**When you are buying for high-volume, budget-constrained cooking → Buffalo Ghee or Commercial Ghee**
+At ৳600–900/kg, buffalo ghee is significantly cheaper. For large-scale cooking where ghee is used primarily as a cooking fat rather than as a flavor element — and where the dish itself is heavily spiced — the taste difference between buffalo ghee and premium gawa ghee is largely masked. Spending ৳1,400/kg in that context is difficult to justify economically.
+
+**When you need a longer shelf life for storage or bulk gifting → Commercial Branded Ghee**
+Industrially processed and sealed ghee has declared shelf lives of 12–18 months, making it better suited for storage purchases or gifts that won't be opened immediately. Artisanal gawa ghee is best purchased closer to when it will be used.
+
+</section>
+
+---
+
+*Last updated: 2026-06-11 | Product ID: pabnar_pure_gawa_ghee*

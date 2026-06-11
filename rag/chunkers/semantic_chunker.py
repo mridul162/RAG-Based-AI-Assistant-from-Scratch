@@ -52,6 +52,19 @@ class Chunk:
     metadata: Dict[str, Any]
 
 
+@dataclass
+class MergedSection:
+    """
+    Synthetic section built from tiny sibling sections.
+    """
+
+    heading: str
+    level: int
+    content: str
+    heading_path: List[str]
+    section_id: Optional[str] = None
+
+
 # ---------------------------------------------------------
 # SEMANTIC CHUNKER
 # ---------------------------------------------------------
@@ -65,10 +78,12 @@ class SemanticChunker:
         self,
         target_size: int = 500,
         overlap_size: int = 75,
+        min_chunk_words: int = 80,
     ):
 
         self.target_size = target_size
         self.overlap_size = overlap_size
+        self.min_chunk_words = min_chunk_words
 
     # -----------------------------------------------------
 
@@ -83,7 +98,11 @@ class SemanticChunker:
 
         all_chunks = []
 
-        for section_index, section in enumerate(sections):
+        merged_sections = self._merge_tiny_sibling_sections(
+            sections
+        )
+
+        for section_index, section in enumerate(merged_sections):
 
             section_chunks = self._chunk_single_section(
                 section=section,
@@ -106,6 +125,11 @@ class SemanticChunker:
         """
         Chunk a single semantic section.
         """
+
+        content = section.content.strip()
+
+        if not content:
+            return []
 
         section_text = self._build_section_text(
             section
@@ -157,11 +181,157 @@ class SemanticChunker:
         - semantic context
         """
 
+        path = " > ".join(
+            section.heading_path
+        )
+
         return (
-            f"{'#' * section.level} "
-            f"{section.heading}\n\n"
+            f"{path}\n\n"
             f"{section.content}"
         ).strip()
+
+    # -----------------------------------------------------
+
+    def _merge_tiny_sibling_sections(
+        self,
+        sections,
+    ) -> List:
+        """
+        Merge adjacent tiny sibling sections before chunking.
+        """
+
+        merged_sections = []
+
+        tiny_group = []
+
+        tiny_group_size = 0
+
+        def flush_tiny_group():
+
+            nonlocal tiny_group
+            nonlocal tiny_group_size
+
+            if not tiny_group:
+                return
+
+            if len(tiny_group) == 1:
+
+                merged_sections.append(
+                    tiny_group[0]
+                )
+
+            else:
+
+                merged_sections.append(
+                    self._build_merged_section(
+                        tiny_group
+                    )
+                )
+
+            tiny_group = []
+            tiny_group_size = 0
+
+        for section in sections:
+
+            content = section.content.strip()
+
+            if not content:
+                flush_tiny_group()
+                merged_sections.append(section)
+                continue
+
+            word_count = self._estimate_word_count(
+                content
+            )
+
+            if word_count >= self.min_chunk_words:
+                flush_tiny_group()
+                merged_sections.append(section)
+                continue
+
+            if (
+                tiny_group and
+                not self._are_sibling_sections(
+                    tiny_group[-1],
+                    section
+                )
+            ):
+                flush_tiny_group()
+
+            tiny_group.append(section)
+            tiny_group_size += word_count
+
+            if tiny_group_size >= self.min_chunk_words:
+                flush_tiny_group()
+
+        flush_tiny_group()
+
+        return merged_sections
+
+    # -----------------------------------------------------
+
+    def _are_sibling_sections(
+        self,
+        left,
+        right,
+    ) -> bool:
+        """
+        Check whether two sections share the same parent path.
+        """
+
+        return (
+            left.level == right.level and
+            left.heading_path[:-1] == right.heading_path[:-1]
+        )
+
+    # -----------------------------------------------------
+
+    def _build_merged_section(
+        self,
+        sections,
+    ) -> MergedSection:
+        """
+        Build a synthetic parent-context section from siblings.
+        """
+
+        first_section = sections[0]
+
+        parent_path = (
+            first_section.heading_path[:-1]
+        )
+
+        if parent_path:
+            heading_path = parent_path
+            heading = parent_path[-1]
+            level = max(
+                first_section.level - 1,
+                1
+            )
+        else:
+            heading_path = [
+                first_section.heading
+            ]
+            heading = first_section.heading
+            level = first_section.level
+
+        content_blocks = []
+
+        for section in sections:
+
+            content_blocks.append(
+                (
+                    f"{section.heading}\n\n"
+                    f"{section.content.strip()}"
+                ).strip()
+            )
+
+        return MergedSection(
+            heading=heading,
+            level=level,
+            content="\n\n".join(content_blocks),
+            heading_path=heading_path,
+            section_id=first_section.section_id,
+        )
 
     # -----------------------------------------------------
 
@@ -179,6 +349,19 @@ class SemanticChunker:
         paragraphs = self._split_paragraphs(
             section_text
         )
+
+        context = ""
+
+        heading_path = " > ".join(
+            section.heading_path
+        )
+
+        if (
+            paragraphs and
+            paragraphs[0] == heading_path
+        ):
+
+            context = paragraphs.pop(0)
 
         chunks = []
 
@@ -206,6 +389,11 @@ class SemanticChunker:
                         current_chunk
                     )
 
+                    chunk_text = self._prepend_context(
+                        text=chunk_text,
+                        context=context,
+                    )
+
                     chunks.append(
 
                         self._build_chunk(
@@ -226,7 +414,10 @@ class SemanticChunker:
                 chunks.append(
 
                     self._build_chunk(
-                        text=paragraph,
+                        text=self._prepend_context(
+                            text=paragraph,
+                            context=context,
+                        ),
                         section=section,
                         chunk_index=chunk_index,
                         section_index=section_index,
@@ -249,6 +440,11 @@ class SemanticChunker:
 
                 chunk_text = "\n\n".join(
                     current_chunk
+                )
+
+                chunk_text = self._prepend_context(
+                    text=chunk_text,
+                    context=context,
                 )
 
                 chunks.append(
@@ -296,6 +492,11 @@ class SemanticChunker:
                 current_chunk
             )
 
+            chunk_text = self._prepend_context(
+                text=chunk_text,
+                context=context,
+            )
+
             chunks.append(
 
                 self._build_chunk(
@@ -308,6 +509,25 @@ class SemanticChunker:
             )
 
         return chunks
+
+    # -----------------------------------------------------
+
+    def _prepend_context(
+        self,
+        text: str,
+        context: str,
+    ) -> str:
+        """
+        Attach heading-path context to split chunks.
+        """
+
+        if not context:
+            return text
+
+        return (
+            f"{context}\n\n"
+            f"{text}"
+        ).strip()
 
     # -----------------------------------------------------
 

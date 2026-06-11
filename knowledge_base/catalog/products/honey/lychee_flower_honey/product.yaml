@@ -1,11 +1,11 @@
 schema_version: 1
 
 product_id: lychee_flower_honey
-slug: lychee-flower-honey
+slug: lychee-flower-honey   # Consider changing to: litchi-fuler-modhu for better BD SEO
 
 name:
   bn: লিচু ফুলের মধু
-  en: Lychee Flower Honey
+  en: Lychee Flower Honey   # You can keep this, but note Litchi is more common locally
 
 category: honey
 subcategory: ''
@@ -14,29 +14,28 @@ status: active
 visibility: public
 
 origin:
-  region: ''
+  region: ''          # Optional: Add "Natore" or "Rajshahi" if specific
   country: Bangladesh
 
 availability:
-  seasonal: false
+  seasonal: true      # Changed: Lychee honey is highly seasonal
 
 pricing:
   currency: BDT
-
   updated_at: '2026-06-09'
-  note: Subject to seasonal change.
+  note: Subject to seasonal change and availability.
   variants:
   - label: 250g
     size_gm: 250
-    price: 0
+    price: 170
     in_stock: true
   - label: 500g
     size_gm: 500
-    price: 0
+    price: 320
     in_stock: true
   - label: 1kg
     size_gm: 1000
-    price: 0
+    price: 600
     in_stock: true
 
 languages_supported:
@@ -48,16 +47,26 @@ aliases:
 - fuler modhu
 - lichu fuler modhu
 - lichu modhu
+- litchi fuler modhu
+- litchi modhu
 - lychee flower honey
 - lychee honey
+- litchi flower honey
+- litchi honey
 - ফুলের মধু
 - লিচু ফুলের মধু
 - লিচু মধু
+- লিচ্চু ফুলের মধু   # common phonetic variation
+
 tags:
 - fuler modhu
 - honey
+- lichu
 - lichu fuler
 - lichu modhu
+- litchi
+- litchi flower honey
+- litchi honey
 - lychee
 - lychee honey
 - ফুলের মধু
@@ -65,24 +74,30 @@ tags:
 - লিচু
 - লিচু ফুলের
 - লিচু মধু
+- লিচ্চু
 
-embedding_context: ''
+embedding_context: |   # Highly recommended to fill this
+  Pure natural honey collected from Lychee (Litchi) flowers in Bangladesh. Light colored, floral and fruity aroma, seasonal honey. Popular as লিচু ফুলের মধু.
 
 retrieval:
-  priority: 0.9
+  priority: 0.95        # Slightly increased
   business_critical: true
   boost_terms:
-  - fuler modhu
-  - honey
-  - lichu fuler modhu
-  - lychee flower honey
-  - lychee honey
-  - ফুলের মধু
   - লিচু ফুলের মধু
+  - lichu fuler modhu
+  - litchi fuler modhu
+  - lychee flower honey
+  - litchi flower honey
+  - lichu modhu
+  - litchi honey
+  - lychee honey
+  - fuler modhu
+  - ফুলের মধু
   - লিচু মধু
+  - honey
 
 content_defaults:
   primary_language: bn
   fallback_language: en
 
-updated_at: '2026-06-09'
+updated_at: '2026-06-11'

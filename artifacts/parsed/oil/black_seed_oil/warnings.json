@@ -1,11 +1,173 @@
 [
   {
-    "heading": "Warnings",
+    "heading": "Potential Allergic Reactions",
+    "level": 3,
+    "section_id": null,
+    "heading_path": [
+      "Potential Allergic Reactions"
+    ],
+    "content": "Possible symptoms may include:\n\n* Skin irritation or redness after topical application.\n* Itching or rash.\n* Swelling of the lips, tongue, or throat.\n* Digestive discomfort after ingestion.\n* Rarely, severe allergic reactions in sensitive individuals."
+  },
+  {
+    "heading": "Patch Test Recommendation",
+    "level": 3,
+    "section_id": null,
+    "heading_path": [
+      "Patch Test Recommendation"
+    ],
+    "content": "Before using Black Seed Oil on the skin or scalp:\n\n1. Apply a small amount to a small area of skin.\n2. Wait 24 hours.\n3. Discontinue use if irritation, redness, or itching develops."
+  },
+  {
+    "heading": "Cross-Sensitivity",
+    "level": 3,
+    "section_id": null,
+    "heading_path": [
+      "Cross-Sensitivity"
+    ],
+    "content": "Individuals with known allergies to seeds, spices, or herbal products should use caution when trying Black Seed Oil for the first time.\n\n</section>"
+  },
+  {
+    "heading": "Pregnant Individuals",
+    "level": 3,
+    "section_id": null,
+    "heading_path": [
+      "Pregnant Individuals"
+    ],
+    "content": "Pregnant individuals should consult a qualified healthcare professional before consuming Black Seed Oil regularly or in concentrated amounts. Safety data during pregnancy is limited, particularly for supplemental use."
+  },
+  {
+    "heading": "Breastfeeding Individuals",
+    "level": 3,
+    "section_id": null,
+    "heading_path": [
+      "Breastfeeding Individuals"
+    ],
+    "content": "Limited research exists regarding concentrated Black Seed Oil supplementation during breastfeeding. Professional medical advice is recommended before use."
+  },
+  {
+    "heading": "Infants and Young Children",
+    "level": 3,
+    "section_id": null,
+    "heading_path": [
+      "Infants and Young Children"
+    ],
+    "content": "* Do not administer concentrated Black Seed Oil to infants unless advised by a qualified healthcare professional.\n* For young children, use only age-appropriate amounts and seek professional guidance if using regularly."
+  },
+  {
+    "heading": "Individuals with Known Allergy to Nigella sativa",
+    "level": 3,
+    "section_id": null,
+    "heading_path": [
+      "Individuals with Known Allergy to Nigella sativa"
+    ],
+    "content": "Avoid use if you have previously experienced an allergic reaction to black seed, kalojira, or Black Seed Oil products."
+  },
+  {
+    "heading": "People Scheduled for Surgery",
+    "level": 3,
+    "section_id": null,
+    "heading_path": [
+      "People Scheduled for Surgery"
+    ],
+    "content": "Due to potential effects on blood clotting and blood sugar regulation, discontinue supplemental use at least 2 weeks before planned surgery unless otherwise advised by a healthcare professional.\n\n</section>"
+  },
+  {
+    "heading": "Blood-Thinning (Anticoagulant / Antiplatelet) Medications",
+    "level": 3,
+    "section_id": null,
+    "heading_path": [
+      "Blood-Thinning (Anticoagulant / Antiplatelet) Medications"
+    ],
+    "content": "Use caution if taking medications such as:\n\n* Warfarin\n* Apixaban\n* Rivaroxaban\n* Dabigatran\n* Clopidogrel\n* Aspirin (when prescribed for blood-thinning purposes)\n\nBlack Seed Oil may influence blood clotting mechanisms and could potentially increase bleeding risk when combined with these medications."
+  },
+  {
+    "heading": "Diabetes Medications",
+    "level": 3,
+    "section_id": null,
+    "heading_path": [
+      "Diabetes Medications"
+    ],
+    "content": "Black Seed Oil may affect blood glucose levels in some individuals.\n\nUse caution if taking:\n\n* Insulin\n* Metformin\n* Sulfonylureas\n* Other blood sugar-lowering medications\n\nRegular monitoring may be necessary."
+  },
+  {
+    "heading": "Blood Pressure Medications",
+    "level": 3,
+    "section_id": null,
+    "heading_path": [
+      "Blood Pressure Medications"
+    ],
+    "content": "Black Seed Oil may have mild blood pressure-lowering effects in some individuals.\n\nConsult a healthcare professional if taking:\n\n* ACE inhibitors\n* ARBs\n* Beta blockers\n* Calcium channel blockers\n* Other antihypertensive medications"
+  },
+  {
+    "heading": "Immunosuppressive Therapy",
+    "level": 3,
+    "section_id": null,
+    "heading_path": [
+      "Immunosuppressive Therapy"
+    ],
+    "content": "Individuals receiving immunosuppressive medications or undergoing treatment for autoimmune conditions should seek medical advice before using concentrated Black Seed Oil supplements."
+  },
+  {
+    "heading": "Liver or Kidney Conditions",
+    "level": 3,
+    "section_id": null,
+    "heading_path": [
+      "Liver or Kidney Conditions"
+    ],
+    "content": "People with significant liver or kidney disease should consult a healthcare professional before regular supplemental use, as research on long-term high-dose consumption remains limited.\n\n</section>"
+  },
+  {
+    "heading": "Dietary Use",
+    "level": 3,
+    "section_id": null,
+    "heading_path": [
+      "Dietary Use"
+    ],
+    "content": "Black Seed Oil is commonly consumed in small quantities.\n\nGeneral traditional use ranges:\n\n| User Group       | Typical Amount                                                           |\n| ---------------- | ------------------------------------------------------------------------ |\n| Adults           | ½–1 teaspoon (2.5–5 mL) once or twice daily                              |\n| First-Time Users | Begin with small amounts to assess tolerance                             |\n| Children         | Only under parental supervision and preferably after professional advice |"
+  },
+  {
+    "heading": "Topical Use",
+    "level": 3,
+    "section_id": null,
+    "heading_path": [
+      "Topical Use"
+    ],
+    "content": "* Apply a small amount to skin or scalp as needed.\n* Avoid excessive application if irritation occurs.\n* Dilution with another carrier oil may improve comfort for sensitive skin."
+  },
+  {
+    "heading": "Do Not Exceed",
+    "level": 3,
+    "section_id": null,
+    "heading_path": [
+      "Do Not Exceed"
+    ],
+    "content": "* Avoid consuming unusually large quantities for prolonged periods without professional guidance.\n* More is not necessarily better; excessive intake may increase the likelihood of digestive discomfort or adverse effects."
+  },
+  {
+    "heading": "Possible Side Effects",
+    "level": 3,
+    "section_id": null,
+    "heading_path": [
+      "Possible Side Effects"
+    ],
+    "content": "Some individuals may experience:\n\n* Stomach upset\n* Nausea\n* Bloating\n* Heartburn\n* Diarrhea\n* Skin irritation when applied topically\n\nDiscontinue use and seek medical advice if adverse reactions occur.\n\n</section>"
+  },
+  {
+    "heading": "Document",
     "level": 1,
     "section_id": null,
     "heading_path": [
-      "Warnings"
+      "Document"
     ],
-    "content": ""
+    "content": "<section>\n\n* Store in a cool, dry place away from direct sunlight.\n* Keep the bottle tightly closed after use.\n* Keep out of reach of children.\n* Do not use if the product develops an unusual odor, taste, or appearance.\n* Use clean, dry utensils when dispensing oil to reduce contamination risk.\n\n</section>"
+  },
+  {
+    "heading": "Document",
+    "level": 1,
+    "section_id": null,
+    "heading_path": [
+      "Document"
+    ],
+    "content": "<section>\n\nBlack Seed Oil is a food and traditional wellness product. It is not intended to diagnose, treat, cure, or prevent any disease. Individuals with medical conditions, those taking prescription medications, pregnant or breastfeeding individuals, and caregivers of young children should consult a qualified healthcare professional before regular supplemental use.\n\n</section>"
   }
 ]

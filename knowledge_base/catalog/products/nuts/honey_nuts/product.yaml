@@ -1,10 +1,10 @@
 schema_version: 1
 
 product_id: honey_nuts
-slug: honey-nuts
+slug: honey-nuts   # Alternative: modhumoy-badam or honey-mixed-nuts
 
 name:
-  bn: মধু বাদাম
+  bn: মধুময় বাদাম
   en: Honey Nuts
 
 category: nuts
@@ -14,7 +14,7 @@ status: active
 visibility: public
 
 origin:
-  region: ''
+  region: ''          # Add specific region if nuts are sourced from somewhere particular
   country: Bangladesh
 
 availability:
@@ -22,21 +22,20 @@ availability:
 
 pricing:
   currency: BDT
-
-  updated_at: '2026-06-09'
-  note: Subject to seasonal change.
+  updated_at: '2026-06-11'
+  note: Premium honey mixed/coated nuts. Subject to nut and honey price fluctuation.
   variants:
   - label: 250g
     size_gm: 250
-    price: 0
+    price: 300
     in_stock: true
   - label: 500g
     size_gm: 500
-    price: 0
+    price: 500
     in_stock: true
   - label: 1kg
     size_gm: 1000
-    price: 0
+    price: 1000
     in_stock: true
 
 languages_supported:
@@ -45,30 +44,55 @@ languages_supported:
 - banglish
 
 aliases:
+- honey badam
+- honey coated nuts
+- honey mixed nuts
 - honey nuts
+- honey roasted almonds
+- honey roasted badam
 - modhu badam
+- modhumoy badam
+- modhumoy badam mix
 - মধু বাদাম
+- মধুময় বাদাম
+- মধু মাখানো বাদাম
+- হানি নাটস
+- হানি বাদাম
+
 tags:
+- badam
 - honey
+- honey badam
 - honey nuts
 - modhu badam
+- modhumoy badam
 - nuts
+- roasted nuts
 - বাদাম
 - মধু
-- মধু বাদাম
+- মধুময় বাদাম
+- হানি নাটস
 
-embedding_context: ''
+embedding_context: |
+  Delicious Honey Nuts / মধুময় বাদাম — Premium mix of high-quality nuts (almonds, cashews, etc.) coated or mixed with pure natural honey. A nutritious and tasty energy snack popular in Bangladesh. Provides quick energy, healthy fats, protein, and natural sweetness. Perfect for daily snacking, tea time, kids' tiffin, or as a healthy alternative to sugary snacks. Rich in antioxidants and essential nutrients.
 
 retrieval:
-  priority: 0.9
+  priority: 0.95        # Increased
   business_critical: true
   boost_terms:
+  - মধুময় বাদাম
   - honey nuts
-  - modhu badam
+  - modhumoy badam
   - মধু বাদাম
+  - honey badam
+  - honey mixed nuts
+  - modhu badam
+  - honey roasted badam
+  - হানি নাটস
+  - মধু মাখানো বাদাম
 
 content_defaults:
   primary_language: bn
   fallback_language: en
 
-updated_at: '2026-06-09'
+updated_at: '2026-06-11'

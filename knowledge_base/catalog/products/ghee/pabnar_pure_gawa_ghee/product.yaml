@@ -1,7 +1,7 @@
 schema_version: 1
 
 product_id: pabnar_pure_gawa_ghee
-slug: pabnar-pure-gawa-ghee
+slug: pabnar-pure-gawa-ghee   # Alternative: pabnar-khati-gawa-ghee
 
 name:
   bn: পাবনার খাঁটি গাওয়া ঘি
@@ -14,7 +14,7 @@ status: active
 visibility: public
 
 origin:
-  region: ''
+  region: Pabna     # Recommended: more specific
   country: Bangladesh
 
 availability:
@@ -22,21 +22,20 @@ availability:
 
 pricing:
   currency: BDT
-
-  updated_at: '2026-06-09'
-  note: Subject to seasonal change.
+  updated_at: '2026-06-11'
+  note: Subject to availability and milk price. Traditional pure deshi Gawa Ghee.
   variants:
   - label: 250g
     size_gm: 250
-    price: 0
+    price: 390
     in_stock: true
   - label: 500g
     size_gm: 500
-    price: 0
+    price: 750
     in_stock: true
   - label: 1kg
     size_gm: 1000
-    price: 0
+    price: 1400
     in_stock: true
 
 languages_supported:
@@ -45,69 +44,67 @@ languages_supported:
 - banglish
 
 aliases:
-- gaoj়a ghee
+- deshi gawa ghee
 - gawa ghee
-- khanti gaoj়a ghee
-- khanti ghee
-- pabnar gaoj়a ghee
+- gorur gawa ghee
+- khati gawa ghee
+- khati ghee
+- pabnar deshi gawa ghee
 - pabnar gawa ghee
 - pabnar ghee
-- pabnar khanti gaoj়a ghee
-- pabnar khanti ghee
+- pabnar khati gawa ghee
 - pabnar pure gawa ghee
+- pure gawa ghee
+- গাওয়া ঘি
 - খাঁটি গাওয়া ঘি
 - খাঁটি ঘি
-- গাওয়া ঘি
-- পাবনার খাঁটি গাওয়া ঘি
-- পাবনার খাঁটি ঘি
+- দেশি গাওয়া ঘি
 - পাবনার গাওয়া ঘি
+- পাবনার খাঁটি গাওয়া ঘি
 - পাবনার ঘি
+
 tags:
-- gaoj়a ghee
+- deshi
 - gawa
 - gawa ghee
 - ghee
-- khanti gaoj়a
-- khanti ghee
+- gorur
+- khati
+- khati ghee
 - pabnar
-- pabnar gaoj়a
 - pabnar gawa
 - pabnar ghee
-- pabnar khanti
 - খাঁটি
-- খাঁটি গাওয়া
-- খাঁটি ঘি
-- গাওয়া
+- খাঁটি গাওয়া ঘি
 - গাওয়া ঘি
 - ঘি
+- দেশি
 - পাবনার
-- পাবনার খাঁটি
-- পাবনার গাওয়া
-- পাবনার ঘি
+- পাবনার গাওয়া ঘি
 
-embedding_context: ''
+embedding_context: |
+  Authentic Pabnar Pure Gawa Ghee (পাবনার খাঁটি গাওয়া ঘি) — Traditionally prepared from the milk of indigenous Pabna cows using the slow-cooking Bilona/Gawa method. Pure, granular texture with rich golden color, intense aroma, and classic deshi taste. Free from any additives or vegetable fats. Highly prized for its nutritional value, easy digestibility, medicinal properties, and superior quality. One of the best traditional ghee varieties in Bangladesh.
 
 retrieval:
-  priority: 0.9
+  priority: 0.95        # Increased
   business_critical: true
   boost_terms:
-  - gaoj়a ghee
-  - gawa ghee
-  - ghee
-  - khanti gaoj়a ghee
-  - pabnar gawa ghee
-  - pabnar ghee
-  - pabnar khanti gaoj়a ghee
-  - খাঁটি গাওয়া ঘি
-  - খাঁটি ঘি
-  - গাওয়া ঘি
   - পাবনার খাঁটি গাওয়া ঘি
-  - পাবনার খাঁটি ঘি
-  - পাবনার গাওয়া ঘি
+  - খাঁটি গাওয়া ঘি
+  - গাওয়া ঘি
+  - pabnar gawa ghee
+  - gawa ghee
+  - pabnar khati gawa ghee
+  - khati gawa ghee
+  - দেশি গাওয়া ঘি
+  - খাঁটি ঘি
+  - pabnar pure gawa ghee
+  - pabnar ghee
+  - গরুর গাওয়া ঘি
   - পাবনার ঘি
 
 content_defaults:
   primary_language: bn
   fallback_language: en
 
-updated_at: '2026-06-09'
+updated_at: '2026-06-11'

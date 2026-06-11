@@ -1,7 +1,7 @@
 schema_version: 1
 
 product_id: mustard_flower_honey
-slug: mustard-flower-honey
+slug: mustard-flower-honey   # Alternative: sorisha-fuler-modhu for stronger local SEO
 
 name:
   bn: সরিষা ফুলের মধু
@@ -14,29 +14,28 @@ status: active
 visibility: public
 
 origin:
-  region: ''
+  region: ''          # Recommended: "Rajshahi" / "Dinajpur" / "North Bengal" if specific source
   country: Bangladesh
 
 availability:
-  seasonal: false
+  seasonal: true      # Important change
 
 pricing:
   currency: BDT
-
-  updated_at: '2026-06-09'
-  note: Subject to seasonal change.
+  updated_at: '2026-06-11'
+  note: Subject to seasonal change and availability. Winter specialty honey.
   variants:
   - label: 250g
     size_gm: 250
-    price: 0
+    price: 150
     in_stock: true
   - label: 500g
     size_gm: 500
-    price: 0
+    price: 280
     in_stock: true
   - label: 1kg
     size_gm: 1000
-    price: 0
+    price: 500
     in_stock: true
 
 languages_supported:
@@ -48,16 +47,24 @@ aliases:
 - fuler modhu
 - mustard flower honey
 - mustard honey
+- sarisha fuler modhu
+- sarisha modhu
 - sorisha fuler modhu
 - sorisha modhu
-- ফুলের মধু
 - সরিষা ফুলের মধু
 - সরিষা মধু
+- ফুলের মধু
+- মধু
+
 tags:
 - fuler modhu
 - honey
 - mustard
 - mustard honey
+- sarisha
+- sarisha fuler
+- sarisha modhu
+- sorisha
 - sorisha fuler
 - sorisha modhu
 - ফুলের মধু
@@ -66,23 +73,26 @@ tags:
 - সরিষা ফুলের
 - সরিষা মধু
 
-embedding_context: ''
+embedding_context: |
+  Pure natural Mustard Flower Honey (সরিষা ফুলের মধু) collected from blooming mustard fields in Bangladesh. Light golden to amber color, strong characteristic aroma and slightly pungent taste. A winter specialty honey, very popular for its warming properties, immunity boosting effects, and use in cough & cold relief. High in antioxidants and often considered one of the most affordable pure honeys.
 
 retrieval:
-  priority: 0.9
+  priority: 0.95        # Increased
   business_critical: true
   boost_terms:
-  - fuler modhu
-  - honey
+  - সরিষা ফুলের মধু
+  - sorisha fuler modhu
+  - সরিষা মধু
   - mustard flower honey
   - mustard honey
-  - sorisha fuler modhu
+  - sarisha fuler modhu
+  - sarisha modhu
+  - fuler modhu
   - ফুলের মধু
-  - সরিষা ফুলের মধু
-  - সরিষা মধু
+  - honey
 
 content_defaults:
   primary_language: bn
   fallback_language: en
 
-updated_at: '2026-06-09'
+updated_at: '2026-06-11'
