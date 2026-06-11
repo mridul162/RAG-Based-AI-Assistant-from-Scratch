@@ -1,4 +1,4 @@
-from ingestion.utils.manifest_manager import (
+from rag.utils.manifest_manager import (
     ManifestManager
 )
 

@@ -42,27 +42,27 @@ from api.core.logging import (
 )
 
 
-from ingestion.embedders.openai_embedder import (
+from rag.embedders.openai_embedder import (
     OpenAIEmbedder
 )
 
-from ingestion.vectorstores.faiss_store import (
+from rag.vectorstores.faiss_store import (
     FAISSStore
 )
 
-from ingestion.models.embedding_models import (
+from rag.models.embedding_models import (
     EmbeddedChunk
 )
 
-from ingestion.pipelines.chunk_loader import (
+from rag.pipelines.chunk_loader import (
     ChunkArtifactLoader
 )
 
-from ingestion.utils.hashing import (
+from rag.utils.hashing import (
     generate_product_hash
 )
 
-from ingestion.utils.manifest_manager import (
+from rag.utils.manifest_manager import (
     ManifestManager
 )
 

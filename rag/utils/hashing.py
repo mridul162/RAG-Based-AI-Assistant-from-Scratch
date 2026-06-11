@@ -21,7 +21,7 @@ def generate_product_hash(
 
 
 if __name__ == "__main__":
-    from ingestion.utils.hashing import (
+    from rag.utils.hashing import (
         generate_product_hash
     )
 

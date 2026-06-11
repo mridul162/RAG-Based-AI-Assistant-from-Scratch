@@ -18,7 +18,7 @@ from pathlib import Path
 
 from dotenv import load_dotenv
 
-from pydantic import Field
+from pydantic import Field, field_validator
 
 from pydantic_settings import (
     BaseSettings,
@@ -81,6 +81,34 @@ class Settings(BaseSettings):
     environment: str = (
         "development"
     )
+
+    @field_validator(
+        "debug",
+        mode="before"
+    )
+    @classmethod
+    def parse_debug_value(cls, value):
+
+        if isinstance(value, str):
+
+            normalized_value = (
+                value.strip().lower()
+            )
+
+            if normalized_value in {
+                "release",
+                "production",
+                "prod",
+            }:
+                return False
+
+            if normalized_value in {
+                "development",
+                "dev",
+            }:
+                return True
+
+        return value
 
 
     # -------------------------------------------------

@@ -74,21 +74,21 @@ def create_file(file_path: Path):
 
 def create_ingestion_structure(base_path="."):
 
-    ingestion_root = Path(base_path) / "ingestion"
+    rag_root = Path(base_path) / "rag"
 
-    ingestion_root.mkdir(parents=True, exist_ok=True)
+    rag_root.mkdir(parents=True, exist_ok=True)
 
-    create_file(ingestion_root / "__init__.py")
+    create_file(rag_root / "__init__.py")
 
     for folder, files in INGESTION_STRUCTURE.items():
 
-        folder_path = ingestion_root / folder
+        folder_path = rag_root / folder
         folder_path.mkdir(parents=True, exist_ok=True)
 
         for filename in files:
             create_file(folder_path / filename)
 
-    print("\n🎉 Ingestion structure created successfully.")
+    print("\n🎉 RAG structure created successfully.")
 
 
 if __name__ == "__main__":

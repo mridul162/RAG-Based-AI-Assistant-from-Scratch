@@ -30,7 +30,7 @@ from api.core.logging import (
     get_logger
 )
 
-from ingestion.embedders.base_embedder import (
+from rag.embedders.base_embedder import (
     BaseEmbedder
 )
 

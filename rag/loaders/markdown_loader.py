@@ -27,7 +27,7 @@ Those responsibilities belong to later ingestion stages.
 from dataclasses import dataclass
 from pathlib import Path
 from typing import List
-from ingestion.utils.logging_utils import get_logger
+from rag.utils.logging_utils import get_logger
 
 logger = get_logger(__name__)
 

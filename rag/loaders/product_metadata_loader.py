@@ -33,7 +33,7 @@ from typing import Dict, Any, List
 
 import yaml
 
-from ingestion.utils.logging_utils import get_logger
+from rag.utils.logging_utils import get_logger
 
 logger = get_logger(__name__)
 

@@ -35,11 +35,11 @@ from collections import Counter
 # LOADERS
 # ---------------------------------------------------------
 
-from ingestion.loaders.markdown_loader import (
+from rag.loaders.markdown_loader import (
     MarkdownLoader
 )
 
-from ingestion.loaders.product_metadata_loader import (
+from rag.loaders.product_metadata_loader import (
     ProductMetadataLoader
 )
 
@@ -47,7 +47,7 @@ from ingestion.loaders.product_metadata_loader import (
 # VALIDATORS
 # ---------------------------------------------------------
 
-from ingestion.validators.kb_validator import (
+from rag.validators.kb_validator import (
     KBValidator,
     print_validation_report
 )
@@ -56,7 +56,7 @@ from ingestion.validators.kb_validator import (
 # PARSERS
 # ---------------------------------------------------------
 
-from ingestion.parsers.markdown_parser import (
+from rag.parsers.markdown_parser import (
     MarkdownParser
 )
 
@@ -64,7 +64,7 @@ from ingestion.parsers.markdown_parser import (
 # NORMALIZERS
 # ---------------------------------------------------------
 
-from ingestion.utils.normalizer import (
+from rag.utils.normalizer import (
     TextNormalizer
 )
 
@@ -72,7 +72,7 @@ from ingestion.utils.normalizer import (
 # CHUNKERS
 # ---------------------------------------------------------
 
-from ingestion.chunkers.semantic_chunker import (
+from rag.chunkers.semantic_chunker import (
     SemanticChunker
 )
 
@@ -80,7 +80,7 @@ from ingestion.chunkers.semantic_chunker import (
 # ARTIFACTS
 # ---------------------------------------------------------
 
-from ingestion.utils.artifact_writer import (
+from rag.utils.artifact_writer import (
     ArtifactWriter
 )
 

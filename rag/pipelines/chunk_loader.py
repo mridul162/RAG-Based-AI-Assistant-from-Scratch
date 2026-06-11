@@ -80,7 +80,7 @@ class ChunkArtifactLoader:
     
 
 if __name__ == "__main__":
-    from ingestion.pipelines.chunk_loader import (
+    from rag.pipelines.chunk_loader import (
         ChunkArtifactLoader)
     
     loader = ChunkArtifactLoader(

@@ -42,7 +42,7 @@ from typing import Dict, Any, List
 import faiss
 import numpy as np
 
-from ingestion.models.embedding_models import EmbeddedChunk
+from rag.models.embedding_models import EmbeddedChunk
 
 from api.core.logging import (
     get_logger
@@ -319,7 +319,7 @@ class FAISSStore:
 
 if __name__ == "__main__":
 
-    from ingestion.embedders.openai_embedder import (
+    from rag.embedders.openai_embedder import (
         OpenAIEmbedder
     )
 
