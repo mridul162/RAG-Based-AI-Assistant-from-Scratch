@@ -1,11 +1,136 @@
 [
   {
-    "heading": "Nutrition",
-    "level": 1,
+    "heading": "Nutritional Profile (Per 100g)",
+    "level": 2,
     "section_id": null,
     "heading_path": [
-      "Nutrition"
+      "Nutritional Profile (Per 100g)"
+    ],
+    "content": "**Note:** Values below are approximate typical values for traditional sugarcane jaggery. Actual nutrition may vary depending on sugarcane variety, region, processing method, moisture content, and batch.\n\n| Nutrient              | Approximate Amount per 100g |\n| --------------------- | --------------------------- |\n| Energy                | 370–390 kcal                |\n| Carbohydrates         | 90–98 g                     |\n| Total Sugars          | 85–95 g                     |\n| Protein               | 0.2–0.5 g                   |\n| Total Fat             | 0–0.2 g                     |\n| Dietary Fiber         | 0–0.5 g                     |\n| Moisture              | 2–8 g                       |\n| Ash (Mineral Content) | 0.5–1.5 g                   |"
+  },
+  {
+    "heading": "Estimated Glycemic Characteristics",
+    "level": 3,
+    "section_id": null,
+    "heading_path": [
+      "Nutritional Profile (Per 100g)",
+      "Estimated Glycemic Characteristics"
+    ],
+    "content": "| Parameter           | Typical Value            |\n| ------------------- | ------------------------ |\n| Glycemic Index (GI) | Approximately 70–84*     |\n| Glycemic Load       | High                     |\n| Sweetness Level     | Similar to refined sugar |\n\n*GI values vary by production method and composition. Sugarcane jaggery is generally considered a high-glycemic sweetener and should be consumed in moderation.\n\n</section>"
+  },
+  {
+    "heading": "Key Micronutrients",
+    "level": 2,
+    "section_id": null,
+    "heading_path": [
+      "Key Micronutrients"
+    ],
+    "content": "Unlike refined white sugar, Sugarcane Patali Gur retains small amounts of naturally occurring minerals from sugarcane juice.\n\n| Micronutrient | Typical Presence         |\n| ------------- | ------------------------ |\n| Iron          | Present in small amounts |\n| Potassium     | Present                  |\n| Calcium       | Present                  |\n| Magnesium     | Present                  |\n| Phosphorus    | Present                  |\n| Manganese     | Trace amounts            |\n| Zinc          | Trace amounts            |\n| Copper        | Trace amounts            |"
+  },
+  {
+    "heading": "Mineral Content Notes",
+    "level": 3,
+    "section_id": null,
+    "heading_path": [
+      "Key Micronutrients",
+      "Mineral Content Notes"
+    ],
+    "content": "* Mineral levels vary significantly between batches.\n* Traditional processing methods may preserve more minerals than highly refined sweeteners.\n* While jaggery contains minerals, it should not be relied upon as a primary source of micronutrients.\n\n</section>"
+  },
+  {
+    "heading": "Key Nutrients",
+    "level": 2,
+    "section_id": null,
+    "heading_path": [
+      "Key Nutrients"
     ],
     "content": ""
+  },
+  {
+    "heading": "Natural Carbohydrates",
+    "level": 3,
+    "section_id": null,
+    "heading_path": [
+      "Key Nutrients",
+      "Natural Carbohydrates"
+    ],
+    "content": "* The primary component of Sugarcane Patali Gur is carbohydrate in the form of naturally occurring sugars from sugarcane juice.\n* Provides a quick source of dietary energy."
+  },
+  {
+    "heading": "Naturally Occurring Minerals",
+    "level": 3,
+    "section_id": null,
+    "heading_path": [
+      "Key Nutrients",
+      "Naturally Occurring Minerals"
+    ],
+    "content": "* Contains small amounts of minerals retained during traditional concentration of sugarcane juice.\n* Generally contains more mineral content than refined white sugar."
+  },
+  {
+    "heading": "Minimal Processing",
+    "level": 3,
+    "section_id": null,
+    "heading_path": [
+      "Key Nutrients",
+      "Minimal Processing"
+    ],
+    "content": "* Produced by boiling and concentrating sugarcane juice rather than refining it into purified sugar crystals.\n* Retains some of the natural compounds present in sugarcane juice."
+  },
+  {
+    "heading": "No Significant Fat or Protein",
+    "level": 3,
+    "section_id": null,
+    "heading_path": [
+      "Key Nutrients",
+      "No Significant Fat or Protein"
+    ],
+    "content": "* Contains negligible amounts of fat.\n* Contains negligible amounts of protein.\n* Functions primarily as a sweetener and energy source rather than a protein- or fat-rich food.\n\n</section>"
+  },
+  {
+    "heading": "Comparison to Similar Products",
+    "level": 2,
+    "section_id": null,
+    "heading_path": [
+      "Comparison to Similar Products"
+    ],
+    "content": "| Attribute                | Sugarcane Patali Gur           | Refined White Sugar | Date Palm Gur (Khejur Gur)    |\n| ------------------------ | ------------------------------ | ------------------- | ----------------------------- |\n| Processing Level         | Minimally refined              | Highly refined      | Minimally refined             |\n| Calories (per 100g)      | Similar                        | Similar             | Similar                       |\n| Total Sugars             | High                           | High                | High                          |\n| Mineral Content          | Moderate                       | Very low            | Moderate                      |\n| Flavor Profile           | Caramel-like, rich             | Neutral sweetness   | Distinct smoky-caramel flavor |\n| Color                    | Golden to dark brown           | White               | Golden to dark brown          |\n| Glycemic Impact          | High                           | High                | High                          |\n| Traditional Culinary Use | Pitha, payesh, sweets, cooking | General sweetening  | Traditional Bengali desserts  |"
+  },
+  {
+    "heading": "Compared with Refined Sugar",
+    "level": 3,
+    "section_id": null,
+    "heading_path": [
+      "Comparison to Similar Products",
+      "Compared with Refined Sugar"
+    ],
+    "content": "Sugarcane Patali Gur typically:\n\n* Contains more naturally occurring minerals.\n* Has a richer flavor profile.\n* Undergoes less industrial processing.\n\nHowever:\n\n* Calorie content remains similar.\n* Sugar content remains high.\n* It should still be consumed in moderation."
+  },
+  {
+    "heading": "Compared with Date Palm Gur",
+    "level": 3,
+    "section_id": null,
+    "heading_path": [
+      "Comparison to Similar Products",
+      "Compared with Date Palm Gur"
+    ],
+    "content": "Sugarcane Patali Gur:\n\n* Has a stronger sugarcane and caramel flavor.\n* Is usually available throughout more of the year.\n* Is often more affordable than premium seasonal date palm gur.\n\nBoth products are traditional unrefined sweeteners and provide similar amounts of calories and sugars.\n\n</section>"
+  },
+  {
+    "heading": "Nutritional Considerations",
+    "level": 2,
+    "section_id": null,
+    "heading_path": [
+      "Nutritional Considerations"
+    ],
+    "content": "* Sugarcane Patali Gur is a sweetener, not a nutritional supplement.\n* Although it contains some minerals, it remains a concentrated source of sugar.\n* Individuals with diabetes, insulin resistance, or those monitoring sugar intake should consume it cautiously and according to professional dietary advice.\n* Portion size is an important factor when incorporating jaggery into a balanced diet.\n\n</section>"
+  },
+  {
+    "heading": "Batch Variation Notice",
+    "level": 2,
+    "section_id": null,
+    "heading_path": [
+      "Batch Variation Notice"
+    ],
+    "content": "Because Sugarcane Patali Gur is an agricultural and traditionally processed product, nutritional composition can vary due to:\n\n* Sugarcane variety.\n* Soil and growing conditions.\n* Region of production.\n* Harvest season.\n* Boiling and concentration methods.\n* Moisture content.\n\nSmall differences in color, texture, sweetness, mineral content, and nutritional values are normal and expected.\n\n</section>"
   }
 ]

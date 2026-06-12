@@ -1,0 +1,136 @@
+"""
+prompt_builder.py
+
+Purpose:
+--------
+Construct generation prompts from user queries
+and retrieved context.
+
+Responsibilities:
+-----------------
+- Format retrieved chunks into LLM-readable context
+- Organize context into structured documents
+- Build user prompts
+- Build OpenAI-compatible message payloads
+- Isolate prompt construction from generation logic
+
+This module DOES NOT:
+---------------------
+- perform retrieval
+- rank retrieved chunks
+- call embedding models
+- call LLM APIs
+- generate answers
+- manage conversation memory
+
+Architecture Philosophy:
+------------------------
+Prompt construction is a dedicated layer.
+
+Retrieval provides information.
+PromptBuilder structures information.
+The LLM generates answers.
+
+Keep formatting logic centralized,
+deterministic, and easy to debug.
+"""
+
+from typing import List
+
+from rag.models.retrieval_models import RetrievedChunk
+
+from .answer_prompt import (
+    SYSTEM_PROMPT,
+    USER_PROMPT_TEMPLATE,
+)
+
+
+class PromptBuilder:
+    """
+    Builds prompts for answer generation.
+    """
+
+    def format_context(
+        self,
+        chunks: List[RetrievedChunk]
+    ) -> str:
+        """
+        Convert retrieved chunks into a structured context block.
+        """
+
+        if not chunks:
+            return "No relevant context found."
+
+        documents = []
+
+        for idx, chunk in enumerate(chunks, start=1):
+
+            metadata = chunk.metadata or {}
+
+            product_id = metadata.get(
+                "product_id",
+                "Unknown Product"
+            )
+
+            heading = metadata.get(
+                "heading",
+                "General Information"
+            )
+
+            document = (
+                f"[Document {idx}]\n\n"
+                f"Product: {product_id}\n"
+                f"Section: {heading}\n\n"
+                f"{chunk.text}"
+            )
+
+            documents.append(document)
+
+        separator = (
+            "\n\n"
+            + "-" * 50
+            + "\n\n"
+        )
+
+        return separator.join(documents)
+
+    def build_user_prompt(
+        self,
+        query: str,
+        chunks: List[RetrievedChunk]
+    ) -> str:
+        """
+        Build the user prompt.
+        """
+
+        context = self.format_context(chunks)
+
+        return USER_PROMPT_TEMPLATE.format(
+            context=context,
+            query=query,
+        )
+
+    def build_messages(
+        self,
+        query: str,
+        chunks: List[RetrievedChunk]
+    ) -> list[dict]:
+        """
+        Build OpenAI-compatible messages.
+        """
+
+        user_prompt = self.build_user_prompt(
+            query=query,
+            chunks=chunks,
+        )
+
+        return [
+            {
+                "role": "system",
+                "content": SYSTEM_PROMPT,
+            },
+            {
+                "role": "user",
+                "content": user_prompt,
+            },
+        ]

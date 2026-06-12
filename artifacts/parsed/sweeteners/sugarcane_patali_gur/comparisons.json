@@ -1,11 +1,118 @@
 [
   {
-    "heading": "Comparisons",
+    "heading": "Document",
     "level": 1,
     "section_id": null,
     "heading_path": [
-      "Comparisons"
+      "Document"
+    ],
+    "content": "<section>\n\n| Feature                     | Sugarcane Patali Gur (আখের পাটালি গুর)                                        | Date Palm Gur (খেজুর গুড়)                           | Refined White Sugar                                  |\n| --------------------------- | ----------------------------------------------------------------------------- | ---------------------------------------------------- | ---------------------------------------------------- |\n| Primary Source              | Sugarcane juice                                                               | Date palm sap                                        | Sugarcane or sugar beet                              |\n| Origin                      | Rajshahi, Kushtia, Faridpur and other sugarcane-growing regions of Bangladesh | Primarily winter-producing regions of Bangladesh     | Industrial sugar mills worldwide                     |\n| Processing Level            | Minimally processed, unrefined                                                | Minimally processed, unrefined                       | Highly refined                                       |\n| Taste Profile               | Rich, caramel-like sweetness                                                  | Deep, smoky, complex sweetness                       | Clean, neutral sweetness                             |\n| Aroma                       | Mild to moderate sugarcane aroma                                              | Strong and distinctive aroma                         | Little to no aroma                                   |\n| Color                       | Light brown to dark brown                                                     | Golden brown to dark brown                           | White                                                |\n| Typical Price Range         | Moderate                                                                      | Usually higher due to seasonal availability          | Generally lowest cost                                |\n| Availability                | Available most of the year                                                    | Primarily seasonal (winter)                          | Available year-round                                 |\n| Shelf Life                  | Good when stored properly                                                     | Moderate to good depending on moisture content       | Very long shelf life                                 |\n| Traditional Uses            | Payesh, pitha, tea, sweets, cooking                                           | Premium desserts, pitha, payesh, winter delicacies   | General sweetening and baking                        |\n| Nutritional Profile         | Contains trace minerals due to minimal processing                             | Contains trace minerals due to minimal processing    | Mostly sucrose with minimal non-sugar compounds      |\n| Certification Availability  | Varies by producer                                                            | Varies by producer                                   | Often produced under standardized industrial systems |\n| Flavor Impact in Recipes    | Stronger flavor than sugar                                                    | Most distinctive flavor among traditional sweeteners | Minimal flavor contribution beyond sweetness         |\n| Consistency Between Batches | May vary slightly                                                             | Often varies seasonally                              | Highly consistent                                    |\n\n</section>"
+  },
+  {
+    "heading": "When to Choose This Product",
+    "level": 2,
+    "section_id": null,
+    "heading_path": [
+      "When to Choose This Product"
+    ],
+    "content": "Sugarcane Patali Gur may be the best choice when:"
+  },
+  {
+    "heading": "You Want Traditional Flavor Without Seasonal Limitations",
+    "level": 3,
+    "section_id": null,
+    "heading_path": [
+      "When to Choose This Product",
+      "You Want Traditional Flavor Without Seasonal Limitations"
+    ],
+    "content": "* Available throughout most of the year.\n* Easier to source consistently than Date Palm Gur."
+  },
+  {
+    "heading": "You Prefer a Rich Caramel-Like Taste",
+    "level": 3,
+    "section_id": null,
+    "heading_path": [
+      "When to Choose This Product",
+      "You Prefer a Rich Caramel-Like Taste"
+    ],
+    "content": "* Adds depth and character to desserts and beverages.\n* Provides more flavor complexity than refined sugar."
+  },
+  {
+    "heading": "You Need a Versatile Sweetener",
+    "level": 3,
+    "section_id": null,
+    "heading_path": [
+      "When to Choose This Product",
+      "You Need a Versatile Sweetener"
+    ],
+    "content": "Suitable for:\n\n* Tea\n* Payesh\n* Pitha\n* Baking\n* Everyday cooking\n* Homemade sweets"
+  },
+  {
+    "heading": "You Prefer Less Processed Sweeteners",
+    "level": 3,
+    "section_id": null,
+    "heading_path": [
+      "When to Choose This Product",
+      "You Prefer Less Processed Sweeteners"
+    ],
+    "content": "* Produced through boiling and concentrating sugarcane juice.\n* Undergoes fewer processing steps than refined white sugar."
+  },
+  {
+    "heading": "You Want Good Value for Money",
+    "level": 3,
+    "section_id": null,
+    "heading_path": [
+      "When to Choose This Product",
+      "You Want Good Value for Money"
+    ],
+    "content": "* Typically less expensive than premium Date Palm Gur.\n* Offers a balance of traditional flavor, availability, and affordability.\n\n</section>"
+  },
+  {
+    "heading": "When a Competitor May Be Better",
+    "level": 2,
+    "section_id": null,
+    "heading_path": [
+      "When a Competitor May Be Better"
     ],
     "content": ""
+  },
+  {
+    "heading": "Choose Date Palm Gur (Khejur Gur) When:",
+    "level": 3,
+    "section_id": null,
+    "heading_path": [
+      "When a Competitor May Be Better",
+      "Choose Date Palm Gur (Khejur Gur) When:"
+    ],
+    "content": "* You specifically want the classic winter gur flavor.\n* Aroma is a major priority.\n* You are preparing traditional recipes that depend on Date Palm Gur's distinctive taste.\n* Seasonal authenticity is important for a particular dish.\n\n**Trade-off:** Usually more expensive, seasonal, and less consistently available.\n\n---"
+  },
+  {
+    "heading": "Choose Refined White Sugar When:",
+    "level": 3,
+    "section_id": null,
+    "heading_path": [
+      "When a Competitor May Be Better",
+      "Choose Refined White Sugar When:"
+    ],
+    "content": "* You want a completely neutral sweetener.\n* Consistency between batches is critical.\n* Long-term storage is a priority.\n* The recipe requires sweetness without altering flavor or color.\n\n**Trade-off:** Lacks the traditional flavor and character of unrefined gur.\n\n---"
+  },
+  {
+    "heading": "Choose Liquid Sugarcane Jaggery (Liquid Gur) When:",
+    "level": 3,
+    "section_id": null,
+    "heading_path": [
+      "When a Competitor May Be Better",
+      "Choose Liquid Sugarcane Jaggery (Liquid Gur) When:"
+    ],
+    "content": "* You need easy mixing in beverages and sauces.\n* You prefer a pourable sweetener.\n* The recipe benefits from liquid texture.\n\n**Trade-off:** Typically has a shorter shelf life and may require more careful storage.\n\n</section>"
+  },
+  {
+    "heading": "Cost vs Value Summary",
+    "level": 2,
+    "section_id": null,
+    "heading_path": [
+      "Cost vs Value Summary"
+    ],
+    "content": "| Product              | Cost Level | Flavor Complexity | Availability | Traditional Appeal |\n| -------------------- | ---------- | ----------------- | ------------ | ------------------ |\n| Sugarcane Patali Gur | Moderate   | High              | High         | High               |\n| Date Palm Gur        | High       | Very High         | Seasonal     | Very High          |\n| Refined White Sugar  | Low        | Low               | Very High    | Low                |\n| Liquid Sugarcane Gur | Moderate   | High              | Moderate     | High               |\n\n**Overall:** Sugarcane Patali Gur offers one of the best balances of affordability, traditional flavor, year-round availability, and versatility. It may not have the distinctive aroma of Date Palm Gur, but it provides a richer taste experience than refined sugar while remaining practical for everyday use.\n\n</section>"
   }
 ]

@@ -7,5 +7,45 @@
       "Shipping"
     ],
     "content": ""
+  },
+  {
+    "heading": "Temperature requirements",
+    "level": 2,
+    "section_id": null,
+    "heading_path": [
+      "Shipping",
+      "Temperature requirements"
+    ],
+    "content": "* **Sensitivity:** Medium-High. Sugarcane Patali Gur is susceptible to high ambient temperatures and humidity. Prolonged exposure to temperatures exceeding 30°C (86°F) will cause the solid blocks (patali) to soften, lose their structural shape, or sweat (release moisture).\n* **Transit Strategy:** * Avoid leaving transit vehicles or packages in direct sunlight.\n* For long-distance domestic shipping during peak summer months (April to September), climate-controlled or expedited logistics are recommended to preserve the shape and texture of the jaggery.\n\n\n* **Storage in Transit:** Must be kept in a cool, dry, well-ventilated space away from heat sources.\n\n---"
+  },
+  {
+    "heading": "Packaging notes",
+    "level": 2,
+    "section_id": null,
+    "heading_path": [
+      "Shipping",
+      "Packaging notes"
+    ],
+    "content": "---"
+  },
+  {
+    "heading": "Regulatory considerations",
+    "level": 2,
+    "section_id": null,
+    "heading_path": [
+      "Shipping",
+      "Regulatory considerations"
+    ],
+    "content": "* **Product Classification:** Non-centrifugal unrefined sugar / Agri-processed food product.\n* **Compliance Certifications:** Domestic shipments must comply with Bangladesh Standards and Testing Institution (BSTI) regulations for processed food sweetening agents.\n* **Perishability Declaration:** Though non-seasonal and possessing a naturally long shelf life under dry conditions, the package should be marked with unambiguous manufacturing and expiration/best-before dates (`2026-06-11` schema timeline baseline applies).\n* **Labeling Requirements:** Labels must explicitly state the product origin (Rajshahi/Faridpur/Kushtia, Bangladesh) and ingredient purity (100% Sugarcane Juice) to clear standard commercial food safety checkpoints.\n\n---"
+  },
+  {
+    "heading": "International shipping",
+    "level": 2,
+    "section_id": null,
+    "heading_path": [
+      "Shipping",
+      "International shipping"
+    ],
+    "content": "* **Customs Restrictions:** Many destination countries categorize unrefined agricultural items like jaggery under strict biosecurity and phytosanitary rules.\n* **Documentation Checklist:**\n* Phytosanitary Certificate (issued by the Department of Agricultural Extension, Bangladesh).\n* Certificate of Origin (confirming production in Bangladesh).\n* Food Safety / FDA registration compliance details (required specifically for imports into regions like North America or the European Union).\n* Material Safety Data Sheet (MSDS) / Product Specification sheet detailing non-hazardous status.\n\n\n* **Prohibited Methods:** International postal services that do not guarantee expedited timelines or feature automated climate monitoring should be avoided due to the high risk of melting and product degradation during customs clearance delays."
   }
 ]

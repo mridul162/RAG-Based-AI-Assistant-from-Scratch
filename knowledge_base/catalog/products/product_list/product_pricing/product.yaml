@@ -1,0 +1,148 @@
+schema_version: 1
+
+product_id: master_product_price_catalog
+slug: product-price-list
+
+name:
+  bn: পণ্য মূল্য তালিকা
+  en: Product Price Catalog
+
+category: business_information
+subcategory: pricing_catalog
+
+status: active
+visibility: public
+
+origin:
+  country: Bangladesh
+
+availability:
+  seasonal: false
+
+pricing:
+  currency: BDT
+  unit: per_kg_or_standard_unit
+  updated_at: '2026-06-09'
+  note: Prices may change depending on season, market condition, and availability.
+
+catalog_scope:
+  includes:
+    - product categories
+    - product names
+    - retail prices
+    - wholesale prices
+    - dealer prices
+
+categories:
+  - মধু (Honey)
+  - ঘি (Ghee)
+  - তেল (Oil)
+  - মসলা (Spices)
+  - গুড়
+  - বীজ (Seeds)
+  - বাদাম (Nuts)
+  - খেজুর (Dates)
+
+languages_supported:
+  - bn
+  - en
+  - banglish
+
+aliases:
+  - product price list
+  - product catalog
+  - price list
+  - current price list
+  - updated price
+  - product price
+  - product rate
+  - retail price
+  - wholesale price
+  - category
+  - catalog
+  - পণ্য তালিকা
+  - মূল্য তালিকা
+  - ক্যাটাগরি
+  - পাইকারি দাম
+  - খুচরা দাম
+  - পণ্যের দাম
+  - আজকের দাম
+  - বর্তমান দাম
+  - প্রাইস লিস্ট
+  - ক্যাটাগরি লিস্ট
+  - পণ্যের তালিকা
+
+tags:
+  - pricing
+  - product catalog
+  - retail
+  - wholesale
+  - dealer
+  - reseller
+  - product list
+  - categories
+  - honey
+  - ghee
+  - oil
+  - spices
+  - nuts
+  - dates
+  - seeds
+
+embedding_context: >
+  This document contains the complete product price catalog.
+  It includes product categories, product names, retail prices,
+  and wholesale prices in BDT.
+  Use this information to answer customer questions about product prices,
+  current rates, wholesale pricing, retail pricing, available products,
+  and category-wise product lists.
+  
+  When answering price queries:
+  - mention retail price first
+  - mention wholesale price for bulk buyers
+  - mention that prices may change
+  - ask quantity for wholesale inquiries
+
+retrieval:
+  priority: 1.0
+  business_critical: true
+
+  boost_terms:
+    - পণ্য তালিকা
+    - মূল্য তালিকা
+    - price list
+    - product price
+    - current price
+    - latest price
+    - retail price
+    - wholesale price
+    - পাইকারি
+    - খুচরা
+    - দাম
+    - রেট
+    - কত টাকা
+    - মধুর দাম
+    - ঘির দাম
+    - তেলের দাম
+    - মসলার দাম
+    - বাদামের দাম
+    - খেজুরের দাম
+    - গুড়ের দাম
+
+  query_patterns:
+    - "What is the price of {product}?"
+    - "{product} এর দাম কত?"
+    - "{product} এর পাইকারি দাম কত?"
+    - "{category} এর পণ্যের তালিকা"
+    - "{category} এর দাম"
+    - "পণ্য তালিকা দিন"
+    - "কি কি বিক্রি করেন?"
+    - "আপনাদের কাছে কি কি প্রডাক্ট আছে?"
+    - "Provide your product list."
+    - "What do you sell?"
+
+content_defaults:
+  primary_language: bn
+  fallback_language: en
+
+updated_at: '2026-06-12'

@@ -1,11 +1,256 @@
 [
   {
-    "heading": "Sourcing",
-    "level": 1,
+    "heading": "Geographic Origin",
+    "level": 2,
     "section_id": null,
     "heading_path": [
-      "Sourcing"
+      "Geographic Origin"
+    ],
+    "content": "Sugarcane Patali Gur is a traditional unrefined sweetener produced from sugarcane grown in Bangladesh. The product is particularly associated with agricultural regions that have a long history of sugarcane cultivation."
+  },
+  {
+    "heading": "Primary Production Regions",
+    "level": 3,
+    "section_id": null,
+    "heading_path": [
+      "Geographic Origin",
+      "Primary Production Regions"
+    ],
+    "content": "| Region   | Significance                                                           |\n| -------- | ---------------------------------------------------------------------- |\n| Rajshahi | Major sugarcane-growing area with traditional gur-making practices     |\n| Kushtia  | Known for sugarcane cultivation and rural jaggery production           |\n| Faridpur | Important agricultural region producing sugarcane and related products |\n\nThese regions provide favorable conditions for growing sugarcane, including fertile soils, suitable rainfall, and experienced farming communities."
+  },
+  {
+    "heading": "Local Agricultural Heritage",
+    "level": 3,
+    "section_id": null,
+    "heading_path": [
+      "Geographic Origin",
+      "Local Agricultural Heritage"
+    ],
+    "content": "Patali Gur production is deeply connected to rural Bangladeshi food traditions. Many producers continue to use methods passed down through generations, preserving traditional techniques and regional flavor characteristics.\n\n</section>"
+  },
+  {
+    "heading": "Harvest Method",
+    "level": 2,
+    "section_id": null,
+    "heading_path": [
+      "Harvest Method"
     ],
     "content": ""
+  },
+  {
+    "heading": "Sugarcane Cultivation",
+    "level": 3,
+    "section_id": null,
+    "heading_path": [
+      "Harvest Method",
+      "Sugarcane Cultivation"
+    ],
+    "content": "Sugarcane is cultivated throughout the growing season and allowed to mature fully before harvest.\n\nTypical cultivation stages include:\n\n1. Land preparation\n2. Planting sugarcane cuttings\n3. Irrigation and crop maintenance\n4. Weed and pest management\n5. Maturity assessment\n6. Harvesting"
+  },
+  {
+    "heading": "Harvesting Process",
+    "level": 3,
+    "section_id": null,
+    "heading_path": [
+      "Harvest Method",
+      "Harvesting Process"
+    ],
+    "content": "Sugarcane is generally harvested when:\n\n* The stalks have reached full maturity.\n* Sugar concentration is at its highest.\n* Fibers and juice quality are suitable for gur production.\n\nHarvesting is commonly performed by:\n\n* Manual cutting using traditional tools.\n* Removal of leaves and tops.\n* Bundling and transportation to processing sites."
+  },
+  {
+    "heading": "Juice Extraction",
+    "level": 3,
+    "section_id": null,
+    "heading_path": [
+      "Harvest Method",
+      "Juice Extraction"
+    ],
+    "content": "After harvest:\n\n1. Sugarcane stalks are cleaned.\n2. The stalks are crushed using mechanical or traditional presses.\n3. Fresh sugarcane juice is collected for immediate processing.\n\nFresh processing is important because sugarcane juice begins to ferment naturally if left standing for extended periods."
+  },
+  {
+    "heading": "Gur Preparation",
+    "level": 3,
+    "section_id": null,
+    "heading_path": [
+      "Harvest Method",
+      "Gur Preparation"
+    ],
+    "content": "The extracted juice is:\n\n1. Filtered to remove impurities.\n2. Boiled in large open pans.\n3. Continuously stirred during concentration.\n4. Reduced until it reaches a thick syrup-like consistency.\n5. Poured into molds to form solid patali shapes.\n\nThe resulting product is a solid block or disc of unrefined sugarcane jaggery.\n\n</section>"
+  },
+  {
+    "heading": "Season &amp; Timing",
+    "level": 2,
+    "section_id": null,
+    "heading_path": [
+      "Season &amp; Timing"
+    ],
+    "content": ""
+  },
+  {
+    "heading": "Sugarcane Harvest Season",
+    "level": 3,
+    "section_id": null,
+    "heading_path": [
+      "Season &amp; Timing",
+      "Sugarcane Harvest Season"
+    ],
+    "content": "In Bangladesh, sugarcane is generally harvested during the cooler months of the year.\n\n| Activity                 | Typical Period                |\n| ------------------------ | ----------------------------- |\n| Sugarcane Growth         | Throughout the growing season |\n| Main Harvest             | Late autumn to winter         |\n| Peak Gur Production      | Winter months                 |\n| Packaging &amp; Distribution | Throughout the year           |"
+  },
+  {
+    "heading": "Peak Production Period",
+    "level": 3,
+    "section_id": null,
+    "heading_path": [
+      "Season &amp; Timing",
+      "Peak Production Period"
+    ],
+    "content": "The highest volume of fresh Patali Gur production typically occurs during winter when:\n\n* Sugarcane reaches maturity.\n* Weather conditions favor processing.\n* Traditional gur-making operations are most active."
+  },
+  {
+    "heading": "Year-Round Availability",
+    "level": 3,
+    "section_id": null,
+    "heading_path": [
+      "Season &amp; Timing",
+      "Year-Round Availability"
+    ],
+    "content": "Although production is concentrated during harvest season:\n\n* Patali Gur has a relatively long shelf life.\n* Proper storage allows distribution throughout the year.\n* Consumers can usually purchase the product outside the harvest season.\n\n</section>"
+  },
+  {
+    "heading": "Supply Chain",
+    "level": 2,
+    "section_id": null,
+    "heading_path": [
+      "Supply Chain"
+    ],
+    "content": ""
+  },
+  {
+    "heading": "Step 1: Sugarcane Farming",
+    "level": 3,
+    "section_id": null,
+    "heading_path": [
+      "Supply Chain",
+      "Step 1: Sugarcane Farming"
+    ],
+    "content": "Local farmers cultivate and harvest mature sugarcane in producing regions."
+  },
+  {
+    "heading": "Step 2: Transportation to Processing Centers",
+    "level": 3,
+    "section_id": null,
+    "heading_path": [
+      "Supply Chain",
+      "Step 2: Transportation to Processing Centers"
+    ],
+    "content": "Freshly harvested sugarcane is transported to:\n\n* Village processing units\n* Local gur-making facilities\n* Small-scale agricultural processors\n\nRapid transportation helps preserve juice quality."
+  },
+  {
+    "heading": "Step 3: Juice Extraction and Processing",
+    "level": 3,
+    "section_id": null,
+    "heading_path": [
+      "Supply Chain",
+      "Step 3: Juice Extraction and Processing"
+    ],
+    "content": "Processing facilities:\n\n* Crush sugarcane stalks\n* Extract juice\n* Filter impurities\n* Concentrate the juice through controlled boiling"
+  },
+  {
+    "heading": "Step 4: Molding and Cooling",
+    "level": 3,
+    "section_id": null,
+    "heading_path": [
+      "Supply Chain",
+      "Step 4: Molding and Cooling"
+    ],
+    "content": "The concentrated syrup is poured into molds and allowed to cool naturally.\n\nCommon forms include:\n\n* Round discs\n* Cylindrical blocks\n* Traditional patali shapes"
+  },
+  {
+    "heading": "Step 5: Quality Inspection",
+    "level": 3,
+    "section_id": null,
+    "heading_path": [
+      "Supply Chain",
+      "Step 5: Quality Inspection"
+    ],
+    "content": "Producers typically inspect for:\n\n* Proper texture\n* Desired color\n* Aroma\n* Shape consistency\n* Absence of visible contamination"
+  },
+  {
+    "heading": "Step 6: Packaging",
+    "level": 3,
+    "section_id": null,
+    "heading_path": [
+      "Supply Chain",
+      "Step 6: Packaging"
+    ],
+    "content": "The finished Patali Gur is packaged for:\n\n* Wholesale distribution\n* Retail sale\n* Online orders\n* Direct consumer delivery"
+  },
+  {
+    "heading": "Step 7: Consumer Use",
+    "level": 3,
+    "section_id": null,
+    "heading_path": [
+      "Supply Chain",
+      "Step 7: Consumer Use"
+    ],
+    "content": "Consumers use the product in:\n\n* Pitha\n* Payesh\n* Tea\n* Desserts\n* Household cooking\n* Traditional recipes\n\n</section>"
+  },
+  {
+    "heading": "Sustainability &amp; Ethical Sourcing Notes",
+    "level": 2,
+    "section_id": null,
+    "heading_path": [
+      "Sustainability &amp; Ethical Sourcing Notes"
+    ],
+    "content": ""
+  },
+  {
+    "heading": "Support for Rural Farmers",
+    "level": 3,
+    "section_id": null,
+    "heading_path": [
+      "Sustainability &amp; Ethical Sourcing Notes",
+      "Support for Rural Farmers"
+    ],
+    "content": "Sugarcane Patali Gur production contributes to:\n\n* Rural agricultural livelihoods\n* Small-scale farming communities\n* Traditional food production systems\n\nPurchasing locally produced gur can help support agricultural households involved in sugarcane cultivation."
+  },
+  {
+    "heading": "Traditional Production Methods",
+    "level": 3,
+    "section_id": null,
+    "heading_path": [
+      "Sustainability &amp; Ethical Sourcing Notes",
+      "Traditional Production Methods"
+    ],
+    "content": "Many producers continue to use:\n\n* Small-batch processing\n* Traditional boiling techniques\n* Minimal refining\n\nThese practices help preserve the product's traditional character."
+  },
+  {
+    "heading": "Low Processing Requirements",
+    "level": 3,
+    "section_id": null,
+    "heading_path": [
+      "Sustainability &amp; Ethical Sourcing Notes",
+      "Low Processing Requirements"
+    ],
+    "content": "Compared with refined sugar production, traditional gur manufacturing generally involves:\n\n* Fewer industrial processing steps\n* Less chemical refinement\n* Simpler production methods"
+  },
+  {
+    "heading": "Responsible Sourcing Considerations",
+    "level": 3,
+    "section_id": null,
+    "heading_path": [
+      "Sustainability &amp; Ethical Sourcing Notes",
+      "Responsible Sourcing Considerations"
+    ],
+    "content": "High-quality Patali Gur is typically associated with:\n\n* Fresh sugarcane juice\n* Clean processing environments\n* Proper filtration practices\n* Hygienic handling and packaging\n\nConsumers seeking premium products should look for transparent sourcing and quality-control practices.\n\n</section>"
+  },
+  {
+    "heading": "Key Takeaway",
+    "level": 2,
+    "section_id": null,
+    "heading_path": [
+      "Key Takeaway"
+    ],
+    "content": "Sugarcane Patali Gur is traditionally produced from mature sugarcane grown in regions such as Rajshahi, Kushtia, and Faridpur. Freshly harvested sugarcane is crushed to extract juice, which is then boiled, concentrated, and molded into solid patali blocks. While production peaks during the winter harvest season, proper storage and distribution make the product available throughout the year. The supply chain supports rural farming communities and preserves traditional Bangladeshi food heritage.\n\n</section>"
   }
 ]
