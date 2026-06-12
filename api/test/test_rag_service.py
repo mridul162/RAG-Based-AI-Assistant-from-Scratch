@@ -45,7 +45,7 @@ answer = rag_service.ask(
 
     phone_number="8801712345678",
 
-    query="Where do collected it from?"
+    query="what's the price of it?"
 )
 
 print(answer)

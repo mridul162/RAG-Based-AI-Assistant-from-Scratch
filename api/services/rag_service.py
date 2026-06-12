@@ -96,6 +96,7 @@ class RAGService:
             )
         )
 
+
         answer = (
             self.answer_generator.generate(
 
@@ -104,6 +105,17 @@ class RAGService:
                 history=history,
             )
         )
+
+        self.conversation_service.save_user_message(
+            phone_number=phone_number,
+            content=query,
+        )
+
+        self.conversation_service.save_assistant_message(
+            phone_number=phone_number,
+            content=answer,
+        )
+        
         logging.info(
             f"Original Query: {query}"
         )
