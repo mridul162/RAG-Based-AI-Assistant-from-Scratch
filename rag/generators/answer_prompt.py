@@ -62,6 +62,11 @@ Answer as a helpful Hasanah Mart customer support representative.
 """
 
 USER_PROMPT_TEMPLATE = """
+Conversation History:
+
+{history}
+
+
 Context:
 
 {context}

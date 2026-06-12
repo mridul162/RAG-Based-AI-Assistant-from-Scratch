@@ -2,6 +2,8 @@
 # PROJECT-SPECIFIC IGNORES
 # =====================================================
 
+projectflow.txt
+
 # Environment variables
 .env
 .env.local

@@ -59,6 +59,7 @@ class AnswerGenerator:
     def generate(
         self,
         query: str,
+        history:None,
         top_k: int = 5,
     ) -> str:
         """
@@ -86,6 +87,7 @@ class AnswerGenerator:
         messages = self.prompt_builder.build_messages(
             query=query,
             chunks=retrieved_chunks,
+            history=history,
         )
 
         response = self.client.chat.completions.create(

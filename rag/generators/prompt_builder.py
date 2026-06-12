@@ -50,6 +50,32 @@ class PromptBuilder:
     Builds prompts for answer generation.
     """
 
+    def format_history(
+        self,
+        history,
+    ) -> str:
+
+        if (
+            history is None
+            or not history.messages
+        ):
+            return (
+                "No previous conversation."
+            )
+
+        lines = []
+
+        for message in history.messages:
+
+            lines.append(
+
+                f"{message.role.title()}: "
+
+                f"{message.content}"
+            )
+
+        return "\n".join(lines)
+
     def format_context(
         self,
         chunks: List[RetrievedChunk]
@@ -97,7 +123,8 @@ class PromptBuilder:
     def build_user_prompt(
         self,
         query: str,
-        chunks: List[RetrievedChunk]
+        chunks: List[RetrievedChunk],
+        history: None,
     ) -> str:
         """
         Build the user prompt.
@@ -105,7 +132,20 @@ class PromptBuilder:
 
         context = self.format_context(chunks)
 
+        conversation_history = (
+            self.format_history(
+                history
+            )
+        )
+        print("\n")
+        print("=" * 80)
+        print("FINAL PROMPT")
+        print("=" * 80)
+        print(conversation_history)
+        print("=" * 80)
+
         return USER_PROMPT_TEMPLATE.format(
+            history=conversation_history,
             context=context,
             query=query,
         )
@@ -113,7 +153,8 @@ class PromptBuilder:
     def build_messages(
         self,
         query: str,
-        chunks: List[RetrievedChunk]
+        chunks: List[RetrievedChunk],
+        history:None,
     ) -> list[dict]:
         """
         Build OpenAI-compatible messages.
@@ -122,6 +163,7 @@ class PromptBuilder:
         user_prompt = self.build_user_prompt(
             query=query,
             chunks=chunks,
+            history=history,
         )
 
         return [
