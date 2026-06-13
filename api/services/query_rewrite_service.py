@@ -26,6 +26,18 @@ from api.models.conversation import (
     ConversationHistory
 )
 
+GREETINGS = {
+    "hello",
+    "hi",
+    "hey",
+    "assalamu alaikum",
+    "assalamualaikum",
+    "asalamu alaikum",
+    "আসসালামু আলাইকুম",
+    "আসসালামু আলাইকুম।",
+    "হ্যালো",
+    "সালাম",
+}
 
 # ---------------------------------------------------------
 # QUERY REWRITE SERVICE
@@ -61,6 +73,13 @@ class QueryRewriteService:
         Rewrite a conversational query into a
         standalone retrieval query.
         """
+        normalized_query = (
+            query.strip()
+            .lower()
+        )
+
+        if normalized_query in GREETINGS:
+            return query
 
         conversation_text = (
             self._format_history(
@@ -91,6 +110,21 @@ Rules:
 5. Return only the rewritten query.
 6. If no rewrite is needed,
    return the original query.
+
+7. Greetings such as:
+   - hello
+   - hi
+   - hey
+   - assalamu alaikum
+   - হ্যালো
+   - আসসালামু আলাইকুম
+
+   should NEVER be expanded,
+   explained, translated, or rewritten.
+
+8. Very short conversational messages that
+   do not require retrieval should be returned
+   unchanged.
 """
 
         user_prompt = f"""
