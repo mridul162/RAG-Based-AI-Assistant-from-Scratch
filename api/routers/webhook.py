@@ -25,7 +25,7 @@ Service Layer
 from fastapi import (
     APIRouter,
     HTTPException,
-    Request,
+    Query,
 )
 
 from api.core.config import (
@@ -91,11 +91,17 @@ whatsapp_sender = (
 @router.get("")
 async def verify_webhook(
 
-    hub_mode: str | None = None,
+    hub_mode: str = Query(
+        alias="hub.mode"
+    ),
 
-    hub_verify_token: str | None = None,
+    hub_verify_token: str = Query(
+        alias="hub.verify_token"
+    ),
 
-    hub_challenge: str | None = None,
+    hub_challenge: str = Query(
+        alias="hub.challenge"
+    ),
 ):
 
     """
