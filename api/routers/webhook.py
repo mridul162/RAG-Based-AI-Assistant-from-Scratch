@@ -26,6 +26,7 @@ from fastapi import (
     APIRouter,
     HTTPException,
     Query,
+    Request,
 )
 
 from api.core.config import (
@@ -50,9 +51,9 @@ from api.dependencies.dependencies import (
     get_rag_service
 )
 
-from api.schemas.webhook import (
-    WebhookPayload
-)
+# from api.schemas.webhook import (
+#     WebhookPayload
+# )
 
 from api.services.whatsapp_sender import (
     WhatsAppSender
@@ -135,16 +136,14 @@ async def verify_webhook(
 @router.post("")
 async def receive_webhook(
 
-    payload: WebhookPayload,
+    request: Request,
 
     rag_service: RAGService = Depends(
         get_rag_service
     ),
 ):
 
-    whatsapp_payload = (
-        payload.payload
-    )
+    whatsapp_payload = await request.json()
 
     logger.info(
         "Received WhatsApp webhook."
@@ -180,25 +179,33 @@ async def receive_webhook(
         f"Message: {message_text}"
     )
 
-    answer = rag_service.ask(
-        phone_number=phone_number,
-        query=message_text,
-    )
+    try:
 
-    response = (
-        whatsapp_sender.send_text_message(
+        answer = rag_service.ask(
             phone_number=phone_number,
-            message=answer,
+            query=message_text,
         )
-    )
 
-    logger.info(
-        f"Answer: {answer}"
-    )
+        response = (
+            whatsapp_sender.send_text_message(
+                phone_number=phone_number,
+                message=answer,
+            )
+        )
 
-    logger.info(
-        f"WhatsApp Response: {response}"
-    )
+        logger.info(
+            f"Answer: {answer}"
+        )
+
+        logger.info(
+            f"WhatsApp Response: {response}"
+        )
+
+    except Exception as e:
+
+        logger.exception(
+            f"Webhook processing failed: {e}"
+        )
 
     return {
         "status": "received"

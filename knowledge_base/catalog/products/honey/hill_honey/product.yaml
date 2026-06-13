@@ -1,7 +1,7 @@
 schema_version: 1
 
 product_id: hill_honey
-slug: hill-honey
+slug: pahari-modhu   # Alternative: pahari-modhu
 
 name:
   bn: পাহাড়ি মধু
@@ -14,29 +14,32 @@ status: active
 visibility: public
 
 origin:
-  region: ''
+  region: 
+  - Chittagong Hill Tracts
+  - Bandarban
+  - Sylhet
+  - Rangamati
   country: Bangladesh
 
 availability:
-  seasonal: false
+  seasonal: true       # Wild hill honey is seasonal
 
 pricing:
   currency: BDT
-
-  updated_at: '2026-06-09'
-  note: Subject to seasonal change.
+  updated_at: '2026-06-11'
+  note: Premium wild honey. Subject to seasonal availability and harvest.
   variants:
   - label: 250g
     size_gm: 250
-    price: 0
+    price: 250
     in_stock: true
   - label: 500g
     size_gm: 500
-    price: 0
+    price: 500
     in_stock: true
   - label: 1kg
     size_gm: 1000
-    price: 0
+    price: 1000
     in_stock: true
 
 languages_supported:
@@ -46,30 +49,47 @@ languages_supported:
 
 aliases:
 - hill honey
-- pahad়i modhu
+- jungle honey
+- pahari modhu
+- pahari wild honey
+- wild hill honey
 - পাহাড়ি মধু
+- জংলি মধু
+- পাহাড়ের মধু
+- খাঁটি পাহাড়ি মধু
+
 tags:
 - hill
 - hill honey
 - honey
-- pahad়i modhu
+- jungle honey
+- pahari
+- pahari modhu
+- wild honey
 - পাহাড়ি
 - পাহাড়ি মধু
+- জংলি মধু
 - মধু
 
-embedding_context: ''
+embedding_context: |
+  Pure Hill Honey / পাহাড়ি মধু — Wild honey collected from the forests of the Chittagong Hill Tracts (Bandarban, Rangamati) and Sylhet region. Bees forage on diverse mountain flowers, herbs, and jungle flora, resulting in a rich, complex flavor and dark amber color. Highly valued for its purity, medicinal properties, antioxidants, and traditional health benefits. One of the most natural and potent honeys available in Bangladesh, harvested by local tribal communities.
 
 retrieval:
-  priority: 0.9
+  priority: 0.95        # Increased
   business_critical: true
   boost_terms:
-  - hill honey
-  - honey
-  - pahad়i modhu
   - পাহাড়ি মধু
+  - pahari modhu
+  - hill honey
+  - wild hill honey
+  - jungle honey
+  - খাঁটি পাহাড়ি মধু
+  - পাহাড়ের মধু
+  - জংলি মধু
+  - hill wild honey
 
 content_defaults:
   primary_language: bn
   fallback_language: en
 
-updated_at: '2026-06-09'
+updated_at: '2026-06-11'
