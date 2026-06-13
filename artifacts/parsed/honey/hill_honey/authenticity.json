@@ -1,11 +1,83 @@
 [
   {
-    "heading": "Authenticity",
+    "heading": "Document",
     "level": 1,
-    "section_id": null,
+    "section_id": "visual",
     "heading_path": [
-      "Authenticity"
+      "Document"
     ],
-    "content": ""
+    "content": "<section id=\"visual\">\n\nGenuine wild hill honey from the CHT and Sylhet regions has a distinct visual profile shaped by multi-floral jungle forage and natural harvesting conditions.\n\n| Attribute | Authentic | Suspect / Likely Fake |\n|---|---|---|\n| **Color** | Dark amber to reddish-brown; can vary by season and floral source | Uniformly pale golden or transparent yellow |\n| **Clarity** | Naturally cloudy or semi-opaque; fine particles and pollen may be visible | Perfectly clear and water-like (suggests heavy filtering or adulteration) |\n| **Texture / Viscosity** | Thick, slow-moving; drizzles in a steady, unbroken ribbon | Watery, flows too quickly, or appears artificially thickened |\n| **Crystallization** | Will naturally crystallize (partially or fully) over time, especially in cooler months | Stays permanently liquid year-round in all temperatures (may indicate added syrup) |\n| **Foam / Surface** | Small natural air bubbles possible, especially in freshly harvested batches | Excessive foaming throughout the jar suggests fermentation or adulteration |\n| **Sediment** | Fine natural sediment, pollen, or wax particles at the bottom are normal | Completely free of any sediment after months of storage is unusual for raw honey |\n\n&gt; **Note on crystallization:** Crystallized honey is a sign of purity, not spoilage. Genuine hill honey crystallizes because of its high natural glucose and pollen content. You can reliquify it by placing the jar in warm (not boiling) water.\n\n</section>"
+  },
+  {
+    "heading": "Document",
+    "level": 1,
+    "section_id": "sensory",
+    "heading_path": [
+      "Document"
+    ],
+    "content": "<section id=\"sensory\">\n\nWild hill honey carries a complex sensory profile because bees forage across hundreds of plant species — mountain flowers, medicinal herbs, and jungle flora — rather than a single cultivated crop.\n\n**Aroma:**\n- Rich, deep, and earthy with faintly floral or herbal undertones\n- A slight woody or forest note is characteristic and desirable\n- Should smell complex — not flat, not like plain sugar syrup\n- Artificially flavored honey often smells overwhelmingly sweet or has a synthetic floral note\n\n**Taste:**\n- Bold initial sweetness followed by a mild lingering bitterness or tartness\n- A gentle warmth or mild throat sensation is normal (from enzymes and pollen)\n- Multi-layered flavor; the taste should evolve slightly as you hold it in your mouth\n- Adulterated honey typically tastes one-dimensionally sweet with no finish\n\n**Texture on the palate:**\n- Slightly grainy or textured due to natural pollen content\n- Should feel dense and coat the tongue briefly\n- Watery or thin mouthfeel is a red flag\n\n**Quick home sensory test:**\n1. Place a small drop on your tongue — genuine honey leaves a slow, warm sweetness that lingers\n2. Smell the honey before tasting — it should have a noticeable natural aroma, not just sweetness\n3. Rub a drop between your fingers — real honey absorbs gradually; adulterated honey feels sticky or slides off quickly\n\n</section>"
+  },
+  {
+    "heading": "Document",
+    "level": 1,
+    "section_id": "certification",
+    "heading_path": [
+      "Document"
+    ],
+    "content": "<section id=\"certification\">\n\nBangladesh does not yet have a universal wild honey certification body, but the following checks apply:\n\n**What to ask for:**\n\n| Check | What It Confirms |\n|---|---|\n| **HMF (Hydroxymethylfurfural) test** | Fresh, unadulterated honey has low HMF (&lt; 40 mg/kg per Codex standard). High HMF indicates heat treatment or old stock |\n| **Moisture content test** | Genuine raw honey should be below 20% moisture. Above 20% risks fermentation and indicates dilution |\n| **Pollen analysis (Melissopalynology)** | Pollen profile should match CHT or Sylhet flora if origin claim is to be verified |\n| **Sucrose content test** | Natural honey has very low sucrose (&lt; 5%). High sucrose strongly indicates sugar syrup addition |\n| **Refractometer reading** | A refractometer measures Brix (sugar density). Genuine honey typically reads 78–82 Brix |\n| **pH test** | Raw honey is mildly acidic, pH 3.5–4.5. Neutral or alkaline reading is suspicious |\n\n**BSTI (Bangladesh Standards and Testing Institution):**\nProducts bearing a BSTI mark for honey (BS 1374 or relevant standard) have undergone basic quality testing. While BSTI certification does not specifically verify wild/hill origin, its absence from a commercial product warrants caution.\n\n**Seller-level transparency to expect:**\n- Harvest region (Bandarban, Rangamati, or Sylhet)\n- Approximate harvest season/month\n- Whether honey is raw/unfiltered or processed\n- Storage and handling conditions\n\n</section>"
+  },
+  {
+    "heading": "1. Sugar Syrup Addition (চিনির সিরাপ মেশানো)",
+    "level": 3,
+    "section_id": "adulteration",
+    "heading_path": [
+      "1. Sugar Syrup Addition (চিনির সিরাপ মেশানো)"
+    ],
+    "content": "**What it is:** Plain sugar or glucose syrup dissolved in water, mixed into honey to increase volume.\n\n**How to spot it:**\n- Honey tastes flat and uniformly sweet with no aftertaste\n- Dissolves very quickly and completely in water (genuine honey disperses slowly and sinks)\n- Low viscosity — pours almost like water\n- Refractometer Brix reading below 75 is suspicious\n\n---"
+  },
+  {
+    "heading": "2. Heated / Over-processed Honey (অতিরিক্ত গরম করা মধু)",
+    "level": 3,
+    "section_id": "adulteration",
+    "heading_path": [
+      "2. Heated / Over-processed Honey (অতিরিক্ত গরম করা মধু)"
+    ],
+    "content": "**What it is:** Genuine honey that has been boiled or heat-treated to extend shelf life, remove cloudiness, or ease bottling. This destroys enzymes, antioxidants, and most health properties.\n\n**How to spot it:**\n- Color is unusually uniform and clear for a \"wild\" product\n- Little to no aroma\n- HMF levels will be elevated on lab test\n- Does not crystallize even in cold storage\n\n---"
+  },
+  {
+    "heading": "3. Artificial Color or Flavor Addition",
+    "level": 3,
+    "section_id": "adulteration",
+    "heading_path": [
+      "3. Artificial Color or Flavor Addition"
+    ],
+    "content": "**What it is:** Lighter, cheaper honey or syrup tinted dark to mimic the color of wild hill honey.\n\n**How to spot it:**\n- Color appears too uniform and artificially deep\n- Aroma is synthetic or flat\n- Wipe a small amount on white tissue — genuine dark honey will leave a naturally tinted smear; artificial coloring may appear uneven or bleed differently\n\n---"
+  },
+  {
+    "heading": "4. Mislabeled Origin (উৎস জালিয়াতি)",
+    "level": 3,
+    "section_id": "adulteration",
+    "heading_path": [
+      "4. Mislabeled Origin (উৎস জালিয়াতি)"
+    ],
+    "content": "**What it is:** Commercially farmed honey (often Apis mellifera from monoculture farms) sold as \"wild hill honey\" or \"পাহাড়ি মধু.\"\n\n**How to spot it:**\n- Price is unusually low for the claimed wild/hill origin\n- Seller cannot specify harvest region, season, or community\n- Pollen analysis will show absence of CHT or Sylhet-specific flora\n- Flavor is mild and one-dimensional compared to genuine multi-floral wild honey\n\n---"
+  },
+  {
+    "heading": "5. Dilution with Water (পানি মেশানো)",
+    "level": 3,
+    "section_id": "adulteration",
+    "heading_path": [
+      "5. Dilution with Water (পানি মেশানো)"
+    ],
+    "content": "**What it is:** Water added to increase weight and volume.\n\n**How to spot it:**\n- Moisture content above 20% (measurable by refractometer)\n- Honey may ferment and smell slightly sour or alcoholic\n- Bubbles throughout the jar, not just on top\n- The classic \"drip test\": drop a small amount onto a dry surface — genuine honey holds its shape; diluted honey spreads and runs\n\n---"
+  },
+  {
+    "heading": "Quick Home Tests Summary",
+    "level": 3,
+    "section_id": "adulteration",
+    "heading_path": [
+      "Quick Home Tests Summary"
+    ],
+    "content": "| Test | Method | Genuine Honey Result |\n|---|---|---|\n| **Water drip test** | Drop honey into a glass of water | Settles to the bottom without dissolving immediately |\n| **Thumb test** | Place a drop on your thumb | Stays firm, does not spread immediately |\n| **Bread test** | Spread on bread | Bread does not become soggy quickly |\n| **Flame test** | Dip a matchstick in honey, try to light it | Genuine honey (low moisture) allows the match to light |\n| **Vinegar test** | Mix honey with water + a few drops of vinegar | No excessive foaming (foaming may indicate chalk or impurities) |\n\n&gt; ⚠️ Home tests are indicative only. For commercial purposes or serious disputes, always request a certified lab report.\n\n</section>"
   }
 ]

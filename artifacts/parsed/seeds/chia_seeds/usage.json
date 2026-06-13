@@ -1,11 +1,200 @@
 [
   {
-    "heading": "Usage",
-    "level": 1,
+    "heading": "Soaked in Water or Drinks",
+    "level": 3,
     "section_id": null,
     "heading_path": [
-      "Usage"
+      "Soaked in Water or Drinks"
     ],
-    "content": ""
+    "content": "* Mix chia seeds with water and allow them to soak until a gel forms.\n* Commonly added to lemon water, detox-style drinks, fruit-infused water, or milk-based beverages."
+  },
+  {
+    "heading": "Chia Pudding",
+    "level": 3,
+    "section_id": null,
+    "heading_path": [
+      "Chia Pudding"
+    ],
+    "content": "* One of the most popular ways to consume chia seeds.\n* Soak overnight in milk or plant-based milk to create a thick pudding-like texture."
+  },
+  {
+    "heading": "Smoothies and Shakes",
+    "level": 3,
+    "section_id": null,
+    "heading_path": [
+      "Smoothies and Shakes"
+    ],
+    "content": "* Blend soaked or dry chia seeds into smoothies and protein shakes.\n* Adds fiber, texture, and nutritional value without significantly affecting taste."
+  },
+  {
+    "heading": "Overnight Oats",
+    "level": 3,
+    "section_id": null,
+    "heading_path": [
+      "Overnight Oats"
+    ],
+    "content": "* Combine with oats, milk, yogurt, and fruits.\n* Helps create a thicker texture while increasing fiber content."
+  },
+  {
+    "heading": "Yogurt and Breakfast Bowls",
+    "level": 3,
+    "section_id": null,
+    "heading_path": [
+      "Yogurt and Breakfast Bowls"
+    ],
+    "content": "* Sprinkle over yogurt, fruit bowls, granola, or cereal.\n* Easy way to add nutrients to breakfast or snacks."
+  },
+  {
+    "heading": "Baking and Cooking",
+    "level": 3,
+    "section_id": null,
+    "heading_path": [
+      "Baking and Cooking"
+    ],
+    "content": "* Can be added to bread, muffins, pancakes, cookies, and homemade energy bars.\n* Often used as a texture-enhancing ingredient in healthy recipes."
+  },
+  {
+    "heading": "Salads and Desserts",
+    "level": 3,
+    "section_id": null,
+    "heading_path": [
+      "Salads and Desserts"
+    ],
+    "content": "* Use as a topping for salads, fruit bowls, puddings, and desserts.\n* Adds a mild crunch when used dry.\n\n</section>"
+  },
+  {
+    "heading": "General Daily Serving",
+    "level": 3,
+    "section_id": null,
+    "heading_path": [
+      "General Daily Serving"
+    ],
+    "content": "| Serving Size          | Approximate Amount                                 |\n| --------------------- | -------------------------------------------------- |\n| Beginner              | 1 teaspoon (5g) per day                            |\n| Regular Use           | 1–2 tablespoons (10–20g) per day                   |\n| Maximum Common Intake | Up to 2 tablespoons (20–25g) daily for most adults |"
+  },
+  {
+    "heading": "How to Soak Chia Seeds",
+    "level": 3,
+    "section_id": null,
+    "heading_path": [
+      "How to Soak Chia Seeds"
+    ],
+    "content": "* Mix **1 tablespoon (10–12g)** chia seeds with **150–200ml** water, milk, or another liquid.\n* Stir well to prevent clumping.\n* Allow to soak for **20–30 minutes** or overnight for a thicker texture."
+  },
+  {
+    "heading": "Hydration Tip",
+    "level": 3,
+    "section_id": null,
+    "heading_path": [
+      "Hydration Tip"
+    ],
+    "content": "* Because chia seeds absorb large amounts of liquid, adequate water intake is recommended when consuming them regularly."
+  },
+  {
+    "heading": "For Children",
+    "level": 3,
+    "section_id": null,
+    "heading_path": [
+      "For Children"
+    ],
+    "content": "* Smaller portions are generally preferred.\n* Introduce gradually and ensure seeds are properly soaked.\n\n</section>"
+  },
+  {
+    "heading": "Basic Chia Drink",
+    "level": 3,
+    "section_id": null,
+    "heading_path": [
+      "Basic Chia Drink"
+    ],
+    "content": "**Ingredients**\n\n* 1 tablespoon chia seeds\n* 1 glass water\n* Lemon juice (optional)\n* Honey or natural sweetener (optional)\n\n**Method**\n\n1. Mix chia seeds into water.\n2. Let soak for 20–30 minutes.\n3. Add lemon juice or honey if desired.\n4. Stir and serve.\n\n---"
+  },
+  {
+    "heading": "Overnight Chia Pudding",
+    "level": 3,
+    "section_id": null,
+    "heading_path": [
+      "Overnight Chia Pudding"
+    ],
+    "content": "**Ingredients**\n\n* 2 tablespoons chia seeds\n* 1 cup milk or plant-based milk\n* Fresh fruits\n* Honey or dates (optional)\n\n**Method**\n\n1. Mix chia seeds and milk.\n2. Refrigerate overnight.\n3. Top with fruits before serving.\n\n---"
+  },
+  {
+    "heading": "Chia Smoothie",
+    "level": 3,
+    "section_id": null,
+    "heading_path": [
+      "Chia Smoothie"
+    ],
+    "content": "**Ingredients**\n\n* 1 banana\n* 1 cup milk or yogurt\n* 1 tablespoon chia seeds\n* Optional fruits or nuts\n\n**Method**\n\n1. Blend all ingredients until smooth.\n2. Serve immediately.\n\n---"
+  },
+  {
+    "heading": "Yogurt &amp; Fruit Bowl",
+    "level": 3,
+    "section_id": null,
+    "heading_path": [
+      "Yogurt &amp; Fruit Bowl"
+    ],
+    "content": "**Ingredients**\n\n* Yogurt\n* Seasonal fruits\n* 1 tablespoon chia seeds\n\n**Method**\n\n1. Combine yogurt and fruits.\n2. Sprinkle chia seeds on top.\n3. Serve as a healthy breakfast or snack.\n\n---"
+  },
+  {
+    "heading": "Oats &amp; Chia Breakfast Bowl",
+    "level": 3,
+    "section_id": null,
+    "heading_path": [
+      "Oats &amp; Chia Breakfast Bowl"
+    ],
+    "content": "**Ingredients**\n\n* Rolled oats\n* Milk\n* Chia seeds\n* Nuts and fruits\n\n**Method**\n\n1. Soak oats and chia together overnight.\n2. Add fruits and nuts before eating.\n\n</section>"
+  },
+  {
+    "heading": "Avoid Consuming Large Quantities Immediately",
+    "level": 3,
+    "section_id": null,
+    "heading_path": [
+      "Avoid Consuming Large Quantities Immediately"
+    ],
+    "content": "* If new to chia seeds, start with small servings and increase gradually.\n* Sudden high fiber intake may cause digestive discomfort in some individuals."
+  },
+  {
+    "heading": "Avoid Eating Large Amounts Without Fluids",
+    "level": 3,
+    "section_id": null,
+    "heading_path": [
+      "Avoid Eating Large Amounts Without Fluids"
+    ],
+    "content": "* Chia seeds absorb significant amounts of water.\n* Consuming large quantities without adequate hydration may be uncomfortable."
+  },
+  {
+    "heading": "Avoid Poor Storage Conditions",
+    "level": 3,
+    "section_id": null,
+    "heading_path": [
+      "Avoid Poor Storage Conditions"
+    ],
+    "content": "* Store in a cool, dry place.\n* Keep the container tightly sealed to protect freshness and prevent moisture exposure."
+  },
+  {
+    "heading": "Check for Individual Sensitivities",
+    "level": 3,
+    "section_id": null,
+    "heading_path": [
+      "Check for Individual Sensitivities"
+    ],
+    "content": "* Individuals with known seed allergies or specific dietary restrictions should exercise caution.\n* Discontinue use if any adverse reaction occurs."
+  },
+  {
+    "heading": "Not a Meal Replacement",
+    "level": 3,
+    "section_id": null,
+    "heading_path": [
+      "Not a Meal Replacement"
+    ],
+    "content": "* Chia seeds are a nutrient-rich food ingredient but should be consumed as part of a balanced diet rather than as a sole food source."
+  },
+  {
+    "heading": "Medical Considerations",
+    "level": 3,
+    "section_id": null,
+    "heading_path": [
+      "Medical Considerations"
+    ],
+    "content": "* Individuals with medical conditions, swallowing difficulties, or those following specialized diets should consult a qualified healthcare professional if unsure about appropriate intake.\n\n</section>"
   }
 ]

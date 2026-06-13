@@ -1,7 +1,7 @@
 schema_version: 1
 
 product_id: chia_seeds
-slug: chia-seeds
+slug: chia-seeds   # Alternative: chia-bij
 
 name:
   bn: চিয়া বীজ
@@ -14,7 +14,7 @@ status: active
 visibility: public
 
 origin:
-  region: ''
+  region: ''          # Often imported — you can add "Australia" / "India" / "Imported" if known
   country: Bangladesh
 
 availability:
@@ -22,21 +22,16 @@ availability:
 
 pricing:
   currency: BDT
-
-  updated_at: '2026-06-09'
-  note: Subject to seasonal change.
+  updated_at: '2026-06-11'
+  note: Premium quality chia seeds. Price subject to market fluctuation.
   variants:
-  - label: 250g
-    size_gm: 250
-    price: 0
-    in_stock: true
   - label: 500g
     size_gm: 500
-    price: 0
+    price: 300
     in_stock: true
   - label: 1kg
     size_gm: 1000
-    price: 0
+    price: 600
     in_stock: true
 
 languages_supported:
@@ -44,25 +39,50 @@ languages_supported:
 - en
 - banglish
 
-aliases: []
-tags:
+aliases:
 - chia
+- chia bij
+- chia seed
 - chia seeds
-- chij়a bij
-- seeds
+- sabja seeds
+- superfood chia
 - চিয়া
 - চিয়া বীজ
+- চিয়া সীড
+- সাবজা বীজ
+
+tags:
+- chia
+- chia bij
+- chia seed
+- chia seeds
+- healthy seeds
+- sabja
+- seeds
+- superfood
+- চিয়া
+- চিয়া বীজ
+- সাবজা
 - বীজ
 
-embedding_context: ''
+embedding_context: |
+  Premium Chia Seeds (চিয়া বীজ) — Nutrient-dense superfood rich in Omega-3 fatty acids, fiber, protein, antioxidants, and essential minerals (calcium, magnesium, iron). When soaked, they form a gel that helps with digestion, weight management, and hydration. Popular for making chia pudding, smoothies, overnight oats, and as a healthy addition to drinks and desserts. A must-have for fitness enthusiasts, diabetics, and those seeking plant-based nutrition in Bangladesh.
 
 retrieval:
-  priority: 0.9
+  priority: 0.95        # Increased
   business_critical: true
-  boost_terms: []
+  boost_terms:
+  - চিয়া বীজ
+  - chia seeds
+  - chia bij
+  - চিয়া সীড
+  - sabja seeds
+  - chia seed
+  - সাবজা বীজ
+  - chia superfood
 
 content_defaults:
   primary_language: bn
   fallback_language: en
 
-updated_at: '2026-06-09'
+updated_at: '2026-06-11'

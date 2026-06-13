@@ -1,11 +1,128 @@
 [
   {
-    "heading": "Warnings",
-    "level": 1,
+    "heading": "Potential Allergens",
+    "level": 3,
     "section_id": null,
     "heading_path": [
-      "Warnings"
+      "Potential Allergens"
     ],
-    "content": ""
+    "content": "| Allergen Source | Notes                                                          |\n| --------------- | -------------------------------------------------------------- |\n| Bee products    | May affect individuals with known bee-product allergies        |\n| Pollen          | Wild honey may contain small amounts of natural pollen         |\n| Plant compounds | Derived from diverse wildflowers, herbs, and forest vegetation |"
+  },
+  {
+    "heading": "Possible Allergy Symptoms",
+    "level": 3,
+    "section_id": null,
+    "heading_path": [
+      "Possible Allergy Symptoms"
+    ],
+    "content": "Individuals with honey, pollen, or bee-product sensitivities may experience:\n\n* Itching or irritation of the mouth or throat\n* Skin rash or hives\n* Swelling of the lips, tongue, or face\n* Digestive discomfort\n* Allergic reactions ranging from mild to severe\n\nIf any signs of an allergic reaction occur, discontinue use and seek medical advice.\n\n</section>"
+  },
+  {
+    "heading": "Infants Under 12 Months",
+    "level": 3,
+    "section_id": null,
+    "heading_path": [
+      "Infants Under 12 Months"
+    ],
+    "content": "**Honey should never be given to infants younger than 12 months of age.**\n\nHoney may contain naturally occurring bacterial spores that can cause infant botulism, a rare but serious condition affecting young babies."
+  },
+  {
+    "heading": "Individuals with Honey or Bee Product Allergies",
+    "level": 3,
+    "section_id": null,
+    "heading_path": [
+      "Individuals with Honey or Bee Product Allergies"
+    ],
+    "content": "People with known allergies to:\n\n* Honey\n* Bee pollen\n* Beeswax\n* Royal jelly\n* Bee stings (especially if associated with severe allergic reactions)\n\nshould exercise caution and consult a healthcare professional before consuming honey."
+  },
+  {
+    "heading": "Individuals with Strict Sugar Restrictions",
+    "level": 3,
+    "section_id": null,
+    "heading_path": [
+      "Individuals with Strict Sugar Restrictions"
+    ],
+    "content": "Honey is a natural sweetener but still contains significant amounts of naturally occurring sugars. Individuals following medically prescribed low-sugar diets should consider total sugar intake before use.\n\n</section>"
+  },
+  {
+    "heading": "Diabetes and Blood Sugar Management",
+    "level": 3,
+    "section_id": null,
+    "heading_path": [
+      "Diabetes and Blood Sugar Management"
+    ],
+    "content": "* Honey can raise blood glucose levels.\n* People with diabetes or impaired glucose tolerance should monitor intake carefully.\n* Portion control is important, even when using natural sweeteners."
+  },
+  {
+    "heading": "Weight Management Programs",
+    "level": 3,
+    "section_id": null,
+    "heading_path": [
+      "Weight Management Programs"
+    ],
+    "content": "* Honey contains calories and natural sugars.\n* Excessive consumption may contribute to increased calorie intake."
+  },
+  {
+    "heading": "Medical Conditions Requiring Dietary Monitoring",
+    "level": 3,
+    "section_id": null,
+    "heading_path": [
+      "Medical Conditions Requiring Dietary Monitoring"
+    ],
+    "content": "Individuals managing the following conditions should consider honey consumption within their overall dietary plan:\n\n* Diabetes mellitus\n* Prediabetes\n* Metabolic syndrome\n* Obesity management programs\n* Certain medically supervised low-carbohydrate diets"
+  },
+  {
+    "heading": "Pregnancy and Breastfeeding",
+    "level": 3,
+    "section_id": null,
+    "heading_path": [
+      "Pregnancy and Breastfeeding"
+    ],
+    "content": "Honey is generally considered safe for healthy adults during pregnancy and breastfeeding when consumed as a food. Individuals with specific medical concerns should consult their healthcare provider."
+  },
+  {
+    "heading": "Medication Use",
+    "level": 3,
+    "section_id": null,
+    "heading_path": [
+      "Medication Use"
+    ],
+    "content": "No significant interactions are known with common medications when honey is consumed in typical dietary amounts. However, individuals with complex medical conditions or specialized treatment plans should seek professional advice if uncertain.\n\n</section>"
+  },
+  {
+    "heading": "General Serving Guidance",
+    "level": 3,
+    "section_id": null,
+    "heading_path": [
+      "General Serving Guidance"
+    ],
+    "content": "| Age Group               | Suggested Intake                                             |\n| ----------------------- | ------------------------------------------------------------ |\n| Adults                  | 1–2 tablespoons (15–30 g) per day is a common dietary amount |\n| Children over 1 year    | Smaller portions appropriate to age and dietary needs        |\n| Infants under 12 months | Not recommended                                              |"
+  },
+  {
+    "heading": "Important Usage Notes",
+    "level": 3,
+    "section_id": null,
+    "heading_path": [
+      "Important Usage Notes"
+    ],
+    "content": "* Honey is a concentrated source of natural sugars.\n* Excessive intake may contribute to excess calorie and sugar consumption.\n* Daily intake should be considered alongside other dietary sources of sugar.\n* Individuals with diabetes or other metabolic conditions may require lower amounts based on medical advice."
+  },
+  {
+    "heading": "Storage Safety",
+    "level": 3,
+    "section_id": null,
+    "heading_path": [
+      "Storage Safety"
+    ],
+    "content": "* Store in a clean, dry, tightly sealed container.\n* Keep away from direct sunlight and excessive heat.\n* Use a dry spoon to prevent moisture contamination.\n* Natural crystallization is normal and does not indicate spoilage."
+  },
+  {
+    "heading": "Product Safety Reminder",
+    "level": 3,
+    "section_id": null,
+    "heading_path": [
+      "Product Safety Reminder"
+    ],
+    "content": "Hill Honey is a natural food product and is **not intended to diagnose, treat, cure, or prevent any disease**. Any health-related use should be discussed with a qualified healthcare professional when appropriate.\n\n</section>"
   }
 ]

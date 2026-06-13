@@ -1,11 +1,47 @@
 [
   {
-    "heading": "Overview",
-    "level": 1,
+    "heading": "Appearance",
+    "level": 3,
     "section_id": null,
     "heading_path": [
-      "Overview"
+      "Appearance"
     ],
-    "content": ""
+    "content": "* Small oval-shaped seeds.\n* Typically black, dark gray, white, or mottled in color.\n* Smooth and glossy outer surface."
+  },
+  {
+    "heading": "Texture",
+    "level": 3,
+    "section_id": null,
+    "heading_path": [
+      "Texture"
+    ],
+    "content": "* Dry seeds have a firm, slightly crunchy texture.\n* When soaked, they become soft and develop a gelatinous outer layer."
+  },
+  {
+    "heading": "Taste",
+    "level": 3,
+    "section_id": null,
+    "heading_path": [
+      "Taste"
+    ],
+    "content": "* Mild, neutral, and slightly nutty.\n* Easily combines with other ingredients without overpowering their flavor."
+  },
+  {
+    "heading": "Aroma",
+    "level": 3,
+    "section_id": null,
+    "heading_path": [
+      "Aroma"
+    ],
+    "content": "* Very subtle and naturally earthy.\n* Generally free from strong or noticeable odors when fresh and properly stored."
+  },
+  {
+    "heading": "Nutritional Profile",
+    "level": 3,
+    "section_id": null,
+    "heading_path": [
+      "Nutritional Profile"
+    ],
+    "content": "* Rich source of dietary fiber.\n* Contains plant-based protein.\n* Naturally provides Omega-3 fatty acids (ALA).\n* Contains antioxidants and minerals such as calcium, magnesium, phosphorus, and iron.\n\n</section>"
   }
 ]

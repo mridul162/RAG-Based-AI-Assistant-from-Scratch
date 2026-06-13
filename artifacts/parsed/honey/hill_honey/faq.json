@@ -1,11 +1,146 @@
 [
   {
-    "heading": "FAQ",
-    "level": 1,
-    "section_id": null,
+    "heading": "Q1. What exactly is Hill Honey, and how is it different from regular honey?",
+    "level": 3,
+    "section_id": "faq-list",
     "heading_path": [
-      "FAQ"
+      "Q1. What exactly is Hill Honey, and how is it different from regular honey?"
     ],
-    "content": ""
+    "content": "**পাহাড়ি মধু কী এবং সাধারণ মধু থেকে এটি কীভাবে আলাদা?**\n\nHill Honey (পাহাড়ি মধু) is wild honey collected from the forests of the Chittagong Hill Tracts — primarily Bandarban and Rangamati — and the Sylhet region of Bangladesh. It is harvested by local tribal communities directly from natural beehives in the jungle, without any controlled farming or artificial feeding of bees.\n\nThe key differences from commercially farmed honey:\n\n| Factor | Hill Honey (Wild) | Commercial / Farm Honey |\n|---|---|---|\n| Bee species | Wild forest bees (multi-species) | Typically Apis mellifera (single managed species) |\n| Forage source | Hundreds of wild jungle flowers, herbs, medicinal plants | Often a single crop (e.g. mustard, litchi) |\n| Processing | Minimal — raw and unfiltered | Often filtered, heated, and processed |\n| Color | Dark amber to reddish-brown | Pale golden to light yellow |\n| Flavor | Complex, bold, slightly bitter finish | Mild and uniformly sweet |\n| Availability | Seasonal, limited quantity | Year-round, consistent supply |\n\n---"
+  },
+  {
+    "heading": "Q2. Where exactly does this honey come from?",
+    "level": 3,
+    "section_id": "faq-list",
+    "heading_path": [
+      "Q2. Where exactly does this honey come from?"
+    ],
+    "content": "**এই মধু ঠিক কোথা থেকে আসে?**\n\nThis honey is sourced from three primary regions in Bangladesh:\n\n- **Bandarban** — deep hill forest, high altitude, rich in wild flora\n- **Rangamati** — forested hills and lake-adjacent jungle areas\n- **Sylhet** — tea garden bordering forests and mixed hill vegetation\n\nBees in these regions forage across diverse mountain flowers, wild herbs, jungle fruit trees, and medicinal plants. The exact floral mix varies by season and location, which is why the color and flavor of hill honey can vary slightly batch to batch — this is normal and expected for a wild product.\n\n---"
+  },
+  {
+    "heading": "Q3. Is this honey 100% pure and raw?",
+    "level": 3,
+    "section_id": "faq-list",
+    "heading_path": [
+      "Q3. Is this honey 100% pure and raw?"
+    ],
+    "content": "**এই মধু কি ১০০% খাঁটি এবং কাঁচা?**\n\nOur Hill Honey is sourced as raw, wild honey — meaning it is not heat-treated, not artificially filtered, and has no added sugar, syrup, or preservatives. What you receive is as close to the hive as practically possible.\n\nThat said, \"100% pure\" is a strong claim in any market. We recommend being cautious of any seller — including us — who cannot tell you the harvest region, the approximate season, or how the honey was handled after collection. We encourage customers to ask these questions. Honest sourcing information is itself a quality signal.\n\n---"
+  },
+  {
+    "heading": "Q4. How do I know the honey I received is not adulterated?",
+    "level": 3,
+    "section_id": "faq-list",
+    "heading_path": [
+      "Q4. How do I know the honey I received is not adulterated?"
+    ],
+    "content": "**আমি কীভাবে বুঝব যে মধুতে ভেজাল নেই?**\n\nA few practical checks you can do at home:\n\n- **Water test:** Drop a small amount into a glass of still water. Genuine honey will sink and settle slowly without dissolving immediately. Adulterated honey with added syrup disperses quickly.\n- **Crystallization:** Over weeks or months, genuine raw honey will partially or fully crystallize. This is a sign of purity, not spoilage.\n- **Aroma:** Hill honey has a noticeable, complex forest-floral scent. If your honey smells flat or like plain sugar, that is a red flag.\n- **Viscosity:** It should drizzle slowly in a steady ribbon. Very thin or watery texture is suspicious.\n\nFor detailed indicators, refer to our `authenticity.md` document.\n\n---"
+  },
+  {
+    "heading": "Q5. My honey has crystallized. Is it spoiled?",
+    "level": 3,
+    "section_id": "faq-list",
+    "heading_path": [
+      "Q5. My honey has crystallized. Is it spoiled?"
+    ],
+    "content": "**আমার মধু জমে গেছে। এটা কি নষ্ট হয়ে গেছে?**\n\nNo — crystallization is completely normal and is actually a good sign. Raw honey with high pollen and glucose content will naturally crystallize over time, especially in cooler temperatures. This process does not affect safety, nutrition, or taste.\n\nTo reliquify crystallized honey:\n1. Place the sealed jar in a bowl of warm water (40–45°C / 104–113°F)\n2. Let it sit for 15–20 minutes, stirring occasionally\n3. Do not use boiling water or a microwave — excessive heat destroys beneficial enzymes and antioxidants\n\nHoney that never crystallizes under any conditions may have been heavily processed or adulterated with syrup.\n\n---"
+  },
+  {
+    "heading": "Q6. What does Hill Honey taste like?",
+    "level": 3,
+    "section_id": "faq-list",
+    "heading_path": [
+      "Q6. What does Hill Honey taste like?"
+    ],
+    "content": "**পাহাড়ি মধুর স্বাদ কেমন?**\n\nHill honey has a distinctly bold and complex flavor profile:\n\n- **Initial taste:** Rich, deep sweetness — noticeably stronger than farm honey\n- **Mid-palate:** Slight floral or herbal notes from the diverse jungle forage\n- **Finish:** A mild, lingering bitterness or tartness — this is characteristic of wild multi-floral honey and is not a defect\n- **Aroma:** Earthy, forest-like, with faint herbal undertones\n\nThe exact flavor varies slightly by harvest location and season. Sylhet honey may carry different floral notes than Bandarban honey. Batch-to-batch variation is normal for any wild product.\n\n---"
+  },
+  {
+    "heading": "Q7. Is Hill Honey available year-round?",
+    "level": 3,
+    "section_id": "faq-list",
+    "heading_path": [
+      "Q7. Is Hill Honey available year-round?"
+    ],
+    "content": "**পাহাড়ি মধু কি সারা বছর পাওয়া যায়?**\n\nNo. Wild hill honey is **seasonal**. Harvesting depends on when bees naturally build and fill their hives, which is tied to flowering cycles in the forest. The primary harvest seasons in Bangladesh are typically:\n\n- **Spring (February–April):** Main harvest season for many CHT regions\n- **Post-monsoon (October–November):** Secondary harvest in some areas\n\nOutside these periods, stock may be limited or unavailable. We update availability on our product page as inventory changes. If you are planning a purchase for a specific date, it is worth checking stock or asking us directly.\n\n---"
+  },
+  {
+    "heading": "Q8. Why does the color of my honey look different from what I expected or from a previous order?",
+    "level": 3,
+    "section_id": "faq-list",
+    "heading_path": [
+      "Q8. Why does the color of my honey look different from what I expected or from a previous order?"
+    ],
+    "content": "**আমার মধুর রং আগের বারের চেয়ে আলাদা কেন?**\n\nThis is normal and expected for wild honey. Color variation happens because:\n\n- **Different harvest location:** Bandarban, Rangamati, and Sylhet forests each have different dominant plant species\n- **Different harvest season:** Spring honey and post-monsoon honey draw on different blooms\n- **Natural batch variation:** Wild bees forage freely — no two hives are identical\n\nGenuine hill honey ranges from golden amber to very dark reddish-brown. Both can be authentic. Perfectly uniform color across batches would actually be more suspicious, as it suggests processing or blending.\n\n---"
+  },
+  {
+    "heading": "Q9. What are the health benefits of Hill Honey?",
+    "level": 3,
+    "section_id": "faq-list",
+    "heading_path": [
+      "Q9. What are the health benefits of Hill Honey?"
+    ],
+    "content": "**পাহাড়ি মধুর স্বাস্থ্য উপকারিতা কী কী?**\n\nWe want to be honest here: we are a food seller, not a medical provider. What we can tell you is what is generally established about raw wild honey:\n\n- Contains natural **enzymes, antioxidants, and trace minerals** that are reduced or eliminated by heat processing\n- Has known **antimicrobial properties** due to hydrogen peroxide content and low pH\n- Traditional use in the CHT region and broader Bangladesh includes soothing sore throats, supporting digestion, and wound care\n- Higher **pollen content** than processed honey, which some people value for immune and respiratory health\n\nHowever, honey is not a medicine. If you have a specific health condition, please consult a qualified physician. Do not replace prescribed treatment with honey.\n\n&gt; ⚠️ **Important:** Honey should **never** be given to children under 12 months of age due to risk of infant botulism.\n\n---"
+  },
+  {
+    "heading": "Q10. Can diabetic patients consume Hill Honey?",
+    "level": 3,
+    "section_id": "faq-list",
+    "heading_path": [
+      "Q10. Can diabetic patients consume Hill Honey?"
+    ],
+    "content": "**ডায়াবেটিস রোগীরা কি পাহাড়ি মধু খেতে পারবেন?**\n\nHoney — including wild hill honey — contains natural sugars (primarily fructose and glucose) and will raise blood sugar levels. It is not a sugar-free food.\n\nSome research suggests raw honey has a lower glycemic impact than refined sugar, but this does not make it safe for unrestricted diabetic consumption. If you are managing diabetes, please speak with your doctor before adding honey to your diet. We cannot make a recommendation on this on your behalf.\n\n---"
+  },
+  {
+    "heading": "Q11. How should I store Hill Honey?",
+    "level": 3,
+    "section_id": "faq-list",
+    "heading_path": [
+      "Q11. How should I store Hill Honey?"
+    ],
+    "content": "**পাহাড়ি মধু কীভাবে সংরক্ষণ করব?**\n\nHoney is naturally shelf-stable, but storage conditions affect quality:\n\n- **Store at room temperature** in a cool, dry place away from direct sunlight\n- **Keep the lid tightly sealed** — honey absorbs moisture from the air, which can cause fermentation\n- **Do not refrigerate** — cold temperatures accelerate crystallization (though this is harmless, it changes texture)\n- **Use a clean, dry spoon** every time — introducing water or food particles can cause spoilage\n- **Avoid heat** — storing near a stove or in direct sunlight degrades enzymes and color\n\nProperly stored, raw honey has an exceptionally long shelf life. Archaeologists have found edible honey thousands of years old. Practically, consume within 1–2 years for best flavor and potency.\n\n---"
+  },
+  {
+    "heading": "Q12. What sizes are available and what are the prices?",
+    "level": 3,
+    "section_id": "faq-list",
+    "heading_path": [
+      "Q12. What sizes are available and what are the prices?"
+    ],
+    "content": "**কোন কোন সাইজ পাওয়া যায় এবং দাম কত?**\n\n<table>\n<thead>\n<tr><th>Size</th><th>Price (BDT)</th><th>Availability</th></tr>\n</thead>\n<tbody>\n<tr><td>250g</td><td>৳250</td><td>In Stock</td></tr>\n<tr><td>500g</td><td>৳500</td><td>In Stock</td></tr>\n<tr><td>1kg</td><td>৳1,000</td><td>In Stock</td></tr>\n</tbody>\n</table>\n\nPricing is per unit and reflects the current rate as of **2026-06-11**. As a seasonal wild product, prices may adjust based on harvest availability. Any price changes will be reflected on the product page with an updated date.\n\n---"
+  },
+  {
+    "heading": "Q13. Why is Hill Honey priced the way it is? Is it worth it?",
+    "level": 3,
+    "section_id": "faq-list",
+    "heading_path": [
+      "Q13. Why is Hill Honey priced the way it is? Is it worth it?"
+    ],
+    "content": "**পাহাড়ি মধুর দাম এত কেন? এটা কি সত্যিই মূল্যবান?**\n\nWild hill honey costs more than commercially farmed honey because:\n\n- **Manual harvesting:** Local tribal collectors harvest from natural jungle hives — there is no automated or large-scale process\n- **Seasonal and limited supply:** Harvest windows are short; quantities are finite\n- **No artificial feeding:** Wild bees are not fed sugar syrup (a common commercial practice), so the honey is more nutrient-dense\n- **Transportation from remote areas:** Bandarban and Rangamati are geographically challenging to source from consistently\n\nWhether it is \"worth it\" depends on what you value. If you want raw, traceable, minimal-intervention honey with a distinct flavor, the premium reflects real sourcing costs. If you want the cheapest available sweetener, this is not the right product.\n\n---"
+  },
+  {
+    "heading": "Q14. How is the honey packaged and shipped?",
+    "level": 3,
+    "section_id": "faq-list",
+    "heading_path": [
+      "Q14. How is the honey packaged and shipped?"
+    ],
+    "content": "**মধু কীভাবে প্যাক করা হয় এবং ডেলিভারি দেওয়া হয়?**\n\n- Honey is packed in sealed jars appropriate for the size ordered (250g, 500g, 1kg)\n- Packaging is designed to prevent leakage during transit\n- Orders are shipped across Bangladesh; delivery timelines depend on your location and current stock\n- Since honey is a liquid food product, we take care with packaging, but we recommend inspecting the seal on arrival\n\nIf your order arrives with a broken seal, leakage, or visible signs of tampering, please contact us immediately with photos. We will address it.\n\n---"
+  },
+  {
+    "heading": "Q15. I ordered honey but I am not sure it is genuine. What should I do?",
+    "level": 3,
+    "section_id": "faq-list",
+    "heading_path": [
+      "Q15. I ordered honey but I am not sure it is genuine. What should I do?"
+    ],
+    "content": "**আমি মধু অর্ডার করেছি কিন্তু নিশ্চিত নই এটি খাঁটি কিনা। আমি কী করব?**\n\nFirst, run the basic home checks described in Q4 above and review our `authenticity.md` guide in full. Many properties of genuine wild honey — dark color, crystallization, strong aroma, thick texture — can seem unfamiliar if you are used to processed honey. What appears \"wrong\" may in fact be correct.\n\nIf after checking you still have a genuine concern:\n\n1. **Document it** — photograph the jar, seal, color, and texture\n2. **Contact us** directly with your order details and photos\n3. **Request a lab test** if the concern is serious — HMF level, sucrose content, and moisture tests are available through BSTI-registered labs in Bangladesh\n\nWe stand behind the sourcing of this product. Honest feedback helps us maintain quality standards and address any issues in the supply chain.\n\n---"
+  },
+  {
+    "heading": "Q16. Can I use Hill Honey for cooking or baking?",
+    "level": 3,
+    "section_id": "faq-list",
+    "heading_path": [
+      "Q16. Can I use Hill Honey for cooking or baking?"
+    ],
+    "content": "**রান্না বা বেকিংয়ে পাহাড়ি মধু ব্যবহার করা যাবে?**\n\nYes, you can — but it is worth knowing the trade-off. Heating honey above approximately 40°C (104°F) begins to degrade its natural enzymes and reduce its antioxidant content. If you are cooking with it purely for flavor and sweetness, that is fine. If you are buying it specifically for its raw, unprocessed health properties, consuming it unheated (e.g. stirred into warm — not boiling — water, drizzled over food, or eaten directly) preserves more of those properties.\n\nFor cooking: it works well as a natural sweetener in marinades, dressings, and low-heat preparations. For baking at high temperatures, you will get the flavor but fewer of the raw honey benefits.\n\n---\n\n</section>"
   }
 ]
