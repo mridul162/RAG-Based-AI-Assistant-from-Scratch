@@ -109,8 +109,15 @@ class WhatsAppSender:
             headers=headers,
 
             json=payload,
+            
+        )
 
-            timeout=30,
+        logger.error(
+            f"Status Code: {response.status_code}"
+        )
+
+        logger.error(
+            f"Response Body: {response.text}"
         )
 
         response.raise_for_status()
