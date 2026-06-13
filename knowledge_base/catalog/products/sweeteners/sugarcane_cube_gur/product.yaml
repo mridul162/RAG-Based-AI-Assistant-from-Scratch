@@ -1,42 +1,33 @@
 schema_version: 1
 
 product_id: sugarcane_cube_gur
-slug: sugarcane-cube-gur
+slug: sugarcane-cube-gur   # Alternative: akher-cube-gur
 
 name:
-  bn: আখের ঘন গুর
+  bn: আখের কিউব গুড়
   en: Sugarcane Cube Gur
 
 category: sweeteners
-subcategory: ''
+subcategory: jaggery
 
 status: active
 visibility: public
 
 origin:
-  region: ''
+  region: Rajshahi, Faridpur, Kushtia
   country: Bangladesh
 
 availability:
-  seasonal: false
+  seasonal: true        # Sugarcane gur is somewhat seasonal
 
 pricing:
   currency: BDT
-
-  updated_at: '2026-06-09'
-  note: Subject to seasonal change.
+  updated_at: '2026-06-11'
+  note: Premium traditional sugarcane cube gur. Subject to seasonal sugarcane price.
   variants:
-  - label: 250g
-    size_gm: 250
-    price: 0
-    in_stock: true
-  - label: 500g
-    size_gm: 500
-    price: 0
-    in_stock: true
   - label: 1kg
     size_gm: 1000
-    price: 0
+    price: 300
     in_stock: true
 
 languages_supported:
@@ -44,34 +35,60 @@ languages_supported:
 - en
 - banglish
 
-aliases: []
-tags:
-- akher ghn
+aliases:
+- akher cube gur
 - akher gur
-- cube
+- akher gurr
+- cane gur
 - cube gur
-- ghn gur
-- gur
-- sugarcane
-- sugarcane cube
+- deshi gur
+- desi gur
 - sugarcane gur
-- sweeteners
-- আখের
-- আখের গুর
-- আখের ঘন
-- গুর
-- ঘন
-- ঘন গুর
+- sugarcane jaggery
+- আখের গুড়
+- আখের কিউব গুড়
+- আখ গুড়
+- কিউব গুড়
+- পাটালি গুড়   # Common alternate name for block/cube gur
 
-embedding_context: ''
+tags:
+- akher gur
+- cane jaggery
+- cube gur
+- desi gur
+- gur
+- jaggery
+- sugarcane gur
+- sugarcane jaggery
+- sweetener
+- আখের গুড়
+- আখের কিউব গুড়
+- গুড়
+- কিউব গুড়
+- পাটালি গুড়
+
+embedding_context: |
+  আখের কিউব গুড় (Sugarcane Cube Gur) is traditional Bangladeshi unrefined jaggery made from fresh sugarcane juice. It is boiled and molded into convenient cube or disc shapes. It has a rich caramel-molasses flavor, dark brown color, and is widely used in Bengali sweets, pitha, payesh, tea, and as a natural sugar substitute. Sourced from prime sugarcane regions like Rajshahi, Faridpur, and Kushtia. Much healthier than refined white sugar — retains natural minerals, vitamins, and antioxidants. A staple natural sweetener in Bangladeshi households.
 
 retrieval:
-  priority: 0.9
+  priority: 0.95        # Increased
   business_critical: true
-  boost_terms: []
+  boost_terms:
+  - আখের কিউব গুড়
+  - আখের গুড়
+  - cube gur
+  - akher cube gur
+  - akher gur
+  - sugarcane gur
+  - desi gur
+  - পাটালি গুড়
+  - কিউব গুড়
+  - sugarcane jaggery
+  - natural sweetener
+  - deshi gur
 
 content_defaults:
   primary_language: bn
   fallback_language: en
 
-updated_at: '2026-06-09'
+updated_at: '2026-06-11'

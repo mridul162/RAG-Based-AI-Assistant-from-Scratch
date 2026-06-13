@@ -1,0 +1,51 @@
+[
+  {
+    "heading": "Shipping",
+    "level": 1,
+    "section_id": null,
+    "heading_path": [
+      "Shipping"
+    ],
+    "content": ""
+  },
+  {
+    "heading": "Temperature Requirements (তাপমাত্রা সংক্রান্ত প্রয়োজনীয়তা)",
+    "level": 2,
+    "section_id": null,
+    "heading_path": [
+      "Shipping",
+      "Temperature Requirements (তাপমাত্রা সংক্রান্ত প্রয়োজনীয়তা)"
+    ],
+    "content": "Sugarcane Powder Gur contains natural molasses and moisture, making it highly sensitive to temperature spikes and relative humidity fluctuations during transit.\n\n* **Transit Temperature Caps:** The product must not be exposed to continuous temperatures exceeding 30°C during shipping. Prolonged exposure to high heat causes the natural fructose and glucose to melt, resulting in severe clumping, stickiness, or structural degradation into a semi-liquid state.\n* **Seasonal Airflow Controls:** During hot summer months and peak monsoon periods (May to October), logistics vehicles must prioritize covered, well-ventilated, or dry transit zones.\n* **Humidity Warnings:** Humidity must be strictly controlled. Shipments should never be left exposed to rain or damp loading docks, as the primary packaging can absorb external moisture if structural seals fail.\n\n---"
+  },
+  {
+    "heading": "Packaging Notes (প্যাকিং সংক্রান্ত নির্দেশনা)",
+    "level": 2,
+    "section_id": null,
+    "heading_path": [
+      "Shipping",
+      "Packaging Notes (প্যাকিং সংক্রান্ত নির্দেশনা)"
+    ],
+    "content": "To protect the powdered texture from impact damage and environmental moisture, the product must follow rigorous commercial packaging standards before being dispatched:\n\n* **Primary Consumer Packaging:** The 1kg variant is securely sealed in high-barrier, food-grade, multi-layer stand-up pouches with an integrated zip-lock mechanism. This material prevents moisture ingress and air transfer.\n* **Secondary Master Shipping Cartons:** Individual 1kg pouches are packed upright into heavy-duty corrugated fiberboard boxes.\n* **Cushioning Requirements:** Void fillers, bubble wraps, or dry paper dunnage must fill any empty space inside the master box. This keeps the pouches from shifting, squeezing against each other, or bursting open under pressure during bumpy terrestrial transit across regional routes.\n\n---"
+  },
+  {
+    "heading": "Regulatory Considerations (নিয়ন্ত্রণমূলক নিয়ামকসমূহ)",
+    "level": 2,
+    "section_id": null,
+    "heading_path": [
+      "Shipping",
+      "Regulatory Considerations (নিয়ন্ত্রণমূলক নিয়ামকসমূহ)"
+    ],
+    "content": "Because this product originates as an agricultural cottage-industry product from regional hubs like Rajshahi, Faridpur, and Kushtia, certain local guidelines apply:\n\n* **Food Safety Compliance:** Domestic transit requires valid food safety and hygiene standard declarations indicating the batch is chemical-free and contains no hazardous preservatives or industrial food dyes.\n* **Weight Verifications:** Every individual shipping container is subjected to weight compliance audits to ensure that the actual weight strictly matches the declared 1000g net weight variant, preventing any cargo discrepancies at checkpoint scales.\n\n---"
+  },
+  {
+    "heading": "International Shipping (আন্তর্জাতিক শিপিং ও রপ্তানি)",
+    "level": 2,
+    "section_id": null,
+    "heading_path": [
+      "Shipping",
+      "International Shipping (আন্তর্জাতিক শিপিং ও রপ্তানি)"
+    ],
+    "content": "Exporting Sugarcane Powder Gur outside of Bangladesh involves stringent sanitary and phytosanitary (SPS) frameworks:\n\n| Shipping Requirement | Status / Regulation Details | Necessary Documentation |\n| --- | --- | --- |\n| **Phytosanitary Certification** | Required for all cross-border agricultural shipments to prove the product is free from plant pests. | Certificate issued by the Ministry of Agriculture, Bangladesh. |\n| **HS Code Classification** | Must be declared under the specific unrefined cane sugar or jaggery sub-heading. | **HS Code: 1701.13.00** (Cane sugar specified in Subheading Note 2 to this Chapter). |\n| **Customs Inspection Risks** | High moisture content or unsealed packaging may trigger customs delays, holds, or quarantine refusals in strict regulatory markets (FDA, EFSA). | Certificate of Analysis (CoA) showing accurate moisture metrics (3%–7%). |\n| **Import Bans & Restrictions** | Some international territories restrict loose artisanal agricultural powders without clear industrial labels. | Complete English-language ingredient declaration and nutritional labeling on primary pouch. |"
+  }
+]

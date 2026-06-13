@@ -1,11 +1,137 @@
 [
   {
-    "heading": "FAQ",
-    "level": 1,
-    "section_id": null,
+    "heading": "1. What exactly is sugarcane cube gur? Is it the same as regular jaggery?",
+    "level": 3,
+    "section_id": "faq",
     "heading_path": [
-      "FAQ"
+      "1. What exactly is sugarcane cube gur? Is it the same as regular jaggery?"
     ],
-    "content": ""
+    "content": "**আখের কিউব গুড় কী? এটা কি সাধারণ জ্যাগারি বা গুড়ের মতোই?**\n\nSugarcane cube gur (আখের কিউব গুড়) is unrefined jaggery made by boiling fresh sugarcane juice until it thickens, then molding it into cube or disc shapes. It is the same product category as jaggery, but the cube/block form (also called পাটালি গুড়) is more convenient to portion, store, and use compared to loose or semi-liquid gur. It is not the same as refined sugar — no chemicals, bleaching agents, or preservatives are used in authentic production.\n\n---"
+  },
+  {
+    "heading": "2. Where does this gur come from?",
+    "level": 3,
+    "section_id": "faq",
+    "heading_path": [
+      "2. Where does this gur come from?"
+    ],
+    "content": "**এই গুড় কোথা থেকে আসে?**\n\nOur sugarcane cube gur is sourced from the prime sugarcane-growing regions of Bangladesh — primarily **Rajshahi, Faridpur, and Kushtia**. These areas have a long tradition of sugarcane cultivation and gur production. The climate, soil, and generational craft knowledge of these regions contribute to the distinctive flavor profile of the product.\n\n---"
+  },
+  {
+    "heading": "3. Is this product seasonal? Can I buy it year-round?",
+    "level": 3,
+    "section_id": "faq",
+    "heading_path": [
+      "3. Is this product seasonal? Can I buy it year-round?"
+    ],
+    "content": "**এই পণ্য কি মৌসুমি? সারা বছর পাওয়া যায়?**\n\nYes, sugarcane gur is a somewhat seasonal product. Sugarcane is typically harvested and processed between **November and March** in Bangladesh. Stock is procured during this period and then sold throughout the year, but availability can become limited toward the end of the season. Price may also fluctuate depending on the sugarcane harvest that year. We recommend stocking up during peak availability if you are a regular user.\n\n---"
+  },
+  {
+    "heading": "4. How is the price determined? Why does it sometimes change?",
+    "level": 3,
+    "section_id": "faq",
+    "heading_path": [
+      "4. How is the price determined? Why does it sometimes change?"
+    ],
+    "content": "**দাম কীভাবে নির্ধারিত হয়? কেন দাম পরিবর্তন হয়?**\n\nThe current price is **BDT 300 per 1kg**. This is a premium traditional product, and its pricing reflects:\n\n- Raw sugarcane market prices, which vary seasonally\n- Cost of traditional open-fire processing (labor-intensive)\n- Sourcing from quality-verified farms in Rajshahi, Faridpur, and Kushtia\n\nBecause sugarcane is an agricultural commodity, prices are subject to change based on harvest conditions, transportation costs, and seasonal demand. Any price changes will be reflected with an updated date on the product listing.\n\n---"
+  },
+  {
+    "heading": "5. How do I know the gur I receive is genuine and not adulterated?",
+    "level": 3,
+    "section_id": "faq",
+    "heading_path": [
+      "5. How do I know the gur I receive is genuine and not adulterated?"
+    ],
+    "content": "**কীভাবে বুঝব যে গুড় আসল, ভেজাল নয়?**\n\nGenuine sugarcane cube gur has a few reliable markers:\n\n- **Color:** Deep amber to dark brown — not bright yellow or white\n- **Aroma:** Warm, smoky caramel-molasses smell — not neutral or artificially sweet\n- **Taste:** Layered sweetness with a natural molasses depth — not flat like refined sugar\n- **Dissolution:** Melts in hot water to produce a rich, amber-colored liquid with minimal white sediment\n\nFor a full breakdown of visual, sensory, and lab-based authenticity checks — and a guide to common adulteration methods — refer to the **[authenticity.md](./authenticity.md)** document for this product.\n\n---"
+  },
+  {
+    "heading": "6. Is sugarcane cube gur healthier than white sugar?",
+    "level": 3,
+    "section_id": "faq",
+    "heading_path": [
+      "6. Is sugarcane cube gur healthier than white sugar?"
+    ],
+    "content": "**আখের গুড় কি সাদা চিনির চেয়ে স্বাস্থ্যকর?**\n\nUnrefined sugarcane gur retains natural minerals and micronutrients that are stripped out during the refining of white sugar — including **iron, calcium, potassium, and magnesium**, along with trace antioxidants. It also has a slightly lower glycemic impact than white sugar, though it is still high in natural sugars and calories.\n\n**Important:** Gur is not a sugar-free or diabetic-friendly product. It should be consumed in moderation like any sweetener. It is not a medicine or supplement, and we do not make medical claims about this product. If you have a specific health condition, consult a doctor before making dietary changes.\n\n---"
+  },
+  {
+    "heading": "7. Can people with diabetes eat sugarcane gur?",
+    "level": 3,
+    "section_id": "faq",
+    "heading_path": [
+      "7. Can people with diabetes eat sugarcane gur?"
+    ],
+    "content": "**ডায়াবেটিস রোগীরা কি আখের গুড় খেতে পারবেন?**\n\nSugarcane gur is still primarily sugar (sucrose) and will raise blood glucose levels. While it is less refined than white sugar and contains trace minerals, it is **not recommended as a safe sugar substitute for people with diabetes** without medical guidance. Please consult your physician or dietitian before including gur in a diabetic diet.\n\n---"
+  },
+  {
+    "heading": "8. What are the common uses of sugarcane cube gur in cooking?",
+    "level": 3,
+    "section_id": "faq",
+    "heading_path": [
+      "8. What are the common uses of sugarcane cube gur in cooking?"
+    ],
+    "content": "**রান্নায় আখের গুড় কীভাবে ব্যবহার করা হয়?**\n\nSugarcane cube gur is a versatile traditional sweetener used in many ways:\n\n<table>\n<thead><tr><th>Use Case</th><th>Notes</th></tr></thead>\n<tbody>\n<tr><td>Tea &amp; hot drinks</td><td>Replace sugar in your cup — adds a warm, caramel depth</td></tr>\n<tr><td>Pitha (rice cakes)</td><td>Core ingredient in Bangladeshi winter pithas like chitoi, bhapa, and patishapta</td></tr>\n<tr><td>Payesh (rice pudding)</td><td>Gives a richer, more complex flavor than white sugar</td></tr>\n<tr><td>Halwa &amp; mithai</td><td>Traditional sweets and confections</td></tr>\n<tr><td>Dal &amp; savory dishes</td><td>A small amount balances acidity in lentil or tamarind-based dishes</td></tr>\n<tr><td>Baking</td><td>Can substitute for brown sugar or molasses in baked goods</td></tr>\n<tr><td>Direct consumption</td><td>Often eaten as a small post-meal sweet, especially with warm milk</td></tr>\n</tbody>\n</table>\n\n---"
+  },
+  {
+    "heading": "9. How should I store sugarcane cube gur at home?",
+    "level": 3,
+    "section_id": "faq",
+    "heading_path": [
+      "9. How should I store sugarcane cube gur at home?"
+    ],
+    "content": "**বাড়িতে গুড় কীভাবে সংরক্ষণ করব?**\n\nProper storage will preserve flavor and prevent spoilage:\n\n- Store in an **airtight container** — exposure to air causes moisture absorption and surface mold\n- Keep in a **cool, dry place** away from direct sunlight\n- **Do not refrigerate** unless absolutely necessary — condensation inside the container can speed up deterioration\n- If storing long-term (3+ months), wrapping individual cubes in parchment or food-grade wax paper before sealing helps preserve texture\n- A properly stored cube gur can last **6 to 12 months** without significant quality loss\n\nIf you notice white surface bloom (a thin crystalline layer), that is usually natural sugar crystallization — not mold. Mold will appear as fuzzy, green, or black patches and has a distinct off-smell.\n\n---"
+  },
+  {
+    "heading": "10. What is the shelf life of the product?",
+    "level": 3,
+    "section_id": "faq",
+    "heading_path": [
+      "10. What is the shelf life of the product?"
+    ],
+    "content": "**পণ্যের মেয়াদ কতদিন?**\n\nUnder proper storage conditions (airtight, cool, dry), sugarcane cube gur maintains good quality for **up to 12 months**. The dense, low-moisture cube form has better shelf stability than semi-liquid or loose gur. However, flavor and aroma are best within the first 6 months of production. Always check for signs of mold or off-smell before use, regardless of the purchase date.\n\n---"
+  },
+  {
+    "heading": "11. My gur arrived with some white powder or crystals on the surface. Is it spoiled?",
+    "level": 3,
+    "section_id": "faq",
+    "heading_path": [
+      "11. My gur arrived with some white powder or crystals on the surface. Is it spoiled?"
+    ],
+    "content": "**গুড়ের উপর সাদা গুঁড়া বা দানা দেখা যাচ্ছে — কি নষ্ট হয়ে গেছে?**\n\nNot necessarily. A white crystalline coating on the surface of cube gur is usually **natural sugar crystallization** (efflorescence) — a harmless process that occurs when natural sugars in the gur migrate to the surface, especially with temperature fluctuations during transit or storage. The gur is still safe and flavorful to use.\n\nTo distinguish crystallization from mold:\n\n| Sign | Crystallization | Mold |\n|---|---|---|\n| Appearance | Thin, dry, powdery white film | Fuzzy, green, black, or blue patches |\n| Smell | Normal gur aroma | Musty, sour, or off-smell |\n| Texture | Dry and granular | Soft, damp, or slimy |\n\nIf you see fuzzy patches or smell anything off, do not consume the product and contact us with your order details.\n\n---"
+  },
+  {
+    "heading": "12. Is the product available in sizes other than 1kg?",
+    "level": 3,
+    "section_id": "faq",
+    "heading_path": [
+      "12. Is the product available in sizes other than 1kg?"
+    ],
+    "content": "**১ কেজি ছাড়া অন্য সাইজে পাওয়া যায়?**\n\nCurrently, sugarcane cube gur is listed in a **1kg variant** at BDT 300. Other pack sizes are not listed at this time. For bulk orders (5kg, 10kg, or more), please contact us directly — bulk pricing and availability depend on seasonal stock and can be arranged separately.\n\n---"
+  },
+  {
+    "heading": "13. Is this product organic or certified in any way?",
+    "level": 3,
+    "section_id": "faq",
+    "heading_path": [
+      "13. Is this product organic or certified in any way?"
+    ],
+    "content": "**এই পণ্য কি অর্গানিক বা কোনো সার্টিফাইড?**\n\nOur sugarcane cube gur is a **traditionally produced, minimally processed** product. It does not carry a formal organic certification at this time, as third-party organic certification is not yet common for small-scale traditional gur producers in Bangladesh. What we can confirm:\n\n- No artificial colors, flavors, or preservatives are added\n- No chemical bleaching or refining processes are used\n- The product is sourced from established farms in recognized sugarcane regions\n\nIf BSTI certification or other documentation is relevant to your purchase (e.g., for institutional or commercial use), please contact us before ordering.\n\n---"
+  },
+  {
+    "heading": "14. How is this different from khejur (date palm) gur?",
+    "level": 3,
+    "section_id": "faq",
+    "heading_path": [
+      "14. How is this different from khejur (date palm) gur?"
+    ],
+    "content": "**আখের গুড় আর খেজুরের গুড়ের পার্থক্য কী?**\n\nThese are two distinct products from different raw materials:\n\n<table>\n<thead><tr><th>Attribute</th><th>Sugarcane Gur (আখের গুড়)</th><th>Date Palm Gur (খেজুরের গুড়)</th></tr></thead>\n<tbody>\n<tr><td>Raw material</td><td>Fresh sugarcane juice</td><td>Date palm sap</td></tr>\n<tr><td>Color</td><td>Deep amber to dark brown</td><td>Golden to light brown</td></tr>\n<tr><td>Flavor</td><td>Earthy, caramel-molasses, robust</td><td>Floral, delicate, slightly fermented</td></tr>\n<tr><td>Availability</td><td>Seasonal, longer window</td><td>Strictly winter seasonal (Dec–Feb)</td></tr>\n<tr><td>Texture</td><td>Denser, firmer cube form</td><td>Often softer, sometimes semi-liquid</td></tr>\n<tr><td>Common uses</td><td>Everyday cooking, tea, pitha, payesh</td><td>Premium sweets, nolen gur recipes</td></tr>\n</tbody>\n</table>\n\nBoth are legitimate, valued products. This listing is specifically for sugarcane cube gur. Do not accept khejur gur as a substitute if you ordered this product.\n\n---"
+  },
+  {
+    "heading": "15. Can I use this gur as a 1:1 substitute for white sugar in recipes?",
+    "level": 3,
+    "section_id": "faq",
+    "heading_path": [
+      "15. Can I use this gur as a 1:1 substitute for white sugar in recipes?"
+    ],
+    "content": "**রেসিপিতে সাদা চিনির বদলে সমান পরিমাণে গুড় ব্যবহার করা যাবে?**\n\nYou can substitute gur for white sugar, but a straight 1:1 swap may need slight adjustment because:\n\n- Gur has a more intense, complex sweetness — you may want to start with **slightly less** (about 80–90% of the white sugar quantity) and adjust to taste\n- Gur adds color to your dish — expect your payesh, tea, or baked goods to turn a warm amber-brown\n- Gur contains trace moisture, which can affect texture in baking — especially in cookies or pastry dough\n- The molasses flavor will be noticeable — this is desirable in traditional Bengali dishes but may be unexpected in neutral-flavored recipes\n\nAs a general starting point: **use 85g of gur for every 100g of white sugar**, then adjust based on the dish and your preference.\n\n</section>"
   }
 ]

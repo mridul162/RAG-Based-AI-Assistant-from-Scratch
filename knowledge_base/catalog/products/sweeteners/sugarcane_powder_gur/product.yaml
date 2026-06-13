@@ -1,0 +1,95 @@
+schema_version: 1
+
+product_id: sugarcane_powder_gur
+slug: sugarcane-powder-gur   # Alternative: akher-powder-gur
+
+name:
+  bn: আখের পাউডার গুড়
+  en: Sugarcane Powder Gur
+
+category: sweeteners
+subcategory: jaggery
+
+status: active
+visibility: public
+
+origin:
+  region: Rajshahi, Faridpur, Kushtia
+  country: Bangladesh
+
+availability:
+  seasonal: true        # Sugarcane gur is seasonal
+
+pricing:
+  currency: BDT
+  updated_at: '2026-06-11'
+  note: Premium traditional sugarcane powder gur. Subject to seasonal sugarcane price.
+  variants:
+  - label: 1kg
+    size_gm: 1000
+    price: 300
+    in_stock: true
+
+languages_supported:
+- bn
+- en
+- banglish
+
+aliases:
+- akher powder gur
+- akher gur powder
+- powder gur
+- powder jaggery
+- akher gur
+- cane gur
+- deshi gur
+- desi gur
+- sugarcane gur
+- sugarcane jaggery
+- আখের গুড়
+- আখের পাউডার গুড়
+- আখ গুড়
+- পাউডার গুড়
+- পাটালি গুড়
+- গুড় পাউডার
+
+tags:
+- akher gur
+- desi gur
+- gur
+- jaggery
+- powder gur
+- sugarcane gur
+- sugarcane jaggery
+- sweetener
+- আখের গুড়
+- আখের পাউডার গুড়
+- গুড়
+- পাউডার গুড়
+- পাটালি গুড়
+
+embedding_context: |
+  আখের পাউডার গুড় (Sugarcane Powder Gur) is finely ground traditional Bangladeshi jaggery made from pure sugarcane juice. Unlike solid cube or patali gur, the powder form is very convenient for quick use in tea, milk, smoothies, baking, sweets, pitha, and payesh. It has a rich caramel-molasses flavor and retains all natural minerals and nutrients. Sourced from the best sugarcane regions of Bangladesh (Rajshahi, Faridpur, Kushtia). An excellent healthy, chemical-free alternative to refined white sugar.
+
+retrieval:
+  priority: 0.95
+  business_critical: true
+  boost_terms:
+  - আখের পাউডার গুড়
+  - পাউডার গুড়
+  - akher powder gur
+  - powder gur
+  - আখের গুড়
+  - sugarcane powder gur
+  - desi gur
+  - পাটালি গুড়
+  - akher gur
+  - sugarcane jaggery
+  - natural sweetener
+  - গুড় পাউডার
+
+content_defaults:
+  primary_language: bn
+  fallback_language: en
+
+updated_at: '2026-06-11'
