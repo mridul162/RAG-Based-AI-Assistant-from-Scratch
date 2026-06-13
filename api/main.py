@@ -34,8 +34,12 @@ from api.core.config import (
     settings
 )
 
-from api.routes.chat import (
+from api.routers.chat import (
     router as chat_router
+)
+
+from api.routers.webhook import (
+    router as webhook_router
 )
 
 
@@ -56,6 +60,10 @@ app = FastAPI(
 
 app.include_router(
     chat_router
+)
+
+app.include_router(
+    webhook_router
 )
 
 

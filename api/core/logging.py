@@ -139,9 +139,9 @@ def setup_logging():
         console_handler
     )
 
-    root_logger.addHandler(
-        file_handler
-    )
+    # root_logger.addHandler(
+    #     file_handler
+    # )
 
     # -------------------------------------------------
     # Reduce noisy third-party logs
