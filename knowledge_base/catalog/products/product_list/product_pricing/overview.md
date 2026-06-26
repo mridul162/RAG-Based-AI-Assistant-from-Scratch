@@ -40,10 +40,10 @@
 
 | Product Name |
 |--------------|
-| Coconut Oil (Extra Virgin) |
-| Coconut Oil (Hot Pressed) |
-| Mustard Oil (First Pressed) |
-| Mustard Oil (Machine Pressed) |
+| Cold Pressed Coconut Oil |
+| Hot Pressed Coconut Oil |
+| Cold (First) Pressed Deshi Mustard Oil |
+| Machine Pressed Mustard Oil |
 | Black Seed Oil |
 | Olive Oil |
 
@@ -91,6 +91,7 @@
 | Golden Raisins |
 | Pumpkin Seeds |
 | Sakura Plum |
+| Red Plum |
 
 
 ## Dates
@@ -98,6 +99,5 @@
 | Product Name |
 |--------------|
 | Ajwa Dates |
-| Kalmi Jumbo Dates |
+| Kalmi Dates |
 | Sukkari Dates |
-| Sukkari Box Dates |

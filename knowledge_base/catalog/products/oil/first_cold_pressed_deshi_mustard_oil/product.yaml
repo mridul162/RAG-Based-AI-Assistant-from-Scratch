@@ -1,11 +1,11 @@
 schema_version: 1
 
-product_id: first_cold_pressed_deshi_mustard_oil
-slug: first-cold-pressed-deshi-mustard-oil   # Alternative: deshi-cold-pressed-sarisha-tel
+product_id: cold_pressed_deshi_mustard_oil
+slug: cold-pressed-deshi-mustard-oil   # Alternative: deshi-cold-pressed-sarisha-tel
 
 name:
   bn: প্রথম চাপের দেশি সরিষার তেল
-  en: First Cold Pressed Deshi Mustard Oil
+  en: Cold Pressed Deshi Mustard Oil
 
 category: oil
 subcategory: ''
@@ -101,12 +101,12 @@ retrieval:
   - দেশি সরিষার তেল
   - খাঁটি দেশি সরিষার তেল
   - সরিষার তেল
-  - first cold pressed deshi mustard oil
   - cold pressed deshi mustard oil
+  - first pressed deshi mustard oil
   - deshi mustard oil
   - mustard oil
   - কোল্ড চাপের সরিষার তেল
-  - কাঁচা সরিষার তেল
+  - সরিষার তেল
   - prothom chaper deshi sorishar tel
   - deshi tel
   - cold pressed mustard oil
