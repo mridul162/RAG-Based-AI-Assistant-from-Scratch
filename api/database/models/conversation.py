@@ -69,7 +69,7 @@ class ConversationMessageDB(Base):
 
     phone_number: Mapped[str] = (
         mapped_column(
-            String(30),
+            String(50),
             nullable=False,
             index=True
         )
