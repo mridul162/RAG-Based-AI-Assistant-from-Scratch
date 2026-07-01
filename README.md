@@ -4,7 +4,41 @@ A production-style multilingual Retrieval-Augmented Generation (RAG) system buil
 
 This project demonstrates the complete lifecycle of designing, building, evaluating, and deploying an AI assistant without relying on high-level RAG frameworks. Every major component—from knowledge base architecture and ingestion pipelines to retrieval, generation, API services, and WhatsApp integration—was designed and implemented manually to gain a deep understanding of production AI systems.
 
+## Live Demo
+
+🚀 Frontend:
+https://rag-based-ai-assistant-streamlit.onrender.com
+
+🔗 Backend API:
+https://ecommerce-ai-assistant-rvqu.onrender.com
+
+📄 API Docs:
+https://ecommerce-ai-assistant-rvqu.onrender.com/docs
+
+## Try These Questions and More
+
+- What is Kholisha Honey?
+- What are the benefits of Kalojira Flower Honey?
+- How should honey be stored?
+- Which honey is best for daily consumption?
+
 ---
+
+## Screenshots
+
+### Streamlit Web Interface
+
+The Streamlit frontend provides a user-friendly chat experience powered by the RAG pipeline and FastAPI backend.
+
+![Streamlit Demo](docs/images/streamlit_demo.png)
+
+---
+
+### WhatsApp AI Assistant
+
+The assistant is also accessible through WhatsApp Cloud API, enabling customers to interact with the knowledge base directly from WhatsApp.
+
+![WhatsApp Demo](docs/images/whatsapp_demo.png)
 
 ## Project Goals
 
