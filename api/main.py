@@ -42,15 +42,36 @@ from api.routers.webhook import (
     router as webhook_router
 )
 
+from contextlib import asynccontextmanager
+
+from api.database.base import Base
+from api.database.session import engine
+
+# IMPORTANT
+from api.database.models.conversation import (
+    ConversationMessageDB
+)
+
 
 # ---------------------------------------------------------
 # APPLICATION
 # ---------------------------------------------------------
 
+@asynccontextmanager
+async def lifespan(app: FastAPI):
+
+    Base.metadata.create_all(
+        bind=engine
+    )
+
+    yield
+
+
 app = FastAPI(
     title=settings.app_name,
     version=settings.app_version,
     debug=settings.debug,
+    lifespan=lifespan
 )
 
 
